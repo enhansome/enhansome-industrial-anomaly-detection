@@ -1,0 +1,4795 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [ECCV 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T03:31:31Z",
+            "owner": "Junhaocai27",
+            "repo": "CMDS-AD",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T01:47:18Z",
+            "owner": "cnulab",
+            "repo": "LogiCo",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [ECCV 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-27T05:27:40Z",
+            "owner": "HULEI7",
+            "repo": "IMMoE",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "ECCV 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Is Training Necessary for Anomaly Detection? [ICML 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T02:53:01Z",
+            "owner": "longkukuhi",
+            "repo": "RAD",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memory-Distilled Selection for Noise-Robust Anomaly Detection [ICML 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T13:04:45Z",
+            "owner": "SirojbekSafarov",
+            "repo": "MeDS",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T03:50:47Z",
+            "owner": "fuyunwang",
+            "repo": "MPFM-OSAD",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "ICML 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T07:50:38Z",
+            "owner": "yuanzhao-CVLAB",
+            "repo": "UniMMAD",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T09:55:53Z",
+            "owner": "CLendering",
+            "repo": "SubspaceAD",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-07T12:35:50Z",
+            "owner": "7HHHHH",
+            "repo": "VisualAD",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-26T02:19:20Z",
+            "owner": "echrao",
+            "repo": "O2MAG",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-21T06:54:32Z",
+            "owner": "MaticFuc",
+            "repo": "AnomalyVFM",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T13:01:19Z",
+            "owner": "SkyShunsuke",
+            "repo": "InversionAD",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [CVPR 2026 Findings]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T00:30:11Z",
+            "owner": "cqylunlun",
+            "repo": "CoPS",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAID: Retrieval-Augmented Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T09:47:42Z",
+            "owner": "Mingxiu-Cai",
+            "repo": "RAID",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T04:43:56Z",
+            "owner": "CoCoRessa",
+            "repo": "MoECLIP",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T04:12:13Z",
+            "owner": "zhushengxinyue",
+            "repo": "GS-CLIP",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T01:18:02Z",
+            "owner": "wistful-8029",
+            "repo": "BTP-3DAD",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T02:43:42Z",
+            "owner": "Xi-Mu-Yu",
+            "repo": "FB-CLIP",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness [CVPR 2026 Findings]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T04:22:34Z",
+            "owner": "SpatialAILab",
+            "repo": "MAGIC",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T14:48:22Z",
+            "owner": "xiaozhen228",
+            "repo": "AG-VAS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-10T14:43:20Z",
+            "owner": "OxygenLu",
+            "repo": "PDD",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-11T13:46:20Z",
+            "owner": "YizhouJin313",
+            "repo": "ReADL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T14:36:11Z",
+            "owner": "alexandor91",
+            "repo": "Shape-Anomaly-Codebook",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-31T14:52:09Z",
+            "owner": "YoojLee",
+            "repo": "AnoPLe",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "CVPR 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [ICLR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T03:07:46Z",
+            "owner": "ymxlzgy",
+            "repo": "FoundAD",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [ICLR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T16:04:48Z",
+            "owner": "CROVO1026",
+            "repo": "MRAD",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "ICLR 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T14:22:05Z",
+            "owner": "gaobb",
+            "repo": "AdaptCLIP",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T11:43:36Z",
+            "owner": "yuxin-jiang",
+            "repo": "Anomagic",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T02:59:07Z",
+            "owner": "Yanhui-Lee",
+            "repo": "IAD-R1",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T02:47:13Z",
+            "owner": "CASIA-LMC-Lab",
+            "repo": "AnomalyMoE",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T05:35:16Z",
+            "owner": "Sunny5250",
+            "repo": "CIF",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T05:35:16Z",
+            "owner": "Sunny5250",
+            "repo": "CIF",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T22:27:45Z",
+            "owner": "yulimso",
+            "repo": "AnoStyler",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T03:26:17Z",
+            "owner": "zyh16143998882",
+            "repo": "CASL",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHIMERA:Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-16T13:04:18Z",
+            "owner": "cvlab-kaist",
+            "repo": "CHIMERA",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T10:48:12Z",
+            "owner": "neymarql",
+            "repo": "QARAD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T13:19:23Z",
+            "owner": "ls1rius",
+            "repo": "MRI_FDP",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T07:59:07Z",
+            "owner": "liugang-xd",
+            "repo": "MaskAD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures [AAAI 2026]",
+          "description": "[code]",
+          "children": []
+        }
+      ],
+      "title": "AAAI 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Normal-Abnormal Guided Generalist Anomaly Detection [NeurIPS 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T03:04:17Z",
+            "owner": "JasonKyng",
+            "repo": "NAGL",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining [NeurIPS 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T09:29:59Z",
+            "owner": "xcyao00",
+            "repo": "ADPretrain",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "NeurIPS 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T14:33:01Z",
+            "owner": "HUST-SLOW",
+            "repo": "SeaS",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T08:44:24Z",
+            "owner": "boschresearch",
+            "repo": "MultiADS",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-13T08:34:31Z",
+            "owner": "xiaozhen228",
+            "repo": "DictAS",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SALAD -- Semantics-Aware Logical Anomaly Detection [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-03T11:56:07Z",
+            "owner": "MaticFuc",
+            "repo": "SALAD",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T06:17:04Z",
+            "owner": "mala-lab",
+            "repo": "FAPrompt",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-15T12:00:38Z",
+            "owner": "tzjtatata",
+            "repo": "Triad",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training-Free Industrial Defect Generation with Diffusion Models [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-01T13:39:32Z",
+            "owner": "rubymiaomiao",
+            "repo": "TF-IDG",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RareCLIP: Rarity-aware Online Zero-shot Industrial Anomaly Detection [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-20T08:46:39Z",
+            "owner": "hjf02",
+            "repo": "RareCLIP",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection[ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T13:42:16Z",
+            "owner": "ctaoaa",
+            "repo": "G2SF",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application [ICCV 2025]",
+          "description": "[data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-09T10:58:01Z",
+            "owner": "Bingyang0410",
+            "repo": "CPS2D-AD",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T08:47:16Z",
+            "owner": "MapleBoat",
+            "repo": "PASDF",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReMP-AD: Retrieval-enhanced Multi-modal Prompt Fusion for Few-Shot Industrial Visual Anomaly Detection [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-16T07:00:47Z",
+            "owner": "cshcma",
+            "repo": "ReMP-AD",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salvaging the Overlooked: Leveraging Class-Aware Contrastive Learning for Multi-Class Anomaly Detection [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T12:39:57Z",
+            "owner": "LGC-AD",
+            "repo": "AD-LGC",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "ICCV 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T11:01:15Z",
+            "owner": "guojiajeremy",
+            "repo": "Dinomaly",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T06:44:51Z",
+            "owner": "luow23",
+            "repo": "INP-Former",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly Anything: Promptable Unseen Visual Anomaly Generation [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-30T09:31:44Z",
+            "owner": "EPFL-IMOS",
+            "repo": "AnomalyAny",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-26T11:31:00Z",
+            "owner": "Mwxinnn",
+            "repo": "AA-CLIP",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-01T11:40:28Z",
+            "owner": "HUST-SLOW",
+            "repo": "AnomalyNCD",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-03T02:49:44Z",
+            "owner": "yinyjin",
+            "repo": "DualAnoDiff",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T02:09:32Z",
+            "owner": "pangdatangtt",
+            "repo": "UniNet",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Training-free Anomaly Detection with Vision and Language Foundation Models [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-19T03:01:27Z",
+            "owner": "zhang0jhon",
+            "repo": "LogSAD",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection[CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T10:38:57Z",
+            "owner": "fengyan-cv",
+            "repo": "WPFormer",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-20T14:59:51Z",
+            "owner": "MapleBoat",
+            "repo": "MulSen-AD",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection [CVPR 2025]",
+          "description": "[code coming soon]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-23T01:49:09Z",
+            "owner": "xiaozhen228",
+            "repo": "Bayes-PFL",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T20:08:15Z",
+            "owner": "farzad-bz",
+            "repo": "DeCo-Diff",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection[CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T20:08:15Z",
+            "owner": "farzad-bz",
+            "repo": "DeCo-Diff",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One-for-More: Continual Diffusion Model for Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-07T05:41:35Z",
+            "owner": "FuNz-0",
+            "repo": "One-for-More",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odd-One-Out: Anomaly Detection by Comparing with Neighbors [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-19T07:56:33Z",
+            "owner": "VICO-UoE",
+            "repo": "OddOneOutAD",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-12T05:51:43Z",
+            "owner": "jungyg",
+            "repo": "TailedCore",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-28T01:27:25Z",
+            "owner": "fuyunwang",
+            "repo": "DPDL",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T03:14:10Z",
+            "owner": "Chopper-233",
+            "repo": "Physics-AD",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images [CVPR 2025 VAND 3.0 Workshop]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T16:06:23Z",
+            "owner": "xrli-U",
+            "repo": "RoBiS",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies[CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-25T20:44:19Z",
+            "owner": "rohban-lab",
+            "repo": "PatchGuard",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization[CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T04:21:35Z",
+            "owner": "Kerio99",
+            "repo": "CMAD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When Textures Deceive: Weakly Supervised Industrial Anomaly Detection with Adapted-Loss (AL-CycleGAN) [CVPR 2025 VAND Workshop]",
+          "description": "[code][data / MCBT]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-16T00:47:56Z",
+            "owner": "ganatma",
+            "repo": "AL-CycleGAN",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Latent Schrödinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization[CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-02T03:03:51Z",
+            "owner": "ShilhoraAkshayPatel",
+            "repo": "LASB",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "CVPR 2025"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.1 Feature-Embedding-based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anomaly Detection via Reverse Distillation from One-Class Embedding [CVPR 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-23T07:02:39Z",
+            "owner": "hq-deng",
+            "repo": "RD4AD",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisiting Reverse Distillation for Anomaly Detection [CVPR 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-28T15:46:06Z",
+            "owner": "tientrandinh",
+            "repo": "Revisiting-Reverse-Distillation",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [WACV 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-28T10:24:49Z",
+            "owner": "marco-rudolph",
+            "repo": "AST",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Student-Teacher Feature Pyramid Matching for Anomaly Detection [2021]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T06:56:35Z",
+            "owner": "smiler96",
+            "repo": "PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PFM and PEFM for Image Anomaly Detection and Segmentation [CASE 2022]",
+          "description": "[TII 2022][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T06:56:35Z",
+            "owner": "smiler96",
+            "repo": "PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Discrepancy Aware Framework for Robust Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T05:37:39Z",
+            "owner": "caiyuxuan1120",
+            "repo": "DAF",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Informative knowledge distillation for image anomaly segmentation [2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-11T12:56:11Z",
+            "owner": "caoyunkang",
+            "repo": "IKD",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning deep feature correspondence for unsupervised anomaly detection and segmentation[PR 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-30T12:44:05Z",
+            "owner": "YoungGod",
+            "repo": "DFC",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memory-Distilled Selection for Noise-Robust Anomaly Detection [ICML 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T13:04:45Z",
+            "owner": "SirojbekSafarov",
+            "repo": "MeDS",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "2.1.1 Teacher-Student"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SimpleNet: A Simple Network for Image Anomaly Detection and Localization [CVPR 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T02:06:52Z",
+            "owner": "DonaldRR",
+            "repo": "SimpleNet",
+            "stars": 603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:22:11Z",
+            "owner": "cqylunlun",
+            "repo": "GLASS",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cutpaste: Self-supervised learning for anomaly detection and localization [ICCV 2021]",
+          "description": "[unofficial code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T13:53:38Z",
+            "owner": "Runinho",
+            "repo": "pytorch-cutpaste",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [2022]",
+          "description": "[unofficial code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-24T02:20:33Z",
+            "owner": "tootouch",
+            "repo": "MemSeg",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [ICPR 2024]",
+          "description": "[JIMS 2025][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T12:09:02Z",
+            "owner": "blaz-r",
+            "repo": "SuperSimpleNet",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T14:27:25Z",
+            "owner": "LucStrater",
+            "repo": "GeneralAD",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly Detection under Distribution Shift [ICCV 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T05:44:15Z",
+            "owner": "mala-lab",
+            "repo": "ADShift",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [TCSVT 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:31:42Z",
+            "owner": "cqylunlun",
+            "repo": "PBAS",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Transferable Representations for Image Anomaly Localization Using Dense Pretraining [WACV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-29T00:43:56Z",
+            "owner": "terrlo",
+            "repo": "DS2",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "2.1.2 One-Class Classification (OCC)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [WACV 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-18T19:33:51Z",
+            "owner": "gudovskiy",
+            "repo": "cflow-ad",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Same same but differnet: Semi-supervised defect detection with normalizing flows [WACV 2021]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-21T12:21:25Z",
+            "owner": "marco-rudolph",
+            "repo": "differnet",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastflow: Unsupervised anomaly detection and localization via 2d normalizing flows [2021]",
+          "description": "[unofficial code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-26T13:45:34Z",
+            "owner": "gathierry",
+            "repo": "FastFlow",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fully convolutional cross-scale-flows for image-based defect detection [WACV 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-16T14:15:16Z",
+            "owner": "marco-rudolph",
+            "repo": "cs-flow",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-08T08:20:43Z",
+            "owner": "cool-xuan",
+            "repo": "msflow",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [TII 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-05T07:55:13Z",
+            "owner": "caoyunkang",
+            "repo": "CDO",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Position Encoding Enhanced Feature Mapping for Image Anomaly Detection [2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T06:56:35Z",
+            "owner": "smiler96",
+            "repo": "PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-28T01:27:25Z",
+            "owner": "fuyunwang",
+            "repo": "DPDL",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly Detection of Defect using Energy of Point Pattern Features within Random Finite Set Framework [2021]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-23T00:04:03Z",
+            "owner": "AmmarKamoona",
+            "repo": "RFS-Energy-Anomaly-Detection-of-Defect",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [CVPR 2023]",
+          "description": "[code]",
+          "children": []
+        }
+      ],
+      "title": "2.1.3 Distribution-Map"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards total recall in industrial anomaly detection[CVPR 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T01:35:09Z",
+            "owner": "amazon-science",
+            "repo": "patchcore-inspection",
+            "stars": 1367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaDiM: A Patch Distribution Modeling Framework for Anomaly Detection and Localization [ICPR 2021]",
+          "description": "[unofficial code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-29T06:58:54Z",
+            "owner": "xiahaifeng1995",
+            "repo": "PaDiM-Anomaly-Detection-Localization-master",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFA: Coupled-Hypersphere-Based Feature Adaptation for Target-Oriented Anomaly Localization[2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-14T06:23:54Z",
+            "owner": "sungwool",
+            "repo": "CFA_for_anomaly_localization",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval [TIP 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-28T13:37:40Z",
+            "owner": "flyinghu123",
+            "repo": "CPR",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PNI : Industrial Anomaly Detection using Position and Neighborhood Information [ICCV 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-28T08:01:17Z",
+            "owner": "wogur110",
+            "repo": "PNI_anomaly_detection",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAID: Retrieval-Augmented Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T09:47:42Z",
+            "owner": "Mingxiu-Cai",
+            "repo": "RAID",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grid-Based Continuous Normal Representation for Anomaly Detection [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T08:47:41Z",
+            "owner": "tae-mo",
+            "repo": "CRAD",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REB: Reducing Biases in Representation for Industrial Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-22T09:20:01Z",
+            "owner": "ShuaiLYU",
+            "repo": "REB",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T05:04:05Z",
+            "owner": "shengtun",
+            "repo": "Eagle-Anomaly-Detection",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised Context Learning for Visual Inspection of Industrial Defects [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T02:37:19Z",
+            "owner": "wangpeng000",
+            "repo": "VisualInspection",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-14T14:14:45Z",
+            "owner": "cool-xuan",
+            "repo": "vqflow",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [ICCV 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T19:07:01Z",
+            "owner": "DeclanMcIntosh",
+            "repo": "InReaCh",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailored Transformation Invariance for Industrial Anomaly Detection [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T13:20:47Z",
+            "owner": "ML-KULeuven",
+            "repo": "LWinNN",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "2.1.4 Memory Bank"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [AAAI 2024]",
+          "description": "[code][project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-20T15:06:23Z",
+            "owner": "CASIA-LMC-Lab",
+            "repo": "AnomalyGPT",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [ICLR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T10:59:38Z",
+            "owner": "zqhang",
+            "repo": "AnomalyCLIP",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-01T14:05:40Z",
+            "owner": "FuNz-0",
+            "repo": "PromptAD",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T08:44:24Z",
+            "owner": "boschresearch",
+            "repo": "MultiADS",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-07T10:13:57Z",
+            "owner": "hq-deng",
+            "repo": "AnoVL",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T00:30:11Z",
+            "owner": "cqylunlun",
+            "repo": "CoPS",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-15T12:00:38Z",
+            "owner": "tzjtatata",
+            "repo": "Triad",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-24T09:25:59Z",
+            "owner": "Xiaohao-Xu",
+            "repo": "Customizable-VLM",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T13:22:07Z",
+            "owner": "guanwei49",
+            "repo": "EMIT",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T05:04:05Z",
+            "owner": "shengtun",
+            "repo": "Eagle-Anomaly-Detection",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T19:02:03Z",
+            "owner": "giddyyupp",
+            "repo": "VLMDiff",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-31T14:52:09Z",
+            "owner": "YoojLee",
+            "repo": "AnoPLe",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-17T07:09:08Z",
+            "owner": "LiZeWen1225",
+            "repo": "IAD-GPT",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2.1.5 Vison Language AD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.2 Reconstruction-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T05:55:37Z",
+            "owner": "cnulab",
+            "repo": "RealNet",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [ICCV 2021]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-02T08:40:33Z",
+            "owner": "VitjanZ",
+            "repo": "DRAEM",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised predictive convolutional attentive block for anomaly detection [CVPR 2022 oral]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-20T13:02:29Z",
+            "owner": "ristea",
+            "repo": "sspcab",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [ECCV 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-20T17:16:56Z",
+            "owner": "hmsch",
+            "repo": "natural-synthetic-anomalies",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection [TPAMI 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-08T16:09:40Z",
+            "owner": "ristea",
+            "repo": "ssmctb",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSR: A dual subspace re-projection network for surface anomaly detection [ECCV 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-18T10:49:52Z",
+            "owner": "VitjanZ",
+            "repo": "DSR_anomaly_detection",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-23T12:03:56Z",
+            "owner": "liutongkun",
+            "repo": "FAIR",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [ICCV 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T02:11:03Z",
+            "owner": "FzJun26th",
+            "repo": "FastRecon",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection [2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-15T12:33:25Z",
+            "owner": "liutongkun",
+            "repo": "EdgRec",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Variational Autoencoder for Anomaly Detection: A Comparative Study [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T03:00:17Z",
+            "owner": "endtheme123",
+            "repo": "VAE-compare",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revitalizing Reconstruction Models for Multi-class Anomaly Detection via Class-Aware Contrastive Learning [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T12:39:57Z",
+            "owner": "LGC-AD",
+            "repo": "AD-LGC",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "2.2.1 Autoencoder (AE)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T12:02:44Z",
+            "owner": "Ldhlwh",
+            "repo": "DFMGAN",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [TIP 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-14T03:10:41Z",
+            "owner": "zhangzjn",
+            "repo": "OCR-GAN",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [AAAI 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T10:53:46Z",
+            "owner": "Faustinaqq",
+            "repo": "CKAAD",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "2.2.2 Generative Adversarial Networks (GANs)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection [ICCV 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T09:30:46Z",
+            "owner": "xcyao00",
+            "repo": "FOD",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-scale feature reconstruction network for industrial anomaly detection [KBS 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-01T10:04:29Z",
+            "owner": "Ehteshamciitwah",
+            "repo": "MSFR",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection[2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-20T12:46:37Z",
+            "owner": "Nothingtolose9979",
+            "repo": "RAS",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "2.2.3 Transformer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiffusionAD: Denoising Diffusion for Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T12:34:42Z",
+            "owner": "HuiZhang0812",
+            "repo": "DiffusionAD",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly Detection with Conditioned Denoising Diffusion Models [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T10:36:26Z",
+            "owner": "arimousa",
+            "repo": "DDAD",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-13T13:43:02Z",
+            "owner": "hyao1",
+            "repo": "GLAD",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T13:01:19Z",
+            "owner": "SkyShunsuke",
+            "repo": "InversionAD",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-07T16:30:08Z",
+            "owner": "MaticFuc",
+            "repo": "ECCV_TransFusion",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tackling Structural Hallucination in Image Translation with Local Diffusion [ECCV 2024 oral]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T17:33:53Z",
+            "owner": "edshkim98",
+            "repo": "LocalDiffusion-Hallucination",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T13:19:23Z",
+            "owner": "ls1rius",
+            "repo": "MRI_FDP",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:26:09Z",
+            "owner": "lil-wayne-0319",
+            "repo": "fmad",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T03:50:47Z",
+            "owner": "fuyunwang",
+            "repo": "MPFM-OSAD",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "2.2.4 Diffusion Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.3 Supervised AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [AAAI 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-11T08:24:05Z",
+            "owner": "sjtuplayer",
+            "repo": "anomalydiffusion",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [ICPR 2024]",
+          "description": "[JIMS 2025][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T12:09:02Z",
+            "owner": "blaz-r",
+            "repo": "SuperSimpleNet",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T12:02:44Z",
+            "owner": "Ldhlwh",
+            "repo": "DFMGAN",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [CVPR 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-11T03:08:52Z",
+            "owner": "Choubo",
+            "repo": "DRA",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explainable deep few-shot anomaly detection with deviation networks [2021]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-29T05:17:12Z",
+            "owner": "mala-lab",
+            "repo": "deviation-network-image",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-20T16:23:51Z",
+            "owner": "mala-lab",
+            "repo": "AHL",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prototypical Residual Networks for Anomaly Detection and Localization [CVPR 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-07T02:51:43Z",
+            "owner": "xcyao00",
+            "repo": "PRNet",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [TII 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-14T02:07:43Z",
+            "owner": "caoyunkang",
+            "repo": "VarAD",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-28T01:27:25Z",
+            "owner": "fuyunwang",
+            "repo": "DPDL",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T03:50:47Z",
+            "owner": "fuyunwang",
+            "repo": "MPFM-OSAD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Tuning Self-Supervised Image Anomaly Detection [KDD 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-21T07:30:49Z",
+            "owner": "jaeminyoo",
+            "repo": "ST-SSAD",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "More Normal Samples With (Less Abnormal Samples or Weak Labels)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Small Object Few-shot Segmentation for Vision-based Industrial Inspection [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-30T02:24:15Z",
+            "owner": "zhangzilongc",
+            "repo": "SOFS",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervised Anomaly Detection for Complex Industrial Images [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-07T13:00:36Z",
+            "owner": "abc-125",
+            "repo": "segad",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-01T18:56:47Z",
+            "owner": "RashaAlshawi",
+            "repo": "DAU-Net-for-Automated-Infrastructure-Inspection",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "More Abnormal Samples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.1 Zero/Few-Shot AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Segment Any Anomaly without Training via Hybrid Prompt Regularization [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-22T04:57:10Z",
+            "owner": "caoyunkang",
+            "repo": "Segment-Any-Anomaly",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [ICLR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T10:59:38Z",
+            "owner": "zqhang",
+            "repo": "AnomalyCLIP",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuSc: Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images[ICLR 2024]",
+          "description": "[code][2025 v2]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T05:40:55Z",
+            "owner": "xrli-U",
+            "repo": "MuSc",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [TPAMI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T03:48:21Z",
+            "owner": "HUST-SLOW",
+            "repo": "MuSc-V2",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-07T23:20:51Z",
+            "owner": "caoyunkang",
+            "repo": "AdaCLIP",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APRIL-GAN: A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD [CVPRW 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-01T14:33:12Z",
+            "owner": "ByChelsea",
+            "repo": "VAND-APRIL-GAN",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T14:22:05Z",
+            "owner": "gaobb",
+            "repo": "AdaptCLIP",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [CVPR 2023]",
+          "description": "[unofficial code in AnomalyCLIP] [unofficial code in SAA] [unofficial code in mala-lab]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-08T02:41:54Z",
+            "owner": "zqhang",
+            "repo": "Accurate-WinCLIP-pytorch",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-04T12:43:21Z",
+            "owner": "xiaozhen228",
+            "repo": "VCP-CLIP",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T02:59:07Z",
+            "owner": "Yanhui-Lee",
+            "repo": "IAD-R1",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [NeurIPS 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T13:23:24Z",
+            "owner": "zqhang",
+            "repo": "PointAD",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T08:44:24Z",
+            "owner": "boschresearch",
+            "repo": "MultiADS",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-21T06:54:32Z",
+            "owner": "MaticFuc",
+            "repo": "AnomalyVFM",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-07T10:13:57Z",
+            "owner": "hq-deng",
+            "repo": "AnoVL",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T00:30:11Z",
+            "owner": "cqylunlun",
+            "repo": "CoPS",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [ICLR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T16:04:48Z",
+            "owner": "CROVO1026",
+            "repo": "MRAD",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T06:17:04Z",
+            "owner": "mala-lab",
+            "repo": "FAPrompt",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation [ACM MM 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-12T07:11:35Z",
+            "owner": "Faustinaqq",
+            "repo": "AF-CLIP",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T04:43:56Z",
+            "owner": "CoCoRessa",
+            "repo": "MoECLIP",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T19:14:29Z",
+            "owner": "Alireza99Salehi",
+            "repo": "Crane",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T02:43:42Z",
+            "owner": "Xi-Mu-Yu",
+            "repo": "FB-CLIP",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T14:48:22Z",
+            "owner": "xiaozhen228",
+            "repo": "AG-VAS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures [AAAI 2026]",
+          "description": "[code]",
+          "children": []
+        }
+      ],
+      "title": "Zero-Shot AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [AAAI 2024]",
+          "description": "[code][project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-20T15:06:23Z",
+            "owner": "CASIA-LMC-Lab",
+            "repo": "AnomalyGPT",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Registration based few-shot anomaly detection [ECCV 2022 oral]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-07T06:38:18Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "RegAD",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-01T14:05:40Z",
+            "owner": "FuNz-0",
+            "repo": "PromptAD",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InCTRL: Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-17T14:00:49Z",
+            "owner": "mala-lab",
+            "repo": "InCTRL",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T14:33:01Z",
+            "owner": "HUST-SLOW",
+            "repo": "SeaS",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [NeurIPS 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T04:58:39Z",
+            "owner": "gaobb",
+            "repo": "MetaUAS",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T12:24:11Z",
+            "owner": "gaobb",
+            "repo": "OneNIP",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T03:07:46Z",
+            "owner": "ymxlzgy",
+            "repo": "FoundAD",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [ICLR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T03:07:46Z",
+            "owner": "ymxlzgy",
+            "repo": "FoundAD",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimizing PatchCore for Few/many-shot Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-25T11:50:55Z",
+            "owner": "scortexio",
+            "repo": "patchcore-few-shot",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T00:30:11Z",
+            "owner": "cqylunlun",
+            "repo": "CoPS",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [ICCV 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T02:11:03Z",
+            "owner": "FzJun26th",
+            "repo": "FastRecon",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Small Object Few-shot Segmentation for Vision-based Industrial Inspection [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-30T02:24:15Z",
+            "owner": "zhangzilongc",
+            "repo": "SOFS",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Few-Shot Anomaly Detection via Category-Agnostic Registration Learning [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T08:14:53Z",
+            "owner": "Haoyan-Guan",
+            "repo": "CAReg",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model[BMVC 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-22T17:47:32Z",
+            "owner": "BMVC-FADE",
+            "repo": "BMVC-FADE",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-12T02:13:32Z",
+            "owner": "huzongxiang",
+            "repo": "sowa",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [AAAI 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-09T11:36:56Z",
+            "owner": "CVL-hub",
+            "repo": "KAG-prompt",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T05:35:16Z",
+            "owner": "Sunny5250",
+            "repo": "CIF",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-08T04:19:51Z",
+            "owner": "Jay-zzcoder",
+            "repo": "clip-fsac-pp",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks [CVPRW 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-21T12:28:11Z",
+            "owner": "niamhbelton",
+            "repo": "FewSOME",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-24T11:49:45Z",
+            "owner": "MingyuLee82",
+            "repo": "TGI_AD_v1",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [ECCV 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T03:31:31Z",
+            "owner": "Junhaocai27",
+            "repo": "CMDS-AD",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-31T14:52:09Z",
+            "owner": "YoojLee",
+            "repo": "AnoPLe",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Few-Shot AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SoftPatch: Unsupervised Anomaly Detection with Noisy Data [NeurIPS 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-13T09:38:08Z",
+            "owner": "TencentYoutuResearch",
+            "repo": "AnomalyDetection-SoftPatch",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [PR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-13T09:38:08Z",
+            "owner": "TencentYoutuResearch",
+            "repo": "AnomalyDetection-SoftPatch",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep one-class classification via interpolated gaussian descriptor [AAAI 2022 oral]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T03:24:52Z",
+            "owner": "tianyu0207",
+            "repo": "IGD",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [WACV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-11T13:45:54Z",
+            "owner": "SpatialAILab",
+            "repo": "FUNAD",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memory-Distilled Selection for Noise-Robust Anomaly Detection [ICML 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T13:04:45Z",
+            "owner": "SirojbekSafarov",
+            "repo": "MeDS",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [ICCV 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T19:07:01Z",
+            "owner": "DeclanMcIntosh",
+            "repo": "InReaCh",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "3.2 Noisy AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T05:55:37Z",
+            "owner": "cnulab",
+            "repo": "RealNet",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:22:11Z",
+            "owner": "cqylunlun",
+            "repo": "GLASS",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [AAAI 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-11T08:24:05Z",
+            "owner": "sjtuplayer",
+            "repo": "anomalydiffusion",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly Anything: Promptable Unseen Visual Anomaly Generation [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-30T09:31:44Z",
+            "owner": "EPFL-IMOS",
+            "repo": "AnomalyAny",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [(Reconstruction AE)ICCV 2021]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-02T08:40:33Z",
+            "owner": "VitjanZ",
+            "repo": "DRAEM",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cutpaste: Self-supervised learning for anomaly detection and localization [(OCC)ICCV 2021]",
+          "description": "[unofficial code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T13:53:38Z",
+            "owner": "Runinho",
+            "repo": "pytorch-cutpaste",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [(OCC)2022]",
+          "description": "[unofficial code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-24T02:20:33Z",
+            "owner": "tootouch",
+            "repo": "MemSeg",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [ICPR 2024]",
+          "description": "[JIMS 2025][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T12:09:02Z",
+            "owner": "blaz-r",
+            "repo": "SuperSimpleNet",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T12:02:44Z",
+            "owner": "Ldhlwh",
+            "repo": "DFMGAN",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T11:43:36Z",
+            "owner": "yuxin-jiang",
+            "repo": "Anomagic",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-25T15:27:13Z",
+            "owner": "GrandpaXun242",
+            "repo": "AdaBLDM",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection [CVPR 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-16T03:26:40Z",
+            "owner": "apple",
+            "repo": "ml-destseg",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-08T10:49:22Z",
+            "owner": "gaobb",
+            "repo": "AnoGen",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [ECCV 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-20T17:16:56Z",
+            "owner": "hmsch",
+            "repo": "natural-synthetic-anomalies",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-26T02:19:20Z",
+            "owner": "echrao",
+            "repo": "O2MAG",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-13T08:34:31Z",
+            "owner": "xiaozhen228",
+            "repo": "DictAS",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSR: A dual subspace re-projection network for surface anomaly detection [ECCV 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-18T10:49:52Z",
+            "owner": "VitjanZ",
+            "repo": "DSR_anomaly_detection",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [TCSVT 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:31:42Z",
+            "owner": "cqylunlun",
+            "repo": "PBAS",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniADC: A Unified Framework for Anomaly Detection and Classification [2025]",
+          "description": "[code is comming]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T01:51:37Z",
+            "owner": "cnulab",
+            "repo": "UniADC",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [2024]",
+          "description": "[data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T13:53:21Z",
+            "owner": "hujiecpp",
+            "repo": "MVTec-Caption",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T22:27:45Z",
+            "owner": "yulimso",
+            "repo": "AnoStyler",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map [CVPRW 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-28T08:14:32Z",
+            "owner": "covisionlab",
+            "repo": "diffusion_labeling",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-16T13:04:18Z",
+            "owner": "cvlab-kaist",
+            "repo": "CHIMERA",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T10:48:12Z",
+            "owner": "neymarql",
+            "repo": "QARAD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SynSpill: Improved Industrial Spill Detection With Synthetic Data [ICCVW 2025 oral]",
+          "description": "[code][homepage]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-10T19:36:26Z",
+            "owner": "eternal-f1ame",
+            "repo": "SynSpill",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [TAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-11T06:29:39Z",
+            "owner": "M-3LAB",
+            "repo": "ASBench",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "3.3 Anomaly Synthesis [awesome-anomaly-synthesis]"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multimodal Industrial Anomaly Detection via Hybrid Fusion [CVPR 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-08T08:52:50Z",
+            "owner": "nomewang",
+            "repo": "M3DM",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-28T14:31:21Z",
+            "owner": "eliahuhorwitz",
+            "repo": "3D-ADS",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-04T02:28:12Z",
+            "owner": "caoyunkang",
+            "repo": "CPMF",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-17T03:31:05Z",
+            "owner": "Chopper-233",
+            "repo": "Anomaly-ShapeNet",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [WACV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-13T11:47:21Z",
+            "owner": "VitjanZ",
+            "repo": "3DSR",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cross-Modal Distillation in Industrial Anomaly Detection: Exploring Efficient Multi-Modal IAD [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T09:18:35Z",
+            "owner": "evenrose",
+            "repo": "CMDIAD",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T05:35:16Z",
+            "owner": "Sunny5250",
+            "repo": "CIF",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection[ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T13:42:16Z",
+            "owner": "ctaoaa",
+            "repo": "G2SF",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [2023]",
+          "description": "[data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-09T04:38:30Z",
+            "owner": "Andy-cs008",
+            "repo": "PD-REAL",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "3.4 RGBD AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [TPAMI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T03:48:21Z",
+            "owner": "HUST-SLOW",
+            "repo": "MuSc-V2",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real3D-AD: A Dataset of Point Cloud Anomaly Detection [NeurIPS 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-13T11:30:37Z",
+            "owner": "M-3LAB",
+            "repo": "Real3D-AD",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T04:23:24Z",
+            "owner": "hustCYQ",
+            "repo": "MVP-PCLIP",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-20T14:59:51Z",
+            "owner": "MapleBoat",
+            "repo": "MulSen-AD",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [NeurIPS 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T13:23:24Z",
+            "owner": "zqhang",
+            "repo": "PointAD",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [PR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-04T02:28:12Z",
+            "owner": "caoyunkang",
+            "repo": "CPMF",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [CVPR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-17T03:31:05Z",
+            "owner": "Chopper-233",
+            "repo": "Anomaly-ShapeNet",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-View Reconstruction with Global Context for 3D Anomaly Detection [IEEE SMC 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-01T07:50:23Z",
+            "owner": "hustSYH",
+            "repo": "MVR",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T01:18:02Z",
+            "owner": "wistful-8029",
+            "repo": "BTP-3DAD",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [AAAI 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-05T07:44:23Z",
+            "owner": "M-3LAB",
+            "repo": "Look-Inside-for-More",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T08:47:16Z",
+            "owner": "MapleBoat",
+            "repo": "PASDF",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIAD: Pose and Illumination agnostic Anomaly Detection [CVPR 2025]",
+          "description": "[code][data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-11T04:07:20Z",
+            "owner": "Kaichen-Yang",
+            "repo": "piad_baseline",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T03:26:17Z",
+            "owner": "zyh16143998882",
+            "repo": "CASL",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning [ACM MM 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-08T03:49:24Z",
+            "owner": "M-3LAB",
+            "repo": "Group3AD",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [2025]",
+          "description": "[code is comming]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-08T00:37:23Z",
+            "owner": "Bingyang0410",
+            "repo": "CPS3D-Seg",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-31T10:28:30Z",
+            "owner": "hzzzzzhappy",
+            "repo": "MC4AD",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [2025]",
+          "description": "[data][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T22:06:39Z",
+            "owner": "PaulMcHard",
+            "repo": "3D-ADAMBench",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "3.5 3D AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [AAAI 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-06T16:38:56Z",
+            "owner": "jiaq-liu",
+            "repo": "UCAD",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [IJCAI 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-18T03:43:41Z",
+            "owner": "HULEI7",
+            "repo": "ReplayCAD",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Incremental Unified Framework for Small Defect Inspection [ECCV2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-17T06:18:38Z",
+            "owner": "jqtangust",
+            "repo": "IUF",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T04:12:13Z",
+            "owner": "zhushengxinyue",
+            "repo": "GS-CLIP",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T08:57:11Z",
+            "owner": "hzzzzzhappy",
+            "repo": "C3DAD",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T14:36:11Z",
+            "owner": "alexandor91",
+            "repo": "Shape-Anomaly-Codebook",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "3.6 Continual AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T11:01:15Z",
+            "owner": "guojiajeremy",
+            "repo": "Dinomaly",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-29T11:52:14Z",
+            "owner": "zhangzjn",
+            "repo": "ADer",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Model for Multi-class Anomaly Detection [NeurIPS 2022]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T04:17:24Z",
+            "owner": "zhiyuanyou",
+            "repo": "UniAD",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [CVPR 2025]",
+          "description": "[code coming soon]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T02:09:32Z",
+            "owner": "pangdatangtt",
+            "repo": "UniNet",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResAD: A Simple Framework for Class Generalizable Anomaly Detection [NeurIPS 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T09:20:09Z",
+            "owner": "xcyao00",
+            "repo": "ResAD",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Incremental Unified Framework for Small Defect Inspection [ECCV2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-17T06:18:38Z",
+            "owner": "jqtangust",
+            "repo": "IUF",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [TASE 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-09T07:36:53Z",
+            "owner": "hustCYQ",
+            "repo": "GLFM-Multi-class-3DAD",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [NeurIPS 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-20T07:03:07Z",
+            "owner": "RuiyingLu",
+            "repo": "HVQ-Trans",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoEAD: A Parameter-efficient Model for Multi-class Anomaly Detection [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T12:18:26Z",
+            "owner": "TheStarOfMSY",
+            "repo": "MoEAD",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continuous Memory Representation for Anomaly Detection [ECCV 2024]",
+          "description": "[homepage][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T08:47:41Z",
+            "owner": "tae-mo",
+            "repo": "CRAD",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection [TII 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:32:53Z",
+            "owner": "cqylunlun",
+            "repo": "CRAS",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection [ECCV 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T09:30:24Z",
+            "owner": "xcyao00",
+            "repo": "HGAD",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-15T16:21:09Z",
+            "owner": "YoojLee",
+            "repo": "Uniformaly",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revitalizing Reconstruction Models for Multi-class Anomaly Detection via Class-Aware Contrastive Learning [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T12:39:57Z",
+            "owner": "LGC-AD",
+            "repo": "AD-LGC",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [IJCAI 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T12:45:12Z",
+            "owner": "jiayi-art",
+            "repo": "MC3D-AD",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-02T19:02:03Z",
+            "owner": "giddyyupp",
+            "repo": "VLMDiff",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T07:59:07Z",
+            "owner": "liugang-xd",
+            "repo": "MaskAD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [Data Intelligence 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-20T08:43:24Z",
+            "owner": "Qiqigeww",
+            "repo": "CRR-MUAD",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "3.7 Uniform/Multi-Class AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards Training-free Anomaly Detection with Vision and Language Foundation Models [CVPR 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-19T03:01:27Z",
+            "owner": "zhang0jhon",
+            "repo": "LogSAD",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [AAAI 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-09T08:02:43Z",
+            "owner": "oopil",
+            "repo": "PSAD_logical_anomaly_detection",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection [BMVC 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-22T15:33:45Z",
+            "owner": "Tokichan",
+            "repo": "CSAD",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SALAD -- Semantics-Aware Logical Anomaly Detection [ICCV 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-03T11:56:07Z",
+            "owner": "MaticFuc",
+            "repo": "SALAD",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Set Features for Fine-grained Anomaly Detection[2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-10T22:02:41Z",
+            "owner": "NivC",
+            "repo": "SINBAD",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervised Anomaly Detection for Complex Industrial Images [2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-07T13:00:36Z",
+            "owner": "abc-125",
+            "repo": "segad",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REB: Reducing Biases in Representation for Industrial Anomaly Detection [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-22T09:20:01Z",
+            "owner": "ShuaiLYU",
+            "repo": "REB",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [2024]",
+          "description": "[data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T13:53:21Z",
+            "owner": "hujiecpp",
+            "repo": "MVTec-Caption",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection [TCSVT 2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-13T14:25:48Z",
+            "owner": "hmyao22",
+            "repo": "GLCF",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [2026]",
+          "description": "[data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T09:46:43Z",
+            "owner": "nkthiroto",
+            "repo": "VID-AD",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[TMLR 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-24T13:10:01Z",
+            "owner": "sukanyapatra1997",
+            "repo": "ULSAD-2024",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T01:47:18Z",
+            "owner": "cnulab",
+            "repo": "LogiCo",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction [AAAI 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T19:13:55Z",
+            "owner": "jasonjin34",
+            "repo": "logicAD",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "3.8 Logical AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [AAAI 2024]",
+          "description": "[code][project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-20T15:06:23Z",
+            "owner": "CASIA-LMC-Lab",
+            "repo": "AnomalyGPT",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [ICLR 2025]",
+          "description": "[Code] [Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T10:54:39Z",
+            "owner": "jam-cc",
+            "repo": "MMAD",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [2023]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-04T02:29:19Z",
+            "owner": "caoyunkang",
+            "repo": "GPT4V-for-Generic-Anomaly-Detection",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [AAAI 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T02:59:07Z",
+            "owner": "Yanhui-Lee",
+            "repo": "IAD-R1",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison [2026]",
+          "description": "[Code][Model][Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T06:53:47Z",
+            "owner": "jam-cc",
+            "repo": "AD-Copilot",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection [IJCAI WORKSHOP 2024]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-07T10:01:05Z",
+            "owner": "zhangzjn",
+            "repo": "GPT-4V-AD",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T13:22:07Z",
+            "owner": "guanwei49",
+            "repo": "EMIT",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection [2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T09:27:07Z",
+            "owner": "mala-lab",
+            "repo": "AnomalyAgent",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-10T06:28:27Z",
+            "owner": "Yanhui-Lee",
+            "repo": "M3-AD",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection [2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-07T16:18:19Z",
+            "owner": "chenpeng052",
+            "repo": "Reason-IAD",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-11T13:46:20Z",
+            "owner": "YizhouJin313",
+            "repo": "ReADL",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "3.9 MLLM-based AD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other settings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [CVPR 2026]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T07:50:38Z",
+            "owner": "yuanzhao-CVLAB",
+            "repo": "UniMMAD",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-30T07:36:39Z",
+            "owner": "guojiajeremy",
+            "repo": "Dinomaly2",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unified Unsupervised Anomaly Detection via Matching Cost Filtering [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T03:15:24Z",
+            "owner": "ZHE-SAPI",
+            "repo": "CostFilter-AD",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniADC: A Unified Framework for Anomaly Detection and Classification [2025]",
+          "description": "[code is comming]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T01:51:37Z",
+            "owner": "cnulab",
+            "repo": "UniADC",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [AAAI 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T02:47:13Z",
+            "owner": "CASIA-LMC-Lab",
+            "repo": "AnomalyMoE",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Universal Task"
+    },
+    {
+      "description": "If you find this paper and repository useful, please cite our paper☺️.",
+      "items": [],
+      "title": "BibTex Citation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:45.707Z",
+    "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
+    "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
+    "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Industrial Anomaly Detection with stars"
+  }
+}
