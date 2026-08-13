@@ -1269,7 +1269,7 @@
             "last_commit": "2024-08-12T02:06:52Z",
             "owner": "DonaldRR",
             "repo": "SimpleNet",
-            "stars": 603
+            "stars": 604
           }
         },
         {
@@ -1539,7 +1539,7 @@
             "last_commit": "2024-07-10T01:35:09Z",
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "last_commit": "2026-05-14T03:48:21Z",
             "owner": "HUST-SLOW",
             "repo": "MuSc-V2",
-            "stars": 331
+            "stars": 332
           }
         },
         {
@@ -3766,7 +3766,7 @@
             "last_commit": "2026-05-14T03:48:21Z",
             "owner": "HUST-SLOW",
             "repo": "MuSc-V2",
-            "stars": 331
+            "stars": 332
           }
         },
         {
@@ -4785,7 +4785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:18:45.707Z",
+    "last_updated": "2026-08-13T06:51:56.927Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
