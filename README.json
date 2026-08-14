@@ -124,7 +124,7 @@
             "last_commit": "2026-07-15T09:55:53Z",
             "owner": "CLendering",
             "repo": "SubspaceAD",
-            "stars": 230
+            "stars": 232
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-06-07T12:35:50Z",
             "owner": "7HHHHH",
             "repo": "VisualAD",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-03-26T02:19:20Z",
             "owner": "echrao",
             "repo": "O2MAG",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-04-27T08:44:24Z",
             "owner": "boschresearch",
             "repo": "MultiADS",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-05-21T11:01:15Z",
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 511
+            "stars": 512
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "last_commit": "2024-08-12T02:06:52Z",
             "owner": "DonaldRR",
             "repo": "SimpleNet",
-            "stars": 604
+            "stars": 606
           }
         },
         {
@@ -1539,7 +1539,7 @@
             "last_commit": "2024-07-10T01:35:09Z",
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -1769,7 +1769,7 @@
             "last_commit": "2026-04-27T08:44:24Z",
             "owner": "boschresearch",
             "repo": "MultiADS",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -2680,7 +2680,7 @@
             "last_commit": "2026-04-27T08:44:24Z",
             "owner": "boschresearch",
             "repo": "MultiADS",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -3460,7 +3460,7 @@
             "last_commit": "2026-03-26T02:19:20Z",
             "owner": "echrao",
             "repo": "O2MAG",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -4100,7 +4100,7 @@
             "last_commit": "2026-05-21T11:01:15Z",
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 511
+            "stars": 512
           }
         },
         {
@@ -4725,7 +4725,7 @@
             "last_commit": "2026-05-30T07:36:39Z",
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -4785,7 +4785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:51:56.927Z",
+    "last_updated": "2026-08-14T06:49:43.808Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
