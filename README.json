@@ -38,11 +38,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2026-06-27T05:27:40Z",
+            "language": "Python",
+            "last_commit": "2026-08-16T09:31:11Z",
             "owner": "HULEI7",
             "repo": "IMMoE",
-            "stars": 1
+            "stars": 3
           }
         }
       ],
@@ -124,7 +124,7 @@
             "last_commit": "2026-07-15T09:55:53Z",
             "owner": "CLendering",
             "repo": "SubspaceAD",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2026-03-13T16:04:48Z",
             "owner": "CROVO1026",
             "repo": "MRAD",
-            "stars": 49
+            "stars": 50
           }
         }
       ],
@@ -402,7 +402,7 @@
             "last_commit": "2026-02-05T14:22:05Z",
             "owner": "gaobb",
             "repo": "AdaptCLIP",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -1553,7 +1553,7 @@
             "last_commit": "2023-11-29T06:58:54Z",
             "owner": "xiahaifeng1995",
             "repo": "PaDiM-Anomaly-Detection-Localization-master",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "last_commit": "2026-05-14T03:48:21Z",
             "owner": "HUST-SLOW",
             "repo": "MuSc-V2",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-02-05T14:22:05Z",
             "owner": "gaobb",
             "repo": "AdaptCLIP",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -2736,7 +2736,7 @@
             "last_commit": "2026-03-13T16:04:48Z",
             "owner": "CROVO1026",
             "repo": "MRAD",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -3766,7 +3766,7 @@
             "last_commit": "2026-05-14T03:48:21Z",
             "owner": "HUST-SLOW",
             "repo": "MuSc-V2",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -4021,7 +4021,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-06-18T03:43:41Z",
+            "last_commit": "2026-08-16T09:41:49Z",
             "owner": "HULEI7",
             "repo": "ReplayCAD",
             "stars": 60
@@ -4175,20 +4175,6 @@
         },
         {
           "node_type": "item",
-          "title": "Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [TASE 2025]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-09T07:36:53Z",
-            "owner": "hustCYQ",
-            "repo": "GLFM-Multi-class-3DAD",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [NeurIPS 2023]",
           "description": "[code]",
           "children": [],
@@ -4199,6 +4185,20 @@
             "owner": "RuiyingLu",
             "repo": "HVQ-Trans",
             "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [TASE 2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-09T07:36:53Z",
+            "owner": "hustCYQ",
+            "repo": "GLFM-Multi-class-3DAD",
+            "stars": 47
           }
         },
         {
@@ -4785,7 +4785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:49:37.683Z",
+    "last_updated": "2026-08-17T05:55:12.044Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
