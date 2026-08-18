@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T03:31:31Z",
+            "last_commit": "2026-08-18T04:26:21Z",
             "owner": "Junhaocai27",
             "repo": "CMDS-AD",
             "stars": 9
@@ -90,7 +90,7 @@
             "last_commit": "2026-05-19T03:50:47Z",
             "owner": "fuyunwang",
             "repo": "MPFM-OSAD",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -110,7 +110,7 @@
             "last_commit": "2026-05-20T07:50:38Z",
             "owner": "yuanzhao-CVLAB",
             "repo": "UniMMAD",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-15T09:55:53Z",
+            "last_commit": "2026-08-17T12:58:47Z",
             "owner": "CLendering",
             "repo": "SubspaceAD",
-            "stars": 235
+            "stars": 236
           }
         },
         {
@@ -616,7 +616,7 @@
             "last_commit": "2025-08-04T14:33:01Z",
             "owner": "HUST-SLOW",
             "repo": "SeaS",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -818,7 +818,7 @@
             "last_commit": "2026-05-26T06:44:51Z",
             "owner": "luow23",
             "repo": "INP-Former",
-            "stars": 315
+            "stars": 316
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "last_commit": "2024-08-12T02:06:52Z",
             "owner": "DonaldRR",
             "repo": "SimpleNet",
-            "stars": 603
+            "stars": 602
           }
         },
         {
@@ -1539,7 +1539,7 @@
             "last_commit": "2024-07-10T01:35:09Z",
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1369
+            "stars": 1370
           }
         },
         {
@@ -1741,7 +1741,7 @@
             "last_commit": "2025-07-08T10:59:38Z",
             "owner": "zqhang",
             "repo": "AnomalyCLIP",
-            "stars": 657
+            "stars": 658
           }
         },
         {
@@ -1934,7 +1934,7 @@
             "last_commit": "2023-01-02T08:40:33Z",
             "owner": "VitjanZ",
             "repo": "DRAEM",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -2265,20 +2265,6 @@
         },
         {
           "node_type": "item",
-          "title": "How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [2025]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T17:26:09Z",
-            "owner": "lil-wayne-0319",
-            "repo": "fmad",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
           "description": "[code]",
           "children": [],
@@ -2288,6 +2274,20 @@
             "last_commit": "2026-05-19T03:50:47Z",
             "owner": "fuyunwang",
             "repo": "MPFM-OSAD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [2025]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:26:09Z",
+            "owner": "lil-wayne-0319",
+            "repo": "fmad",
             "stars": 3
           }
         }
@@ -2439,7 +2439,7 @@
             "last_commit": "2026-05-19T03:50:47Z",
             "owner": "fuyunwang",
             "repo": "MPFM-OSAD",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -2540,7 +2540,7 @@
             "last_commit": "2025-07-08T10:59:38Z",
             "owner": "zqhang",
             "repo": "AnomalyCLIP",
-            "stars": 657
+            "stars": 658
           }
         },
         {
@@ -2902,7 +2902,7 @@
             "last_commit": "2025-08-04T14:33:01Z",
             "owner": "HUST-SLOW",
             "repo": "SeaS",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -3137,7 +3137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T03:31:31Z",
+            "last_commit": "2026-08-18T04:26:21Z",
             "owner": "Junhaocai27",
             "repo": "CMDS-AD",
             "stars": 9
@@ -3320,7 +3320,7 @@
             "last_commit": "2023-01-02T08:40:33Z",
             "owner": "VitjanZ",
             "repo": "DRAEM",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -4658,7 +4658,7 @@
             "last_commit": "2026-02-10T06:28:27Z",
             "owner": "Yanhui-Lee",
             "repo": "M3-AD",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -4711,7 +4711,7 @@
             "last_commit": "2026-05-20T07:50:38Z",
             "owner": "yuanzhao-CVLAB",
             "repo": "UniMMAD",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -4785,7 +4785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:55:12.044Z",
+    "last_updated": "2026-08-18T05:50:36.944Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
