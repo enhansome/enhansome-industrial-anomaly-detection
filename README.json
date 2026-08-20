@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 1273385551,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:12:21Z",
+                "last_commit": "2026-08-20T02:54:57Z",
                 "owner": "Junhaocai27",
                 "repo": "CMDS-AD",
                 "stars": 10
@@ -121,7 +121,7 @@
                 "last_commit": "2026-05-20T07:50:38Z",
                 "owner": "yuanzhao-CVLAB",
                 "repo": "UniMMAD",
-                "stars": 243
+                "stars": 244
               }
             },
             {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-08-19T02:31:45Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6062
+            "stars": 6065
           }
         },
         {
@@ -3570,7 +3570,7 @@
                     "archived": false,
                     "id": 1273385551,
                     "language": "Python",
-                    "last_commit": "2026-08-18T15:12:21Z",
+                    "last_commit": "2026-08-20T02:54:57Z",
                     "owner": "Junhaocai27",
                     "repo": "CMDS-AD",
                     "stars": 10
@@ -5272,7 +5272,7 @@
                     "last_commit": "2026-05-20T07:50:38Z",
                     "owner": "yuanzhao-CVLAB",
                     "repo": "UniMMAD",
-                    "stars": 243
+                    "stars": 244
                   }
                 },
                 {
@@ -5851,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:40:02.620Z",
+    "last_updated": "2026-08-20T05:52:10.470Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_id": 573313337,
     "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
