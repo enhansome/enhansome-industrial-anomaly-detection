@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-30T01:47:18Z",
                 "owner": "cnulab",
                 "repo": "LogiCo",
-                "stars": 8
+                "stars": 9
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-16T09:31:11Z",
                 "owner": "HULEI7",
                 "repo": "IMMoE",
-                "stars": 3
+                "stars": 4
               }
             }
           ],
@@ -196,7 +196,7 @@
                 "last_commit": "2026-07-27T13:01:19Z",
                 "owner": "SkyShunsuke",
                 "repo": "InversionAD",
-                "stars": 61
+                "stars": 62
               }
             },
             {
@@ -306,21 +306,6 @@
             },
             {
               "node_type": "item",
-              "title": "AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [CVPR 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1169599124,
-                "language": null,
-                "last_commit": "2026-06-30T14:48:22Z",
-                "owner": "xiaozhen228",
-                "repo": "AG-VAS",
-                "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
               "title": "PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection [CVPR 2026]",
               "description": "[code]",
               "children": [],
@@ -331,6 +316,21 @@
                 "last_commit": "2026-07-10T14:43:20Z",
                 "owner": "OxygenLu",
                 "repo": "PDD",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [CVPR 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169599124,
+                "language": null,
+                "last_commit": "2026-06-30T14:48:22Z",
+                "owner": "xiaozhen228",
+                "repo": "AG-VAS",
                 "stars": 11
               }
             },
@@ -659,7 +659,7 @@
                 "last_commit": "2025-08-04T14:33:01Z",
                 "owner": "HUST-SLOW",
                 "repo": "SeaS",
-                "stars": 159
+                "stars": 160
               }
             },
             {
@@ -876,7 +876,7 @@
                 "last_commit": "2026-05-26T06:44:51Z",
                 "owner": "luow23",
                 "repo": "INP-Former",
-                "stars": 316
+                "stars": 317
               }
             },
             {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-08-19T02:31:45Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6065
+            "stars": 6066
           }
         },
         {
@@ -1322,7 +1322,7 @@
             "last_commit": "2025-06-16T13:38:11Z",
             "owner": "AtsuMiyai",
             "repo": "Awesome-OOD-VLM",
-            "stars": 103
+            "stars": 102
           }
         },
         {
@@ -1848,7 +1848,7 @@
                     "last_commit": "2024-07-10T01:35:09Z",
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1370
+                    "stars": 1371
                   }
                 },
                 {
@@ -2050,7 +2050,7 @@
                     "last_commit": "2023-12-20T15:06:23Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1131
+                    "stars": 1132
                   }
                 },
                 {
@@ -2065,7 +2065,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 658
+                    "stars": 659
                   }
                 },
                 {
@@ -2170,7 +2170,7 @@
                     "last_commit": "2026-01-24T13:22:07Z",
                     "owner": "guanwei49",
                     "repo": "EMIT",
-                    "stars": 28
+                    "stars": 29
                   }
                 },
                 {
@@ -2535,7 +2535,7 @@
                     "last_commit": "2024-01-31T12:34:42Z",
                     "owner": "HuiZhang0812",
                     "repo": "DiffusionAD",
-                    "stars": 221
+                    "stars": 220
                   }
                 },
                 {
@@ -2580,7 +2580,7 @@
                     "last_commit": "2026-07-27T13:01:19Z",
                     "owner": "SkyShunsuke",
                     "repo": "InversionAD",
-                    "stars": 61
+                    "stars": 62
                   }
                 },
                 {
@@ -2853,7 +2853,7 @@
                     "archived": false,
                     "id": 810409640,
                     "language": "Python",
-                    "last_commit": "2025-01-30T02:24:15Z",
+                    "last_commit": "2026-08-21T02:52:12Z",
                     "owner": "zhangzilongc",
                     "repo": "SOFS",
                     "stars": 43
@@ -2936,7 +2936,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 658
+                    "stars": 659
                   }
                 },
                 {
@@ -3258,7 +3258,7 @@
                     "last_commit": "2023-12-20T15:06:23Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1131
+                    "stars": 1132
                   }
                 },
                 {
@@ -3303,7 +3303,7 @@
                     "last_commit": "2025-07-17T14:00:49Z",
                     "owner": "mala-lab",
                     "repo": "InCTRL",
-                    "stars": 202
+                    "stars": 201
                   }
                 },
                 {
@@ -3318,7 +3318,7 @@
                     "last_commit": "2025-08-04T14:33:01Z",
                     "owner": "HUST-SLOW",
                     "repo": "SeaS",
-                    "stars": 159
+                    "stars": 160
                   }
                 },
                 {
@@ -3435,7 +3435,7 @@
                     "archived": false,
                     "id": 810409640,
                     "language": "Python",
-                    "last_commit": "2025-01-30T02:24:15Z",
+                    "last_commit": "2026-08-21T02:52:12Z",
                     "owner": "zhangzilongc",
                     "repo": "SOFS",
                     "stars": 43
@@ -4118,7 +4118,7 @@
                 "last_commit": "2023-09-08T08:52:50Z",
                 "owner": "nomewang",
                 "repo": "M3DM",
-                "stars": 214
+                "stars": 215
               }
             },
             {
@@ -4133,7 +4133,7 @@
                 "last_commit": "2022-11-28T14:31:21Z",
                 "owner": "eliahuhorwitz",
                 "repo": "3D-ADS",
-                "stars": 143
+                "stars": 144
               }
             },
             {
@@ -4634,7 +4634,7 @@
                 "last_commit": "2025-01-29T11:52:14Z",
                 "owner": "zhangzjn",
                 "repo": "ADer",
-                "stars": 352
+                "stars": 351
               }
             },
             {
@@ -5036,21 +5036,6 @@
             },
             {
               "node_type": "item",
-              "title": "Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[TMLR 2024]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 791294835,
-                "language": "Python",
-                "last_commit": "2024-04-24T13:10:01Z",
-                "owner": "sukanyapatra1997",
-                "repo": "ULSAD-2024",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
               "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -5061,6 +5046,21 @@
                 "last_commit": "2026-06-30T01:47:18Z",
                 "owner": "cnulab",
                 "repo": "LogiCo",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[TMLR 2024]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 791294835,
+                "language": "Python",
+                "last_commit": "2024-04-24T13:10:01Z",
+                "owner": "sukanyapatra1997",
+                "repo": "ULSAD-2024",
                 "stars": 8
               }
             },
@@ -5098,7 +5098,7 @@
                 "last_commit": "2023-12-20T15:06:23Z",
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1131
+                "stars": 1132
               }
             },
             {
@@ -5188,7 +5188,7 @@
                 "last_commit": "2026-01-24T13:22:07Z",
                 "owner": "guanwei49",
                 "repo": "EMIT",
-                "stars": 28
+                "stars": 29
               }
             },
             {
@@ -5393,7 +5393,7 @@
             "last_commit": "2018-11-19T08:17:00Z",
             "owner": "InsulatorData",
             "repo": "InsulatorDataSet",
-            "stars": 354
+            "stars": 353
           }
         },
         {
@@ -5851,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:52:10.470Z",
+    "last_updated": "2026-08-21T05:52:56.495Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_id": 573313337,
     "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
