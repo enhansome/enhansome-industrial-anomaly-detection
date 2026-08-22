@@ -7,6 +7,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1278991150,
+                "language": "Python",
+                "last_commit": "2026-07-04T14:28:30Z",
+                "owner": "LGC-AD",
+                "repo": "ArcAD",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
               "title": "CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -32,7 +47,37 @@
                 "last_commit": "2026-06-30T01:47:18Z",
                 "owner": "cnulab",
                 "repo": "LogiCo",
-                "stars": 9
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280980676,
+                "language": "Python",
+                "last_commit": "2026-08-17T13:16:43Z",
+                "owner": "CLendering",
+                "repo": "ReFP-AD",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280164832,
+                "language": null,
+                "last_commit": "2026-06-25T10:26:33Z",
+                "owner": "HUST-SLOW",
+                "repo": "DeCo",
+                "stars": 4
               }
             },
             {
@@ -48,6 +93,36 @@
                 "owner": "HULEI7",
                 "repo": "IMMoE",
                 "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UniScale: Arbitrary-Scale Industrial Anomaly Generation [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280163835,
+                "language": null,
+                "last_commit": "2026-06-25T10:25:29Z",
+                "owner": "HUST-SLOW",
+                "repo": "UniScale",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280411067,
+                "language": "Python",
+                "last_commit": "2026-06-29T18:58:51Z",
+                "owner": "Continue-Edge-AI-Lab",
+                "repo": "Rethinking-Continual-AD",
+                "stars": 3
               }
             }
           ],
@@ -226,7 +301,7 @@
                 "last_commit": "2026-04-20T09:47:42Z",
                 "owner": "Mingxiu-Cai",
                 "repo": "RAID",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -450,7 +525,7 @@
                 "last_commit": "2026-04-25T11:43:36Z",
                 "owner": "yuxin-jiang",
                 "repo": "Anomagic",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -861,7 +936,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 512
+                "stars": 513
               }
             },
             {
@@ -936,7 +1011,7 @@
                 "last_commit": "2025-06-03T02:49:44Z",
                 "owner": "yinyjin",
                 "repo": "DualAnoDiff",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -1026,7 +1101,7 @@
                 "last_commit": "2026-03-04T20:08:15Z",
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
-                "stars": 68
+                "stars": 67
               }
             },
             {
@@ -1041,7 +1116,7 @@
                 "last_commit": "2026-03-04T20:08:15Z",
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
-                "stars": 68
+                "stars": 67
               }
             },
             {
@@ -1214,10 +1289,10 @@
             "archived": false,
             "id": 423775360,
             "language": "Python",
-            "last_commit": "2026-08-19T02:31:45Z",
+            "last_commit": "2026-08-22T03:20:02Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6066
+            "stars": 6072
           }
         },
         {
@@ -1848,7 +1923,7 @@
                     "last_commit": "2024-07-10T01:35:09Z",
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1371
+                    "stars": 1372
                   }
                 },
                 {
@@ -1863,7 +1938,7 @@
                     "last_commit": "2023-11-29T06:58:54Z",
                     "owner": "xiahaifeng1995",
                     "repo": "PaDiM-Anomaly-Detection-Localization-master",
-                    "stars": 489
+                    "stars": 488
                   }
                 },
                 {
@@ -1923,7 +1998,7 @@
                     "last_commit": "2026-04-20T09:47:42Z",
                     "owner": "Mingxiu-Cai",
                     "repo": "RAID",
-                    "stars": 45
+                    "stars": 46
                   }
                 },
                 {
@@ -2065,7 +2140,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 659
+                    "stars": 660
                   }
                 },
                 {
@@ -2809,6 +2884,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection [ECCV 2026]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1278991150,
+                    "language": "Python",
+                    "last_commit": "2026-07-04T14:28:30Z",
+                    "owner": "LGC-AD",
+                    "repo": "ArcAD",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
                   "description": "[code]",
                   "children": [],
@@ -2936,7 +3026,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 659
+                    "stars": 660
                   }
                 },
                 {
@@ -3847,7 +3937,7 @@
                 "last_commit": "2026-04-25T11:43:36Z",
                 "owner": "yuxin-jiang",
                 "repo": "Anomagic",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -4073,6 +4163,36 @@
                 "owner": "eternal-f1ame",
                 "repo": "SynSpill",
                 "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280164832,
+                "language": null,
+                "last_commit": "2026-06-25T10:26:33Z",
+                "owner": "HUST-SLOW",
+                "repo": "DeCo",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UniScale: Arbitrary-Scale Industrial Anomaly Generation [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280163835,
+                "language": null,
+                "last_commit": "2026-06-25T10:25:29Z",
+                "owner": "HUST-SLOW",
+                "repo": "UniScale",
+                "stars": 3
               }
             },
             {
@@ -4599,6 +4719,21 @@
                 "repo": "Shape-Anomaly-Codebook",
                 "stars": 4
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280411067,
+                "language": "Python",
+                "last_commit": "2026-06-29T18:58:51Z",
+                "owner": "Continue-Edge-AI-Lab",
+                "repo": "Rethinking-Continual-AD",
+                "stars": 3
+              }
             }
           ],
           "description": null,
@@ -4619,7 +4754,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 512
+                "stars": 513
               }
             },
             {
@@ -4849,6 +4984,21 @@
             },
             {
               "node_type": "item",
+              "title": "ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280980676,
+                "language": "Python",
+                "last_commit": "2026-08-17T13:16:43Z",
+                "owner": "CLendering",
+                "repo": "ReFP-AD",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
               "description": "[code]",
               "children": [],
@@ -5046,7 +5196,7 @@
                 "last_commit": "2026-06-30T01:47:18Z",
                 "owner": "cnulab",
                 "repo": "LogiCo",
-                "stars": 9
+                "stars": 10
               }
             },
             {
@@ -5193,6 +5343,21 @@
             },
             {
               "node_type": "item",
+              "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154145948,
+                "language": null,
+                "last_commit": "2026-02-10T06:28:27Z",
+                "owner": "Yanhui-Lee",
+                "repo": "M3-AD",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
               "title": "AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection [2026]",
               "description": "[code]",
               "children": [],
@@ -5204,21 +5369,6 @@
                 "owner": "mala-lab",
                 "repo": "AnomalyAgent",
                 "stars": 14
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1154145948,
-                "language": null,
-                "last_commit": "2026-02-10T06:28:27Z",
-                "owner": "Yanhui-Lee",
-                "repo": "M3-AD",
-                "stars": 13
               }
             },
             {
@@ -5287,7 +5437,7 @@
                     "last_commit": "2026-05-30T07:36:39Z",
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 96
+                    "stars": 97
                   }
                 },
                 {
@@ -5453,7 +5603,7 @@
             "last_commit": "2026-08-04T21:57:36Z",
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 163
+            "stars": 165
           }
         },
         {
@@ -5723,7 +5873,7 @@
             "last_commit": "2026-02-10T06:28:27Z",
             "owner": "Yanhui-Lee",
             "repo": "M3-AD",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -5851,10 +6001,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:52:56.495Z",
+    "last_updated": "2026-08-22T05:48:38.247Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_id": 573313337,
-    "original_repository_sha": "a7d6aa30b83301ff5b07e4072c8222d26bd5fa6f",
+    "original_repository_sha": "64f2719120db78fc580099434925e6333e184d47",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Industrial Anomaly Detection with stars"
