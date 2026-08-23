@@ -1292,7 +1292,7 @@
             "last_commit": "2026-08-22T03:20:02Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6072
+            "stars": 6076
           }
         },
         {
@@ -1307,7 +1307,7 @@
             "last_commit": "2025-12-01T10:40:18Z",
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1069
+            "stars": 1070
           }
         },
         {
@@ -1699,7 +1699,7 @@
                     "last_commit": "2025-10-16T12:09:02Z",
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 173
+                    "stars": 174
                   }
                 },
                 {
@@ -2774,7 +2774,7 @@
                     "last_commit": "2025-10-16T12:09:02Z",
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 173
+                    "stars": 174
                   }
                 },
                 {
@@ -3907,7 +3907,7 @@
                 "last_commit": "2025-10-16T12:09:02Z",
                 "owner": "blaz-r",
                 "repo": "SuperSimpleNet",
-                "stars": 173
+                "stars": 174
               }
             },
             {
@@ -6001,7 +6001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:48:38.247Z",
+    "last_updated": "2026-08-23T05:50:52.973Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_id": 573313337,
     "original_repository_sha": "64f2719120db78fc580099434925e6333e184d47",
