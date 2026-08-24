@@ -1,6 +1,609 @@
 {
   "items": [
     {
+      "description": "We will keep focusing on this field and updating relevant information.\nKeywords: anomaly detection, anomaly segmentation, industrial image, defect detection\n[Main Page] [Survey] [Benchmark] [Result]\n🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.\n🔥🔥🔥 We compare different types of anomaly synthesis methods in detail. Welcome to make comments.\nASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [paper]",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [TCYB 2024]",
+          "description": "[code][中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 646742157,
+            "language": "Python",
+            "last_commit": "2025-02-20T08:34:50Z",
+            "owner": "M-3LAB",
+            "repo": "open-iad",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥🔥🔥 We have released AD-Copilot, an end-to-end trained MLLM for industrial anomaly detection. Most impressively, AD-Copilot surpasses humans on real industrial inspection tasks! Try it at [Code]",
+          "description": "[Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178646562,
+            "language": "Python",
+            "last_commit": "2026-04-25T06:53:47Z",
+            "owner": "jam-cc",
+            "repo": "AD-Copilot",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥🔥🔥 How well are current MLLMs performing as industrial quality inspectors? Which MLLM performs best in industrial anomaly detection? Please refer to our recent research. [ICLR 2025]",
+          "description": "[Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 861573968,
+            "language": "Python",
+            "last_commit": "2026-01-14T10:54:39Z",
+            "owner": "jam-cc",
+            "repo": "MMAD",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Industrial Anomalies Synthesis [paper]",
+          "description": "[github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 927025623,
+            "language": null,
+            "last_commit": "2025-11-18T11:37:53Z",
+            "owner": "M-3LAB",
+            "repo": "awesome-anomaly-synthesis",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥🔥🔥 3D Anomaly Detection: A Survey [paper]",
+          "description": "[github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1090905215,
+            "language": null,
+            "last_commit": "2026-08-19T17:49:05Z",
+            "owner": "M-3LAB",
+            "repo": "awesome-3d-anomaly-detection",
+            "stars": 133
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anomaly Detection via Reverse Distillation from One-Class Embedding",
+          "description": "CVPR 2022 Github Teacher-Student",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472598880,
+            "language": "Python",
+            "last_commit": "2023-06-23T07:02:39Z",
+            "owner": "hq-deng",
+            "repo": "RD4AD",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection",
+          "description": "CVPR 2025 Github Multi-Class Unified",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 806933915,
+            "language": "Python",
+            "last_commit": "2026-05-21T11:01:15Z",
+            "owner": "guojiajeremy",
+            "repo": "Dinomaly",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection",
+          "description": "Arxiv 2025 Github Multi-Class, Multi-View, Multi-Modal, Few-shot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1203617968,
+            "language": "Python",
+            "last_commit": "2026-05-30T07:36:39Z",
+            "owner": "guojiajeremy",
+            "repo": "Dinomaly2",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisiting Reverse Distillation for Anomaly Detection",
+          "description": "CVPR 2023 Github Teacher-Student",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564634823,
+            "language": "Python",
+            "last_commit": "2023-12-28T15:46:06Z",
+            "owner": "tientrandinh",
+            "repo": "Revisiting-Reverse-Distillation",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleNet: A Simple Network for Image Anomaly Detection and Localization",
+          "description": "CVPR 2023 Github One-Class-Classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608510790,
+            "language": "Python",
+            "last_commit": "2024-08-12T02:06:52Z",
+            "owner": "DonaldRR",
+            "repo": "SimpleNet",
+            "stars": 603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-time unsupervised anomaly detection with localization via conditional normalizing flows",
+          "description": "WACV 2022 Github Distribution Map",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 389806540,
+            "language": "Python",
+            "last_commit": "2023-08-18T19:33:51Z",
+            "owner": "gudovskiy",
+            "repo": "cflow-ad",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards total recall in industrial anomaly detection",
+          "description": "CVPR 2022 Github Memory-bank",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489023709,
+            "language": "Python",
+            "last_commit": "2024-07-10T01:35:09Z",
+            "owner": "amazon-science",
+            "repo": "patchcore-inspection",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draem-a discriminatively trained reconstruction embedding for surface anomaly detection",
+          "description": "ICCV 2021 Github Reconstruction-based",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 395708051,
+            "language": "Python",
+            "last_commit": "2023-01-02T08:40:33Z",
+            "owner": "VitjanZ",
+            "repo": "DRAEM",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSR: A dual subspace re-projection network for surface anomaly detection",
+          "description": "ECCV 2022 Github Reconstruction-based",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515139214,
+            "language": "Python",
+            "last_commit": "2022-07-18T10:49:52Z",
+            "owner": "VitjanZ",
+            "repo": "DSR_anomaly_detection",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection",
+          "description": "TIP 2023 Github Reconstruction-based",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 485769702,
+            "language": "Python",
+            "last_commit": "2022-07-14T03:10:41Z",
+            "owner": "zhangzjn",
+            "repo": "OCR-GAN",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection",
+          "description": "CVPR 2024 Github Reconstruction-based",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 769387291,
+            "language": "Python",
+            "last_commit": "2025-02-12T05:55:37Z",
+            "owner": "cnulab",
+            "repo": "RealNet",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Registration based few-shot anomaly detection",
+          "description": "ECCV 2022 Github Few Shot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510700699,
+            "language": "Python",
+            "last_commit": "2022-09-07T06:38:18Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "RegAD",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models",
+          "description": "AAAI 2024 Github Few Shot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 684434327,
+            "language": "Python",
+            "last_commit": "2023-12-20T15:06:23Z",
+            "owner": "CASIA-LMC-Lab",
+            "repo": "AnomalyGPT",
+            "stars": 1132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison",
+          "description": "arxiv 2026 Github MLLM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178646562,
+            "language": "Python",
+            "last_commit": "2026-04-25T06:53:47Z",
+            "owner": "jam-cc",
+            "repo": "AD-Copilot",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection",
+          "description": "CVPR 2022 Github Few abnormal samples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472981939,
+            "language": "Python",
+            "last_commit": "2022-04-11T03:08:52Z",
+            "owner": "Choubo",
+            "repo": "DRA",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection",
+          "description": "CVPR 2023 Github Few abnormal samples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616463935,
+            "language": "Python",
+            "last_commit": "2026-06-02T09:31:05Z",
+            "owner": "xcyao00",
+            "repo": "BGAD",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep one-class classification via interpolated gaussian descriptor",
+          "description": "AAAI 2022 Github Noisy AD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332432974,
+            "language": "Python",
+            "last_commit": "2025-10-29T03:24:52Z",
+            "owner": "tianyu0207",
+            "repo": "IGD",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoftPatch: Unsupervised Anomaly Detection with Noisy Data",
+          "description": "NeurIPS 2022 Github Noisy AD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 549996927,
+            "language": "Python",
+            "last_commit": "2024-07-13T09:38:08Z",
+            "owner": "TencentYoutuResearch",
+            "repo": "AnomalyDetection-SoftPatch",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification",
+          "description": "ICCV 2023 Github Noisy AD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677563571,
+            "language": "Python",
+            "last_commit": "2026-01-12T19:07:01Z",
+            "owner": "DeclanMcIntosh",
+            "repo": "InReaCh",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt",
+          "description": "AAAI 2024 Github Continual AD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730541423,
+            "language": "Python",
+            "last_commit": "2024-08-06T16:38:56Z",
+            "owner": "jiaq-liu",
+            "repo": "UCAD",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Model for Multi-class Anomaly Detection",
+          "description": "NeurIPS 2022 Github Multi-class unified",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 537332447,
+            "language": "Python",
+            "last_commit": "2022-11-22T04:17:24Z",
+            "owner": "zhiyuanyou",
+            "repo": "UniAD",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection",
+          "description": "NeurIPS 2023 Github Multi-class unified",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704409506,
+            "language": "Python",
+            "last_commit": "2024-04-20T07:03:07Z",
+            "owner": "RuiyingLu",
+            "repo": "HVQ-Trans",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Industrial Anomaly Detection via Hybrid Fusion",
+          "description": "CVPR 2023 Github RGBD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608091617,
+            "language": "Python",
+            "last_commit": "2023-09-08T08:52:50Z",
+            "owner": "nomewang",
+            "repo": "M3DM",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real3D-AD: A Dataset of Point Cloud Anomaly Detection",
+          "description": "NeurIPS 2023 Github Point Cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647581258,
+            "language": "Python",
+            "last_commit": "2024-03-13T11:30:37Z",
+            "owner": "M-3LAB",
+            "repo": "Real3D-AD",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization",
+          "description": "arxiv 2023 Github Zero Shot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685919843,
+            "language": "Python",
+            "last_commit": "2023-09-07T10:13:57Z",
+            "owner": "hq-deng",
+            "repo": "AnoVL",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment Any Anomaly without Training via Hybrid Prompt Regularization",
+          "description": "arxiv 2023 Github Zero Shot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625767114,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-22T04:57:10Z",
+            "owner": "caoyunkang",
+            "repo": "Segment-Any-Anomaly",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSAD: Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection",
+          "description": "AAAI 2024 Github Logical/Few Shot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677243668,
+            "language": "Python",
+            "last_commit": "2025-05-09T08:02:43Z",
+            "owner": "oopil",
+            "repo": "PSAD_logical_anomaly_detection",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SALAD -- Semantics-Aware Logical Anomaly Detection",
+          "description": "ICCV 2025 Github Logical",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1020796579,
+            "language": "Python",
+            "last_commit": "2025-10-03T11:56:07Z",
+            "owner": "MaticFuc",
+            "repo": "SALAD",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection",
+          "description": "arxiv 2023 Github Multi-class unified",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 691997050,
+            "language": "Python",
+            "last_commit": "2023-09-15T16:21:09Z",
+            "owner": "YoojLee",
+            "repo": "Uniformaly",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "SOTA methods with code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anomalib: A Deep Learning Library for Anomaly Detection",
+          "description": "ICIP 2022 Github Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 423775360,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:28:58Z",
+            "owner": "open-edge-platform",
+            "repo": "anomalib",
+            "stars": 6077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing",
+          "description": "TCYB 2024 Github Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 646742157,
+            "language": "Python",
+            "last_commit": "2025-02-20T08:34:50Z",
+            "owner": "M-3LAB",
+            "repo": "open-iad",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection",
+          "description": "arxiv 2024 Github Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730949946,
+            "language": "Python",
+            "last_commit": "2025-01-29T11:52:14Z",
+            "owner": "zhangzjn",
+            "repo": "ADer",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection",
+          "description": "ICLR 2024 Github Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 861573968,
+            "language": "Python",
+            "last_commit": "2026-01-14T10:54:39Z",
+            "owner": "jam-cc",
+            "repo": "MMAD",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RobustMAD: Evaluating Real-World Robustness of Multimodal Small Language Models for Deployable Anomaly Detection Assistants",
+          "description": "TMLR 2026 Github Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147654010,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:29:08Z",
+            "owner": "en-research",
+            "repo": "RobustMAD",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Recommended Benchmarks"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -226,7 +829,7 @@
                 "last_commit": "2026-06-07T12:35:50Z",
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 123
+                "stars": 124
               }
             },
             {
@@ -366,6 +969,21 @@
             },
             {
               "node_type": "item",
+              "title": "PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection [CVPR 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1167334042,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:19:17Z",
+                "owner": "OxygenLu",
+                "repo": "PDD",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness [CVPR 2026 Findings]",
               "description": "[code]",
               "children": [],
@@ -376,21 +994,6 @@
                 "last_commit": "2026-04-10T04:22:34Z",
                 "owner": "SpatialAILab",
                 "repo": "MAGIC",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1167334042,
-                "language": null,
-                "last_commit": "2026-07-10T14:43:20Z",
-                "owner": "OxygenLu",
-                "repo": "PDD",
                 "stars": 12
               }
             },
@@ -510,7 +1113,7 @@
                 "last_commit": "2026-02-05T14:22:05Z",
                 "owner": "gaobb",
                 "repo": "AdaptCLIP",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -540,7 +1143,7 @@
                 "last_commit": "2025-12-09T02:59:07Z",
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 95
+                "stars": 96
               }
             },
             {
@@ -724,6 +1327,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Self-Tuning Self-Supervised Image Anomaly Detection [KDD 2025]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 994017202,
+                "language": "Python",
+                "last_commit": "2025-07-21T07:30:49Z",
+                "owner": "jaeminyoo",
+                "repo": "ST-SSAD",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "KDD 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [ICCV 2025]",
               "description": "[code]",
               "children": [],
@@ -824,7 +1449,7 @@
                 "last_commit": "2025-10-01T13:39:32Z",
                 "owner": "rubymiaomiao",
                 "repo": "TF-IDG",
-                "stars": 40
+                "stars": 41
               }
             },
             {
@@ -926,6 +1551,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [ICML2025]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 976641648,
+                "language": "Python",
+                "last_commit": "2026-07-03T03:15:24Z",
+                "owner": "ZHE-SAPI",
+                "repo": "CostFilter-AD",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection [CVPR 2025]",
               "description": "[code]",
               "children": [],
@@ -936,7 +1583,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 515
+                "stars": 516
               }
             },
             {
@@ -1289,7 +1936,7 @@
             "archived": false,
             "id": 423775360,
             "language": "Python",
-            "last_commit": "2026-08-22T03:20:02Z",
+            "last_commit": "2026-08-24T13:28:58Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
             "stars": 6077
@@ -2140,7 +2787,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 660
+                    "stars": 661
                   }
                 },
                 {
@@ -3026,7 +3673,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 660
+                    "stars": 661
                   }
                 },
                 {
@@ -3056,7 +3703,7 @@
                     "last_commit": "2026-05-14T03:48:21Z",
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 334
+                    "stars": 335
                   }
                 },
                 {
@@ -3101,7 +3748,7 @@
                     "last_commit": "2026-02-05T14:22:05Z",
                     "owner": "gaobb",
                     "repo": "AdaptCLIP",
-                    "stars": 181
+                    "stars": 182
                   }
                 },
                 {
@@ -3146,7 +3793,7 @@
                     "last_commit": "2025-12-09T02:59:07Z",
                     "owner": "Yanhui-Lee",
                     "repo": "IAD-R1",
-                    "stars": 95
+                    "stars": 96
                   }
                 },
                 {
@@ -4380,7 +5027,7 @@
                 "last_commit": "2026-05-14T03:48:21Z",
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 334
+                "stars": 335
               }
             },
             {
@@ -4754,7 +5401,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 515
+                "stars": 516
               }
             },
             {
@@ -5263,7 +5910,7 @@
                 "last_commit": "2026-01-14T10:54:39Z",
                 "owner": "jam-cc",
                 "repo": "MMAD",
-                "stars": 271
+                "stars": 272
               }
             },
             {
@@ -5293,7 +5940,7 @@
                 "last_commit": "2025-12-09T02:59:07Z",
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 95
+                "stars": 96
               }
             },
             {
@@ -5409,6 +6056,72 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [CVPR 2025]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 916915193,
+                "language": "Python",
+                "last_commit": "2026-02-24T03:14:10Z",
+                "owner": "Chopper-233",
+                "repo": "Physics-AD",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.10 Video IAD"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [2024]",
+                  "description": "[code coming soon]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811731452,
+                    "language": "Python",
+                    "last_commit": "2025-09-01T11:40:28Z",
+                    "owner": "HUST-SLOW",
+                    "repo": "AnomalyNCD",
+                    "stars": 165
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Defect Classification"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [AAAI 2025]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 902879596,
+                    "language": "Python",
+                    "last_commit": "2024-12-22T11:34:06Z",
+                    "owner": "znchen666",
+                    "repo": "FiCo",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rubustness"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -5503,6 +6216,186 @@
       "items": [
         {
           "node_type": "item",
+          "title": "3CAD",
+          "description": "8 15577 11462 27039 Segmentation mask RGB real AAAI, 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 913685731,
+            "language": "Python",
+            "last_commit": "2025-04-22T08:07:47Z",
+            "owner": "ShuCvlab",
+            "repo": "3CAD",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anomaly-ShapeNet",
+          "description": "40 - - 1600 Point-level mask Point-cloud synthetic CVPR,2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 709350588,
+            "language": null,
+            "last_commit": "2025-10-17T03:31:05Z",
+            "owner": "Chopper-233",
+            "repo": "Anomaly-ShapeNet",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CID",
+          "description": "1 4060 233 4293 Segmentation mask RGB real 2024,TIM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 781399698,
+            "language": null,
+            "last_commit": "2024-04-30T08:53:07Z",
+            "owner": "LightZH",
+            "repo": "Insulator-Defect-Detection",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEEPPCB",
+          "description": "1 - - 1500 Bounding box RGB synthetic 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154434366,
+            "language": "Python",
+            "last_commit": "2018-12-19T05:20:06Z",
+            "owner": "tangsanli5201",
+            "repo": "DeepPCB",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCBT",
+          "description": "(Manufacturing Complex Background Texture) - 800 227 1027 Segmentation mask RGB real CVPRW,2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 924837906,
+            "language": "Python",
+            "last_commit": "2026-04-16T00:47:56Z",
+            "owner": "ganatma",
+            "repo": "AL-CycleGAN",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPDD",
+          "description": "6 1064 282 1346 Segmentation mask RGB real ICUMT,2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 405700975,
+            "language": null,
+            "last_commit": "2024-07-24T07:07:23Z",
+            "owner": "stepanje",
+            "repo": "MPDD",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTD",
+          "description": "1 952 392 1344 Segmentation mask RGB real CASE,2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122719051,
+            "language": null,
+            "last_commit": "2020-05-09T14:00:29Z",
+            "owner": "abin24",
+            "repo": "Magnetic-tile-defect-datasets.",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAD",
+          "description": "20 5231 4902 10133 Segmentation mask RBG synthetic NeurIPS,2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650682576,
+            "language": "Python",
+            "last_commit": "2024-12-02T15:07:50Z",
+            "owner": "EricLee0224",
+            "repo": "PAD",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real3D-AD",
+          "description": "12 652 602 1254 Point-level mask Point-cloud real NeurIPS,2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647581258,
+            "language": "Python",
+            "last_commit": "2024-03-13T11:30:37Z",
+            "owner": "M-3LAB",
+            "repo": "Real3D-AD",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steel tube dataset",
+          "description": "1 0 3408 3408 Bounding box RGB real 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383734124,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-12-06T04:03:50Z",
+            "owner": "huangyebiaoke",
+            "repo": "steel-pipe-weld-defect-detection",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisA",
+          "description": "12 9621 1200 10821 Segmentation mask RGB real ECCV,2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515270765,
+            "language": "Python",
+            "last_commit": "2022-09-22T19:54:30Z",
+            "owner": "amazon-science",
+            "repo": "spot-diff",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAD",
+          "description": "4 213 1224 1224 Segmentation mask RGB real CASE,2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 831331878,
+            "language": "Python",
+            "last_commit": "2024-09-19T10:04:10Z",
+            "owner": "hustCYQ",
+            "repo": "RAD-dataset",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
           "title": "(DEEP PCB)Online PCB defect detector on a new PCB defect dataset [2019]",
           "description": "[data]",
           "children": [],
@@ -5558,7 +6451,7 @@
             "last_commit": "2026-01-14T10:54:39Z",
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 271
+            "stars": 272
           }
         },
         {
@@ -5648,7 +6541,7 @@
             "last_commit": "2025-07-16T02:09:15Z",
             "owner": "Tencent",
             "repo": "AnomalyDetection_Real-IAD",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -6001,7 +6894,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:58:47.478Z",
+    "last_updated": "2026-08-24T13:57:20.920Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_id": 573313337,
     "original_repository_sha": "64f2719120db78fc580099434925e6333e184d47",
