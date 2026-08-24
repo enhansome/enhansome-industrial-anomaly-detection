@@ -17,6 +17,21 @@
                 "last_commit": "2026-07-04T14:28:30Z",
                 "owner": "LGC-AD",
                 "repo": "ArcAD",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1281869988,
+                "language": "Python",
+                "last_commit": "2026-06-30T01:47:18Z",
+                "owner": "cnulab",
+                "repo": "LogiCo",
                 "stars": 11
               }
             },
@@ -37,21 +52,6 @@
             },
             {
               "node_type": "item",
-              "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1281869988,
-                "language": "Python",
-                "last_commit": "2026-06-30T01:47:18Z",
-                "owner": "cnulab",
-                "repo": "LogiCo",
-                "stars": 10
-              }
-            },
-            {
-              "node_type": "item",
               "title": "ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-17T13:16:43Z",
                 "owner": "CLendering",
                 "repo": "ReFP-AD",
-                "stars": 6
+                "stars": 7
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-06-25T10:26:33Z",
                 "owner": "HUST-SLOW",
                 "repo": "DeCo",
-                "stars": 4
+                "stars": 5
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-17T12:58:47Z",
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 237
+                "stars": 238
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-06-07T12:35:50Z",
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 122
+                "stars": 123
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-03-26T02:19:20Z",
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 64
+                "stars": 65
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2025-11-14T22:27:45Z",
                 "owner": "yulimso",
                 "repo": "AnoStyler",
-                "stars": 20
+                "stars": 22
               }
             },
             {
@@ -936,7 +936,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 513
+                "stars": 515
               }
             },
             {
@@ -1131,7 +1131,7 @@
                 "last_commit": "2025-05-07T05:41:35Z",
                 "owner": "FuNz-0",
                 "repo": "One-for-More",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -1292,7 +1292,7 @@
             "last_commit": "2026-08-22T03:20:02Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6076
+            "stars": 6077
           }
         },
         {
@@ -1923,7 +1923,7 @@
                     "last_commit": "2024-07-10T01:35:09Z",
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1372
+                    "stars": 1373
                   }
                 },
                 {
@@ -2894,7 +2894,7 @@
                     "last_commit": "2026-07-04T14:28:30Z",
                     "owner": "LGC-AD",
                     "repo": "ArcAD",
-                    "stars": 11
+                    "stars": 12
                   }
                 },
                 {
@@ -3071,7 +3071,7 @@
                     "last_commit": "2025-07-07T23:20:51Z",
                     "owner": "caoyunkang",
                     "repo": "AdaCLIP",
-                    "stars": 309
+                    "stars": 310
                   }
                 },
                 {
@@ -4012,7 +4012,7 @@
                 "last_commit": "2026-03-26T02:19:20Z",
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 64
+                "stars": 65
               }
             },
             {
@@ -4102,7 +4102,7 @@
                 "last_commit": "2025-11-14T22:27:45Z",
                 "owner": "yulimso",
                 "repo": "AnoStyler",
-                "stars": 20
+                "stars": 22
               }
             },
             {
@@ -4152,21 +4152,6 @@
             },
             {
               "node_type": "item",
-              "title": "SynSpill: Improved Industrial Spill Detection With Synthetic Data [ICCVW 2025 oral]",
-              "description": "[code][homepage]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1025960289,
-                "language": "TypeScript",
-                "last_commit": "2025-09-10T19:36:26Z",
-                "owner": "eternal-f1ame",
-                "repo": "SynSpill",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
               "title": "DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -4177,6 +4162,21 @@
                 "last_commit": "2026-06-25T10:26:33Z",
                 "owner": "HUST-SLOW",
                 "repo": "DeCo",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SynSpill: Improved Industrial Spill Detection With Synthetic Data [ICCVW 2025 oral]",
+              "description": "[code][homepage]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1025960289,
+                "language": "TypeScript",
+                "last_commit": "2025-09-10T19:36:26Z",
+                "owner": "eternal-f1ame",
+                "repo": "SynSpill",
                 "stars": 4
               }
             },
@@ -4754,7 +4754,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 513
+                "stars": 515
               }
             },
             {
@@ -4994,7 +4994,7 @@
                 "last_commit": "2026-08-17T13:16:43Z",
                 "owner": "CLendering",
                 "repo": "ReFP-AD",
-                "stars": 6
+                "stars": 7
               }
             },
             {
@@ -5196,7 +5196,7 @@
                 "last_commit": "2026-06-30T01:47:18Z",
                 "owner": "cnulab",
                 "repo": "LogiCo",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -5308,7 +5308,7 @@
                 "last_commit": "2026-04-25T06:53:47Z",
                 "owner": "jam-cc",
                 "repo": "AD-Copilot",
-                "stars": 59
+                "stars": 61
               }
             },
             {
@@ -5437,7 +5437,7 @@
                     "last_commit": "2026-05-30T07:36:39Z",
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 97
+                    "stars": 99
                   }
                 },
                 {
@@ -6001,7 +6001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:50:52.973Z",
+    "last_updated": "2026-08-24T05:58:47.478Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_id": 573313337,
     "original_repository_sha": "64f2719120db78fc580099434925e6333e184d47",
