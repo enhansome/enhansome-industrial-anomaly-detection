@@ -276,7 +276,7 @@
             "last_commit": "2023-12-20T15:06:23Z",
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1132
+            "stars": 1133
           }
         },
         {
@@ -534,7 +534,7 @@
             "archived": false,
             "id": 423775360,
             "language": "Python",
-            "last_commit": "2026-08-24T13:28:58Z",
+            "last_commit": "2026-08-25T02:31:29Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
             "stars": 6077
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-17T12:58:47Z",
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 238
+                "stars": 239
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-06-07T12:35:50Z",
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 124
+                "stars": 125
               }
             },
             {
@@ -859,7 +859,7 @@
                 "last_commit": "2026-04-21T06:54:32Z",
                 "owner": "MaticFuc",
                 "repo": "AnomalyVFM",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -976,10 +976,10 @@
                 "archived": false,
                 "id": 1167334042,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:19:17Z",
+                "last_commit": "2026-08-25T03:41:10Z",
                 "owner": "OxygenLu",
                 "repo": "PDD",
-                "stars": 15
+                "stars": 16
               }
             },
             {
@@ -1936,7 +1936,7 @@
             "archived": false,
             "id": 423775360,
             "language": "Python",
-            "last_commit": "2026-08-24T13:28:58Z",
+            "last_commit": "2026-08-25T02:31:29Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
             "stars": 6077
@@ -2772,7 +2772,7 @@
                     "last_commit": "2023-12-20T15:06:23Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1132
+                    "stars": 1133
                   }
                 },
                 {
@@ -2787,7 +2787,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 661
+                    "stars": 662
                   }
                 },
                 {
@@ -3673,7 +3673,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 661
+                    "stars": 662
                   }
                 },
                 {
@@ -3838,7 +3838,7 @@
                     "last_commit": "2026-04-21T06:54:32Z",
                     "owner": "MaticFuc",
                     "repo": "AnomalyVFM",
-                    "stars": 63
+                    "stars": 64
                   }
                 },
                 {
@@ -3995,7 +3995,7 @@
                     "last_commit": "2023-12-20T15:06:23Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1132
+                    "stars": 1133
                   }
                 },
                 {
@@ -4040,7 +4040,7 @@
                     "last_commit": "2025-07-17T14:00:49Z",
                     "owner": "mala-lab",
                     "repo": "InCTRL",
-                    "stars": 201
+                    "stars": 202
                   }
                 },
                 {
@@ -4930,7 +4930,7 @@
                 "last_commit": "2025-10-17T03:31:05Z",
                 "owner": "Chopper-233",
                 "repo": "Anomaly-ShapeNet",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -5117,7 +5117,7 @@
                 "last_commit": "2025-10-17T03:31:05Z",
                 "owner": "Chopper-233",
                 "repo": "Anomaly-ShapeNet",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -5895,7 +5895,7 @@
                 "last_commit": "2023-12-20T15:06:23Z",
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1132
+                "stars": 1133
               }
             },
             {
@@ -6241,7 +6241,7 @@
             "last_commit": "2025-10-17T03:31:05Z",
             "owner": "Chopper-233",
             "repo": "Anomaly-ShapeNet",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -6331,7 +6331,7 @@
             "last_commit": "2024-12-02T15:07:50Z",
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -6526,7 +6526,7 @@
             "last_commit": "2024-08-26T08:03:26Z",
             "owner": "EnVision-Research",
             "repo": "Defect_Spectrum",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -6571,7 +6571,7 @@
             "last_commit": "2024-12-02T15:07:50Z",
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -6646,7 +6646,7 @@
             "last_commit": "2025-10-17T03:31:05Z",
             "owner": "Chopper-233",
             "repo": "Anomaly-ShapeNet",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -6894,7 +6894,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:20.920Z",
+    "last_updated": "2026-08-25T05:55:29.407Z",
     "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
     "original_repository_id": 573313337,
     "original_repository_sha": "64f2719120db78fc580099434925e6333e184d47",
