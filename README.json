@@ -1248,7 +1248,7 @@
                 "last_commit": "2025-11-12T10:48:12Z",
                 "owner": "neymarql",
                 "repo": "QARAD",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -2787,7 +2787,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 662
+                    "stars": 663
                   }
                 },
                 {
@@ -3673,7 +3673,7 @@
                     "last_commit": "2025-07-08T10:59:38Z",
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 662
+                    "stars": 663
                   }
                 },
                 {
@@ -4794,7 +4794,7 @@
                 "last_commit": "2025-11-12T10:48:12Z",
                 "owner": "neymarql",
                 "repo": "QARAD",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -6271,7 +6271,7 @@
             "last_commit": "2018-12-19T05:20:06Z",
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -6406,7 +6406,7 @@
             "last_commit": "2018-12-19T05:20:06Z",
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -6894,7 +6894,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:55.660Z",
+    "last_updated": "2026-08-27T16:35:05.782Z",
     "original_repository_info": {
       "archived": false,
       "id": 573313337,
@@ -6902,7 +6902,7 @@
       "last_commit": "2026-08-21T07:55:15Z",
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3747
+      "stars": 3748
     },
     "original_repository_sha": "64f2719120db78fc580099434925e6333e184d47",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
