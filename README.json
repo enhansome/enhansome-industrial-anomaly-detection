@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T17:49:05Z",
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 133
+            "stars": 134
           }
         }
       ],
@@ -111,7 +111,7 @@
             "last_commit": "2026-05-21T11:01:15Z",
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 516
+            "stars": 515
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-07-10T01:35:09Z",
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1373
+            "stars": 1374
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-03-13T11:30:37Z",
             "owner": "M-3LAB",
             "repo": "Real3D-AD",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -534,10 +534,10 @@
             "archived": false,
             "id": 423775360,
             "language": "Python",
-            "last_commit": "2026-08-25T13:06:26Z",
+            "last_commit": "2026-08-27T10:51:03Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6084
+            "stars": 6091
           }
         },
         {
@@ -647,7 +647,7 @@
                 "archived": false,
                 "id": 1273385551,
                 "language": "Python",
-                "last_commit": "2026-08-20T02:54:57Z",
+                "last_commit": "2026-08-26T12:11:53Z",
                 "owner": "Junhaocai27",
                 "repo": "CMDS-AD",
                 "stars": 10
@@ -799,7 +799,7 @@
                 "last_commit": "2026-05-20T07:50:38Z",
                 "owner": "yuanzhao-CVLAB",
                 "repo": "UniMMAD",
-                "stars": 244
+                "stars": 245
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-17T12:58:47Z",
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 239
+                "stars": 241
               }
             },
             {
@@ -1128,7 +1128,7 @@
                 "last_commit": "2026-04-25T11:43:36Z",
                 "owner": "yuxin-jiang",
                 "repo": "Anomagic",
-                "stars": 157
+                "stars": 158
               }
             },
             {
@@ -1561,7 +1561,7 @@
                 "last_commit": "2026-07-03T03:15:24Z",
                 "owner": "ZHE-SAPI",
                 "repo": "CostFilter-AD",
-                "stars": 91
+                "stars": 92
               }
             }
           ],
@@ -1583,7 +1583,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 516
+                "stars": 515
               }
             },
             {
@@ -1936,10 +1936,10 @@
             "archived": false,
             "id": 423775360,
             "language": "Python",
-            "last_commit": "2026-08-25T13:06:26Z",
+            "last_commit": "2026-08-27T10:51:03Z",
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6084
+            "stars": 6091
           }
         },
         {
@@ -2570,7 +2570,7 @@
                     "last_commit": "2024-07-10T01:35:09Z",
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1373
+                    "stars": 1374
                   }
                 },
                 {
@@ -3026,7 +3026,7 @@
                     "last_commit": "2023-04-20T17:16:56Z",
                     "owner": "hmsch",
                     "repo": "natural-synthetic-anomalies",
-                    "stars": 72
+                    "stars": 73
                   }
                 },
                 {
@@ -3153,7 +3153,7 @@
                     "last_commit": "2024-12-19T12:02:44Z",
                     "owner": "Ldhlwh",
                     "repo": "DFMGAN",
-                    "stars": 158
+                    "stars": 157
                   }
                 },
                 {
@@ -3406,7 +3406,7 @@
                     "last_commit": "2024-08-11T08:24:05Z",
                     "owner": "sjtuplayer",
                     "repo": "anomalydiffusion",
-                    "stars": 327
+                    "stars": 328
                   }
                 },
                 {
@@ -3436,7 +3436,7 @@
                     "last_commit": "2024-12-19T12:02:44Z",
                     "owner": "Ldhlwh",
                     "repo": "DFMGAN",
-                    "stars": 158
+                    "stars": 157
                   }
                 },
                 {
@@ -3703,7 +3703,7 @@
                     "last_commit": "2026-05-14T03:48:21Z",
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 335
+                    "stars": 337
                   }
                 },
                 {
@@ -4307,7 +4307,7 @@
                     "archived": false,
                     "id": 1273385551,
                     "language": "Python",
-                    "last_commit": "2026-08-20T02:54:57Z",
+                    "last_commit": "2026-08-26T12:11:53Z",
                     "owner": "Junhaocai27",
                     "repo": "CMDS-AD",
                     "stars": 10
@@ -4479,7 +4479,7 @@
                 "last_commit": "2024-08-11T08:24:05Z",
                 "owner": "sjtuplayer",
                 "repo": "anomalydiffusion",
-                "stars": 327
+                "stars": 328
               }
             },
             {
@@ -4559,21 +4559,6 @@
             },
             {
               "node_type": "item",
-              "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 397110509,
-                "language": "Python",
-                "last_commit": "2024-12-19T12:02:44Z",
-                "owner": "Ldhlwh",
-                "repo": "DFMGAN",
-                "stars": 158
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [AAAI 2026]",
               "description": "[code]",
               "children": [],
@@ -4584,6 +4569,21 @@
                 "last_commit": "2026-04-25T11:43:36Z",
                 "owner": "yuxin-jiang",
                 "repo": "Anomagic",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397110509,
+                "language": "Python",
+                "last_commit": "2024-12-19T12:02:44Z",
+                "owner": "Ldhlwh",
+                "repo": "DFMGAN",
                 "stars": 157
               }
             },
@@ -4599,7 +4599,7 @@
                 "last_commit": "2024-04-25T15:27:13Z",
                 "owner": "GrandpaXun242",
                 "repo": "AdaBLDM",
-                "stars": 93
+                "stars": 92
               }
             },
             {
@@ -4644,7 +4644,7 @@
                 "last_commit": "2023-04-20T17:16:56Z",
                 "owner": "hmsch",
                 "repo": "natural-synthetic-anomalies",
-                "stars": 72
+                "stars": 73
               }
             },
             {
@@ -5027,7 +5027,7 @@
                 "last_commit": "2026-05-14T03:48:21Z",
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 335
+                "stars": 337
               }
             },
             {
@@ -5042,7 +5042,7 @@
                 "last_commit": "2024-03-13T11:30:37Z",
                 "owner": "M-3LAB",
                 "repo": "Real3D-AD",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -5132,7 +5132,7 @@
                 "last_commit": "2025-08-01T07:50:23Z",
                 "owner": "hustSYH",
                 "repo": "MVR",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -5401,7 +5401,7 @@
                 "last_commit": "2026-05-21T11:01:15Z",
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 516
+                "stars": 515
               }
             },
             {
@@ -5990,21 +5990,6 @@
             },
             {
               "node_type": "item",
-              "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1154145948,
-                "language": null,
-                "last_commit": "2026-02-10T06:28:27Z",
-                "owner": "Yanhui-Lee",
-                "repo": "M3-AD",
-                "stars": 14
-              }
-            },
-            {
-              "node_type": "item",
               "title": "AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection [2026]",
               "description": "[code]",
               "children": [],
@@ -6015,6 +6000,21 @@
                 "last_commit": "2026-05-28T09:27:07Z",
                 "owner": "mala-lab",
                 "repo": "AnomalyAgent",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154145948,
+                "language": null,
+                "last_commit": "2026-02-10T06:28:27Z",
+                "owner": "Yanhui-Lee",
+                "repo": "M3-AD",
                 "stars": 14
               }
             },
@@ -6135,7 +6135,7 @@
                     "last_commit": "2026-05-20T07:50:38Z",
                     "owner": "yuanzhao-CVLAB",
                     "repo": "UniMMAD",
-                    "stars": 244
+                    "stars": 245
                   }
                 },
                 {
@@ -6165,7 +6165,7 @@
                     "last_commit": "2026-07-03T03:15:24Z",
                     "owner": "ZHE-SAPI",
                     "repo": "CostFilter-AD",
-                    "stars": 91
+                    "stars": 92
                   }
                 },
                 {
@@ -6316,7 +6316,7 @@
             "last_commit": "2020-05-09T14:00:29Z",
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -6331,7 +6331,7 @@
             "last_commit": "2024-12-02T15:07:50Z",
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 105
+            "stars": 104
           }
         },
         {
@@ -6346,7 +6346,7 @@
             "last_commit": "2024-03-13T11:30:37Z",
             "owner": "M-3LAB",
             "repo": "Real3D-AD",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -6481,7 +6481,7 @@
             "last_commit": "2020-05-09T14:00:29Z",
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -6511,7 +6511,7 @@
             "last_commit": "2024-03-13T11:30:37Z",
             "owner": "M-3LAB",
             "repo": "Real3D-AD",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -6526,7 +6526,7 @@
             "last_commit": "2024-08-26T08:03:26Z",
             "owner": "EnVision-Research",
             "repo": "Defect_Spectrum",
-            "stars": 136
+            "stars": 135
           }
         },
         {
@@ -6571,7 +6571,7 @@
             "last_commit": "2024-12-02T15:07:50Z",
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 105
+            "stars": 104
           }
         },
         {
@@ -6631,7 +6631,7 @@
             "last_commit": "2024-12-01T13:28:59Z",
             "owner": "VincentHancoder",
             "repo": "SSGD",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -6894,9 +6894,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:54:52.661Z",
-    "original_repository": "M-3LAB/awesome-industrial-anomaly-detection",
-    "original_repository_id": 573313337,
+    "last_updated": "2026-08-27T11:43:55.660Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 573313337,
+      "language": null,
+      "last_commit": "2026-08-21T07:55:15Z",
+      "owner": "M-3LAB",
+      "repo": "awesome-industrial-anomaly-detection",
+      "stars": 3747
+    },
     "original_repository_sha": "64f2719120db78fc580099434925e6333e184d47",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
     "enhanced_repository_description": null,
