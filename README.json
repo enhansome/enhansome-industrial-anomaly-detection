@@ -47,7 +47,7 @@
             "open_issues": 5,
             "owner": "jam-cc",
             "repo": "AD-Copilot",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -110,7 +110,7 @@
             "id": 1090905215,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-19T17:49:05Z",
+            "last_commit": "2026-08-29T19:14:04Z",
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1133,
+            "stars": 1132,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -441,7 +441,7 @@
             "open_issues": 5,
             "owner": "jam-cc",
             "repo": "AD-Copilot",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -814,7 +814,7 @@
             "open_issues": 78,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6098,
+            "stars": 6099,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1582,7 +1582,7 @@
                 "open_issues": 4,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -2827,7 +2827,7 @@
             "open_issues": 78,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6098,
+            "stars": 6099,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4084,7 +4084,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1133,
+                    "stars": 1132,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5904,7 +5904,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1133,
+                    "stars": 1132,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6020,7 +6020,7 @@
                     "open_issues": 5,
                     "owner": "gaobb",
                     "repo": "MetaUAS",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": [
                       "anomaly-detection",
                       "few-shot-anomaly-detection",
@@ -6045,7 +6045,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6083,7 +6083,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -8766,7 +8766,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1133,
+                "stars": 1132,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8850,7 +8850,7 @@
                 "open_issues": 5,
                 "owner": "jam-cc",
                 "repo": "AD-Copilot",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:42:21.295Z",
+    "last_updated": "2026-08-30T10:32:22.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10264,7 +10264,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3749,
+      "stars": 3748,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
