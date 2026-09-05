@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1379,
+            "stars": 1381,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1132,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T09:41:41Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-05T03:17:03Z",
+            "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6113,
+            "stars": 6116,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -984,7 +984,7 @@
                 "open_issues": 0,
                 "owner": "Junhaocai27",
                 "repo": "CMDS-AD",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1386,7 +1386,7 @@
                 "open_issues": 5,
                 "owner": "zhushengxinyue",
                 "repo": "GS-CLIP",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1428,7 +1428,7 @@
                 "open_issues": 0,
                 "owner": "Xi-Mu-Yu",
                 "repo": "FB-CLIP",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1669,7 +1669,7 @@
                 "id": 1096509761,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-04-25T11:43:36Z",
+                "last_commit": "2026-09-04T12:02:33Z",
                 "open_issues": 0,
                 "owner": "yuxin-jiang",
                 "repo": "Anomagic",
@@ -2823,11 +2823,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T09:41:41Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-05T03:17:03Z",
+            "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6113,
+            "stars": 6116,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3792,7 +3792,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1379,
+                    "stars": 1381,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4084,7 +4084,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1132,
+                    "stars": 1133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4926,6 +4926,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [2025]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "fmad",
+                    "homepage": null,
+                    "id": 1209689095,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-04-13T17:26:09Z",
+                    "open_issues": 1,
+                    "owner": "lil-wayne-0319",
+                    "repo": "fmad",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [AAAI 2026]",
                   "description": "[code]",
                   "children": [],
@@ -4941,27 +4962,6 @@
                     "owner": "ls1rius",
                     "repo": "MRI_FDP",
                     "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [2025]",
-                  "description": "[code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "fmad",
-                    "homepage": null,
-                    "id": 1209689095,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-04-13T17:26:09Z",
-                    "open_issues": 1,
-                    "owner": "lil-wayne-0319",
-                    "repo": "fmad",
-                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5471,7 +5471,7 @@
                     "open_issues": 2,
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 341,
+                    "stars": 342,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5489,7 +5489,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-07-07T23:20:51Z",
-                    "open_issues": 37,
+                    "open_issues": 38,
                     "owner": "caoyunkang",
                     "repo": "AdaCLIP",
                     "stars": 310,
@@ -5855,7 +5855,7 @@
                     "open_issues": 0,
                     "owner": "Xi-Mu-Yu",
                     "repo": "FB-CLIP",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5904,7 +5904,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1132,
+                    "stars": 1133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6415,7 +6415,7 @@
                     "open_issues": 0,
                     "owner": "Junhaocai27",
                     "repo": "CMDS-AD",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6814,7 +6814,7 @@
                 "id": 1096509761,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-04-25T11:43:36Z",
+                "last_commit": "2026-09-04T12:02:33Z",
                 "open_issues": 0,
                 "owner": "yuxin-jiang",
                 "repo": "Anomagic",
@@ -7511,7 +7511,7 @@
                 "open_issues": 2,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 341,
+                "stars": 342,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7957,7 +7957,7 @@
                 "open_issues": 5,
                 "owner": "zhushengxinyue",
                 "repo": "GS-CLIP",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8766,7 +8766,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1132,
+                "stars": 1133,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9782,7 +9782,7 @@
             "open_issues": 5,
             "owner": "zhangzilongc",
             "repo": "MMR",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:45:02.119Z",
+    "last_updated": "2026-09-05T09:10:04.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10264,7 +10264,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3759,
+      "stars": 3760,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
