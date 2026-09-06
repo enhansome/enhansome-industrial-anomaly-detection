@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1381,
+            "stars": 1382,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -814,7 +814,7 @@
             "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6116,
+            "stars": 6119,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1212,7 +1212,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1582,7 +1582,7 @@
                 "open_issues": 4,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -1701,7 +1701,7 @@
                 "open_issues": 17,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1839,7 +1839,7 @@
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "CHIMERA",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2827,7 +2827,7 @@
             "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6116,
+            "stars": 6119,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3792,7 +3792,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1381,
+                    "stars": 1382,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4105,7 +4105,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 665,
+                    "stars": 667,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4262,7 +4262,7 @@
                     "open_issues": 1,
                     "owner": "guanwei49",
                     "repo": "EMIT",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "computer-vision",
                       "grpo",
@@ -5429,7 +5429,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 665,
+                    "stars": 667,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5607,7 +5607,7 @@
                     "open_issues": 17,
                     "owner": "Yanhui-Lee",
                     "repo": "IAD-R1",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6045,7 +6045,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6083,7 +6083,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -7112,7 +7112,7 @@
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "CHIMERA",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8829,7 +8829,7 @@
                 "open_issues": 17,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8892,7 +8892,7 @@
                 "open_issues": 1,
                 "owner": "guanwei49",
                 "repo": "EMIT",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "computer-vision",
                   "grpo",
@@ -9370,7 +9370,7 @@
             "open_issues": 5,
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "anomaly-detection",
               "benchmark",
@@ -9618,7 +9618,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -9687,7 +9687,7 @@
             "open_issues": 6,
             "owner": "EnVision-Research",
             "repo": "Defect_Spectrum",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9754,7 +9754,7 @@
             "open_issues": 5,
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "anomaly-detection",
               "benchmark",
@@ -9845,7 +9845,7 @@
             "open_issues": 2,
             "owner": "VincentHancoder",
             "repo": "SSGD",
-            "stars": 64,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:10:04.064Z",
+    "last_updated": "2026-09-06T09:31:33.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10264,7 +10264,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3760,
+      "stars": 3761,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
