@@ -47,7 +47,7 @@
             "open_issues": 5,
             "owner": "jam-cc",
             "repo": "AD-Copilot",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -153,7 +153,7 @@
             "open_issues": 21,
             "owner": "hq-deng",
             "repo": "RD4AD",
-            "stars": 252,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -197,7 +197,7 @@
             "open_issues": 4,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -218,7 +218,7 @@
             "open_issues": 9,
             "owner": "tientrandinh",
             "repo": "Revisiting-Reverse-Distillation",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "anomaly-detection",
               "computer-vision",
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1382,
+            "stars": 1383,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -441,7 +441,7 @@
             "open_issues": 5,
             "owner": "jam-cc",
             "repo": "AD-Copilot",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:17:03Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-07T08:37:31Z",
+            "open_issues": 75,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6119,
+            "stars": 6120,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1212,7 +1212,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1254,7 +1254,7 @@
                 "open_issues": 3,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1302,7 +1302,7 @@
                 "open_issues": 2,
                 "owner": "SkyShunsuke",
                 "repo": "InversionAD",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1648,7 +1648,7 @@
                 "open_issues": 3,
                 "owner": "gaobb",
                 "repo": "AdaptCLIP",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "anomaly-detection",
                   "few-shot-anomaly-detection",
@@ -1797,7 +1797,7 @@
                 "open_issues": 7,
                 "owner": "yulimso",
                 "repo": "AnoStyler",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2476,11 +2476,11 @@
                 "id": 942446523,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-04-20T10:38:57Z",
+                "last_commit": "2026-09-07T01:56:53Z",
                 "open_issues": 5,
                 "owner": "fengyan-cv",
                 "repo": "WPFormer",
-                "stars": 102,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2561,7 +2561,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-04T20:08:15Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
                 "stars": 68,
@@ -2582,7 +2582,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-04T20:08:15Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
                 "stars": 68,
@@ -2785,15 +2785,15 @@
               "description": "[code]",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A Unified Latent Schrödinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization",
                 "homepage": null,
                 "id": 954009316,
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-02T03:03:51Z",
-                "open_issues": 2,
-                "owner": "ShilhoraAkshayPatel",
+                "open_issues": 0,
+                "owner": "Akshay-Shilhora-AS",
                 "repo": "LASB",
                 "stars": 1,
                 "topics": []
@@ -2806,7 +2806,7 @@
           "title": "CVPR 2025"
         }
       ],
-      "title": "Recent research"
+      "title": "Recent research [survey]"
     },
     {
       "description": null,
@@ -2823,11 +2823,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:17:03Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-07T08:37:31Z",
+            "open_issues": 75,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6119,
+            "stars": 6120,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -2856,7 +2856,7 @@
             "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1072,
+            "stars": 1071,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -3150,7 +3150,7 @@
                     "open_issues": 21,
                     "owner": "hq-deng",
                     "repo": "RD4AD",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3171,7 +3171,7 @@
                     "open_issues": 9,
                     "owner": "tientrandinh",
                     "repo": "Revisiting-Reverse-Distillation",
-                    "stars": 170,
+                    "stars": 171,
                     "topics": [
                       "anomaly-detection",
                       "computer-vision",
@@ -3792,7 +3792,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1382,
+                    "stars": 1383,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4105,7 +4105,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 667,
+                    "stars": 668,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4312,7 +4312,7 @@
                     "open_issues": 1,
                     "owner": "giddyyupp",
                     "repo": "VLMDiff",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": [
                       "anomaly-detection",
                       "diffusion-models",
@@ -4840,7 +4840,7 @@
                     "open_issues": 2,
                     "owner": "SkyShunsuke",
                     "repo": "InversionAD",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5429,7 +5429,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 667,
+                    "stars": 668,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5471,7 +5471,7 @@
                     "open_issues": 2,
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 342,
+                    "stars": 343,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5540,7 +5540,7 @@
                     "open_issues": 3,
                     "owner": "gaobb",
                     "repo": "AdaptCLIP",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "anomaly-detection",
                       "few-shot-anomaly-detection",
@@ -6235,7 +6235,7 @@
                     "open_issues": 5,
                     "owner": "Haoyan-Guan",
                     "repo": "CAReg",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6940,7 +6940,7 @@
                 "open_issues": 3,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7031,27 +7031,6 @@
             },
             {
               "node_type": "item",
-              "title": "AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [2024]",
-              "description": "[data]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 793910462,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-10-30T13:53:21Z",
-                "open_issues": 3,
-                "owner": "hujiecpp",
-                "repo": "MVTec-Caption",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
               "title": "AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [AAAI 2026]",
               "description": "[code]",
               "children": [],
@@ -7066,6 +7045,27 @@
                 "open_issues": 7,
                 "owner": "yulimso",
                 "repo": "AnoStyler",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [2024]",
+              "description": "[data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 793910462,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-10-30T13:53:21Z",
+                "open_issues": 3,
+                "owner": "hujiecpp",
+                "repo": "MVTec-Caption",
                 "stars": 22,
                 "topics": []
               },
@@ -7511,7 +7511,7 @@
                 "open_issues": 2,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 342,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8357,8 +8357,34 @@
                 "open_issues": 0,
                 "owner": "jiayi-art",
                 "repo": "MC3D-AD",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [2025]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[WACV-2026] VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion",
+                "homepage": null,
+                "id": 1056236112,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-02-02T19:02:03Z",
+                "open_issues": 1,
+                "owner": "giddyyupp",
+                "repo": "VLMDiff",
+                "stars": 8,
+                "topics": [
+                  "anomaly-detection",
+                  "diffusion-models",
+                  "vision-language-model",
+                  "visual-anomaly-detection"
+                ]
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             },
@@ -8380,32 +8406,6 @@
                 "repo": "ReFP-AD",
                 "stars": 8,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [2025]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[WACV-2026] VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion",
-                "homepage": null,
-                "id": 1056236112,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-02-02T19:02:03Z",
-                "open_issues": 1,
-                "owner": "giddyyupp",
-                "repo": "VLMDiff",
-                "stars": 7,
-                "topics": [
-                  "anomaly-detection",
-                  "diffusion-models",
-                  "vision-language-model",
-                  "visual-anomaly-detection"
-                ]
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             },
@@ -8850,7 +8850,7 @@
                 "open_issues": 5,
                 "owner": "jam-cc",
                 "repo": "AD-Copilot",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9123,7 +9123,7 @@
                     "open_issues": 4,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9286,7 +9286,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 543,
+            "stars": 544,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9492,7 +9492,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 543,
+            "stars": 544,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9534,7 +9534,7 @@
             "open_issues": 5,
             "owner": "InsulatorData",
             "repo": "InsulatorDataSet",
-            "stars": 356,
+            "stars": 355,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9905,10 +9905,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-05T19:50:56Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "kaichen-z",
             "repo": "RAD",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:31:33.126Z",
+    "last_updated": "2026-09-07T10:30:21.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10260,11 +10260,11 @@
       "id": 573313337,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-28T03:55:38Z",
+      "last_commit": "2026-09-07T08:06:22Z",
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3761,
+      "stars": 3762,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
@@ -10276,7 +10276,7 @@
         "medical"
       ]
     },
-    "original_repository_sha": "068309934fb52b6050edd386debd5639c102c455",
+    "original_repository_sha": "db5797fa1aeea8f9b9cfbee9dd6217f97fcfcfc2",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Industrial Anomaly Detection with stars"
