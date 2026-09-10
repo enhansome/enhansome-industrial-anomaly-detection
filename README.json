@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "3d",
               "anomaly-detection",
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1387,
+            "stars": 1389,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -483,7 +483,7 @@
             "open_issues": 19,
             "owner": "xcyao00",
             "repo": "BGAD",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "anomaly-detection",
               "explicit-boundary",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "jiaq-liu",
             "repo": "UCAD",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "anomaly-detection",
               "anomaly-segmentation",
@@ -665,7 +665,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "Real3D-AD",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "3d-anomaly-detection",
               "anomaly-detection",
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T02:23:50Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-10T07:45:39Z",
+            "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6131,
+            "stars": 6135,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1187,7 +1187,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 247,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1233,7 +1233,7 @@
                 "open_issues": 2,
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1365,7 +1365,7 @@
                 "open_issues": 1,
                 "owner": "CoCoRessa",
                 "repo": "MoECLIP",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1673,7 +1673,7 @@
                 "open_issues": 0,
                 "owner": "yuxin-jiang",
                 "repo": "Anomagic",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "anomaly-detection",
                   "computer-vision",
@@ -2417,7 +2417,7 @@
                 "open_issues": 11,
                 "owner": "HUST-SLOW",
                 "repo": "AnomalyNCD",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2823,11 +2823,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T02:23:50Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-10T07:45:39Z",
+            "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6131,
+            "stars": 6135,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3380,7 +3380,7 @@
                     "open_issues": 5,
                     "owner": "cqylunlun",
                     "repo": "GLASS",
-                    "stars": 392,
+                    "stars": 393,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3792,7 +3792,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1387,
+                    "stars": 1389,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4105,7 +4105,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 670,
+                    "stars": 671,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4436,7 +4436,7 @@
                     "open_issues": 11,
                     "owner": "ristea",
                     "repo": "sspcab",
-                    "stars": 163,
+                    "stars": 164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4457,7 +4457,7 @@
                     "open_issues": 1,
                     "owner": "hmsch",
                     "repo": "natural-synthetic-anomalies",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": [
                       "anomaly-detection",
                       "self-supervised-learning"
@@ -5121,7 +5121,7 @@
                     "open_issues": 3,
                     "owner": "mala-lab",
                     "repo": "AHL",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": [
                       "anomaly-detection",
                       "image-anomaly-detection",
@@ -5429,7 +5429,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 670,
+                    "stars": 671,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5786,7 +5786,7 @@
                     "open_issues": 1,
                     "owner": "CoCoRessa",
                     "repo": "MoECLIP",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6628,7 +6628,7 @@
                 "open_issues": 5,
                 "owner": "cqylunlun",
                 "repo": "GLASS",
-                "stars": 392,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6783,6 +6783,34 @@
             },
             {
               "node_type": "item",
+              "title": "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [AAAI 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[AAAI 2026] The Official Implementation for \"Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation\"",
+                "homepage": "https://yuxin-jiang.github.io/Anomagic/",
+                "id": 1096509761,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-04T12:02:33Z",
+                "open_issues": 0,
+                "owner": "yuxin-jiang",
+                "repo": "Anomagic",
+                "stars": 159,
+                "topics": [
+                  "anomaly-detection",
+                  "computer-vision",
+                  "diffusion-models",
+                  "multimodal-llm",
+                  "text-to-image",
+                  "zero-shot-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
               "description": "[code]",
               "children": [],
@@ -6799,34 +6827,6 @@
                 "repo": "DFMGAN",
                 "stars": 158,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [AAAI 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[AAAI 2026] The Official Implementation for \"Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation\"",
-                "homepage": "https://yuxin-jiang.github.io/Anomagic/",
-                "id": 1096509761,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-04T12:02:33Z",
-                "open_issues": 0,
-                "owner": "yuxin-jiang",
-                "repo": "Anomagic",
-                "stars": 158,
-                "topics": [
-                  "anomaly-detection",
-                  "computer-vision",
-                  "diffusion-models",
-                  "multimodal-llm",
-                  "text-to-image",
-                  "zero-shot-learning"
-                ]
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             },
@@ -6916,7 +6916,7 @@
                 "open_issues": 1,
                 "owner": "hmsch",
                 "repo": "natural-synthetic-anomalies",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "anomaly-detection",
                   "self-supervised-learning"
@@ -7532,7 +7532,7 @@
                 "open_issues": 0,
                 "owner": "M-3LAB",
                 "repo": "Real3D-AD",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "3d-anomaly-detection",
                   "anomaly-detection",
@@ -7881,7 +7881,7 @@
                 "open_issues": 0,
                 "owner": "jiaq-liu",
                 "repo": "UCAD",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -7978,7 +7978,7 @@
                 "open_issues": 0,
                 "owner": "hzzzzzhappy",
                 "repo": "C3DAD",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9042,7 +9042,7 @@
                     "open_issues": 11,
                     "owner": "HUST-SLOW",
                     "repo": "AnomalyNCD",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9398,7 +9398,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "Real3D-AD",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "3d-anomaly-detection",
               "anomaly-detection",
@@ -9513,7 +9513,7 @@
             "open_issues": 5,
             "owner": "cqylunlun",
             "repo": "GLASS",
-            "stars": 392,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9660,7 +9660,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "Real3D-AD",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "3d-anomaly-detection",
               "anomaly-detection",
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:54:40.108Z",
+    "last_updated": "2026-09-10T09:52:09.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10264,7 +10264,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3767,
+      "stars": 3769,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
