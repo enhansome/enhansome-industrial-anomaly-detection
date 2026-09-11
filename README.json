@@ -315,7 +315,7 @@
             "open_issues": 18,
             "owner": "VitjanZ",
             "repo": "DRAEM",
-            "stars": 292,
+            "stars": 293,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T07:45:39Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-10T14:11:28Z",
+            "open_issues": 74,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6135,
+            "stars": 6145,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -871,7 +871,7 @@
             "open_issues": 39,
             "owner": "zhangzjn",
             "repo": "ADer",
-            "stars": 351,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1187,7 +1187,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 248,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1208,7 +1208,7 @@
                 "open_issues": 4,
                 "owner": "yuanzhao-CVLAB",
                 "repo": "UniMMAD",
-                "stars": 246,
+                "stars": 248,
                 "topics": [
                   "anomaly-detection",
                   "mixture-of-experts",
@@ -1233,7 +1233,7 @@
                 "open_issues": 2,
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 127,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1275,7 +1275,7 @@
                 "open_issues": 2,
                 "owner": "MaticFuc",
                 "repo": "AnomalyVFM",
-                "stars": 68,
+                "stars": 70,
                 "topics": [
                   "anomaly-detection",
                   "cvpr",
@@ -1930,7 +1930,7 @@
                 "open_issues": 0,
                 "owner": "JasonKyng",
                 "repo": "NAGL",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2354,7 +2354,7 @@
                 "open_issues": 45,
                 "owner": "luow23",
                 "repo": "INP-Former",
-                "stars": 318,
+                "stars": 319,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2564,7 +2564,7 @@
                 "open_issues": 1,
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2585,7 +2585,7 @@
                 "open_issues": 1,
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2823,11 +2823,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T07:45:39Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-10T14:11:28Z",
+            "open_issues": 74,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6135,
+            "stars": 6145,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -2856,7 +2856,7 @@
             "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1072,
+            "stars": 1071,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -3449,7 +3449,7 @@
                     "open_issues": 1,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 177,
+                    "stars": 178,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -3884,7 +3884,7 @@
                     "open_issues": 0,
                     "owner": "wogur110",
                     "repo": "PNI_anomaly_detection",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4415,7 +4415,7 @@
                     "open_issues": 18,
                     "owner": "VitjanZ",
                     "repo": "DRAEM",
-                    "stars": 292,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5017,7 +5017,7 @@
                     "open_issues": 1,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 177,
+                    "stars": 178,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -5468,10 +5468,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-05-14T03:48:21Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 344,
+                    "stars": 347,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5635,6 +5635,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [CVPR 2026]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR'26] AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors",
+                    "homepage": "https://maticfuc.github.io/anomaly_vfm/",
+                    "id": 1143173476,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-04-21T06:54:32Z",
+                    "open_issues": 2,
+                    "owner": "MaticFuc",
+                    "repo": "AnomalyVFM",
+                    "stars": 70,
+                    "topics": [
+                      "anomaly-detection",
+                      "cvpr",
+                      "cvpr-2026",
+                      "image-generation",
+                      "zero-shot-anomaly-detection"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [ICCV 2025]",
                   "description": "[code]",
                   "children": [],
@@ -5651,33 +5678,6 @@
                     "repo": "MultiADS",
                     "stars": 68,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [CVPR 2026]",
-                  "description": "[code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR'26] AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors",
-                    "homepage": "https://maticfuc.github.io/anomaly_vfm/",
-                    "id": 1143173476,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-04-21T06:54:32Z",
-                    "open_issues": 2,
-                    "owner": "MaticFuc",
-                    "repo": "AnomalyVFM",
-                    "stars": 68,
-                    "topics": [
-                      "anomaly-detection",
-                      "cvpr",
-                      "cvpr-2026",
-                      "image-generation",
-                      "zero-shot-anomaly-detection"
-                    ]
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
                 },
@@ -6691,7 +6691,7 @@
                 "open_issues": 18,
                 "owner": "VitjanZ",
                 "repo": "DRAEM",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6760,7 +6760,7 @@
                 "open_issues": 1,
                 "owner": "blaz-r",
                 "repo": "SuperSimpleNet",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -7508,10 +7508,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-14T03:48:21Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 344,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8071,7 +8071,7 @@
                 "open_issues": 39,
                 "owner": "zhangzjn",
                 "repo": "ADer",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8738,7 +8738,7 @@
                 "open_issues": 4,
                 "owner": "jasonjin34",
                 "repo": "logicAD",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8918,7 +8918,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-28T09:27:07Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "mala-lab",
                 "repo": "AnomalyAgent",
                 "stars": 15,
@@ -9098,7 +9098,7 @@
                     "open_issues": 4,
                     "owner": "yuanzhao-CVLAB",
                     "repo": "UniMMAD",
-                    "stars": 246,
+                    "stars": 248,
                     "topics": [
                       "anomaly-detection",
                       "mixture-of-experts",
@@ -9618,7 +9618,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:52:09.667Z",
+    "last_updated": "2026-09-11T09:51:30.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
