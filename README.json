@@ -174,7 +174,7 @@
             "open_issues": 30,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 520,
+            "stars": 522,
             "topics": [
               "anomaly-detection"
             ]
@@ -814,7 +814,7 @@
             "open_issues": 74,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6145,
+            "stars": 6150,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -949,27 +949,6 @@
             },
             {
               "node_type": "item",
-              "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of \"LogiCo: A Unified Framework for Logical and Structural Anomaly Detection (ECCV 2026)\"",
-                "homepage": null,
-                "id": 1281869988,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-30T01:47:18Z",
-                "open_issues": 1,
-                "owner": "cnulab",
-                "repo": "LogiCo",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
               "title": "CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -984,7 +963,28 @@
                 "open_issues": 0,
                 "owner": "Junhaocai27",
                 "repo": "CMDS-AD",
-                "stars": 11,
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"LogiCo: A Unified Framework for Logical and Structural Anomaly Detection (ECCV 2026)\"",
+                "homepage": null,
+                "id": 1281869988,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-30T01:47:18Z",
+                "open_issues": 1,
+                "owner": "cnulab",
+                "repo": "LogiCo",
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 0,
                 "owner": "CLendering",
                 "repo": "ReFP-AD",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2331,7 +2331,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 520,
+                "stars": 522,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -2827,7 +2827,7 @@
             "open_issues": 74,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6145,
+            "stars": 6150,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -2856,7 +2856,7 @@
             "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1071,
+            "stars": 1074,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -3001,7 +3001,7 @@
             "open_issues": 1,
             "owner": "AtsuMiyai",
             "repo": "Awesome-OOD-VLM",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6415,7 +6415,7 @@
                     "open_issues": 0,
                     "owner": "Junhaocai27",
                     "repo": "CMDS-AD",
-                    "stars": 11,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8048,7 +8048,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 520,
+                "stars": 522,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -8343,27 +8343,6 @@
             },
             {
               "node_type": "item",
-              "title": "MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [IJCAI 2025]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch Implementation of MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection. Accepted by IJCAI 2025.",
-                "homepage": null,
-                "id": 980068995,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T12:45:12Z",
-                "open_issues": 0,
-                "owner": "jiayi-art",
-                "repo": "MC3D-AD",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
               "title": "ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -8378,6 +8357,27 @@
                 "open_issues": 0,
                 "owner": "CLendering",
                 "repo": "ReFP-AD",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [IJCAI 2025]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch Implementation of MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection. Accepted by IJCAI 2025.",
+                "homepage": null,
+                "id": 980068995,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-31T12:45:12Z",
+                "open_issues": 0,
+                "owner": "jiayi-art",
+                "repo": "MC3D-AD",
                 "stars": 9,
                 "topics": []
               },
@@ -8675,7 +8675,7 @@
                 "open_issues": 1,
                 "owner": "cnulab",
                 "repo": "LogiCo",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:27:27.009Z",
+    "last_updated": "2026-09-13T10:23:26.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
