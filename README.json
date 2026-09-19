@@ -642,9 +642,9 @@
             "license": "MIT",
             "last_commit": "2023-09-08T08:52:50Z",
             "open_issues": 22,
-            "owner": "nomewang",
+            "owner": "wynoxos",
             "repo": "M3DM",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T08:36:01Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-19T03:16:53Z",
+            "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6171,
+            "stars": 6174,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1187,7 +1187,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 253,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2396,7 +2396,7 @@
                 "open_issues": 29,
                 "owner": "Mwxinnn",
                 "repo": "AA-CLIP",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2823,11 +2823,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T08:36:01Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-19T03:16:53Z",
+            "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6171,
+            "stars": 6174,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3380,7 +3380,7 @@
                     "open_issues": 5,
                     "owner": "cqylunlun",
                     "repo": "GLASS",
-                    "stars": 393,
+                    "stars": 394,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5492,7 +5492,7 @@
                     "open_issues": 38,
                     "owner": "caoyunkang",
                     "repo": "AdaCLIP",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6628,7 +6628,7 @@
                 "open_issues": 5,
                 "owner": "cqylunlun",
                 "repo": "GLASS",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7297,9 +7297,9 @@
                 "license": "MIT",
                 "last_commit": "2023-09-08T08:52:50Z",
                 "open_issues": 22,
-                "owner": "nomewang",
+                "owner": "wynoxos",
                 "repo": "M3DM",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9513,7 +9513,7 @@
             "open_issues": 5,
             "owner": "cqylunlun",
             "repo": "GLASS",
-            "stars": 393,
+            "stars": 394,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10252,7 +10252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:53:58.507Z",
+    "last_updated": "2026-09-19T09:36:50.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10264,7 +10264,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3788,
+      "stars": 3789,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
