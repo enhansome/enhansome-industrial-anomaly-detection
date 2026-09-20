@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "We will keep focusing on this field and updating relevant information.\nKeywords: anomaly detection, anomaly segmentation, industrial image, defect detection\n[Main Page] [Survey] [Benchmark] [Result]\n🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.\n🔥🔥🔥 We compare different types of anomaly synthesis methods in detail. Welcome to make comments.\nASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [paper]",
+      "description": "We will keep focusing on this field and updating relevant information.\nKeywords: anomaly detection, anomaly segmentation, industrial image, defect detection\n🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.\n🔥🔥🔥 We compare different types of anomaly synthesis methods in detail. Welcome to make comments.\nASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [paper]",
       "items": [
         {
           "node_type": "item",
@@ -86,7 +86,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-11-18T11:37:53Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "M-3LAB",
             "repo": "awesome-anomaly-synthesis",
             "stars": 80,
@@ -110,7 +110,7 @@
             "id": 1090905215,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-08T17:58:58Z",
+            "last_commit": "2026-09-19T12:46:18Z",
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
@@ -197,7 +197,7 @@
             "open_issues": 4,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 114,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1396,
+            "stars": 1397,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -532,10 +532,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-07-13T09:38:08Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "TencentYoutuResearch",
             "repo": "AnomalyDetection-SoftPatch",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -814,7 +814,7 @@
             "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6174,
+            "stars": 6177,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -879,7 +879,7 @@
         {
           "node_type": "item",
           "title": "MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection",
-          "description": "ICLR 2024 Github Benchmark",
+          "description": "ICLR 2025 Github Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1054,7 +1054,28 @@
             },
             {
               "node_type": "item",
-              "title": "DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
+              "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV2026] The Official Implementation for ''CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection''",
+                "homepage": null,
+                "id": 1283014702,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-03T03:35:35Z",
+                "open_issues": 1,
+                "owner": "WenDongyp",
+                "repo": "CL-Anomaly",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
               "description": "[code]",
               "children": [],
               "repo_info": {
@@ -1075,7 +1096,7 @@
             },
             {
               "node_type": "item",
-              "title": "UniScale: Arbitrary-Scale Industrial Anomaly Generation [ECCV 2026]",
+              "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
               "description": "[code]",
               "children": [],
               "repo_info": {
@@ -1093,6 +1114,174 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Anomaly Factory 3D: A modular framework for controlled geometric pseudo-anomaly synthesis in 3D point clouds.",
+                "homepage": "https://alibalapour.github.io/AF3AD",
+                "id": 1281744544,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-08T22:11:40Z",
+                "open_issues": 0,
+                "owner": "vpc-ccg",
+                "repo": "AF3AD",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation for DeltaDeno",
+                "homepage": null,
+                "id": 1276489624,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-25T12:42:02Z",
+                "open_issues": 0,
+                "owner": "CROVO1026",
+                "repo": "DeltaDeno",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of the paper \"Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria\" which is accepted by ECCV 26. This work introduces criteria for logical anomaly detection and provide a new large-scale training set for LAD, FLAW.",
+                "homepage": null,
+                "id": 1281365524,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-26T13:45:34Z",
+                "open_issues": 0,
+                "owner": "tzjtatata",
+                "repo": "SCAN",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "A Comprehensive Analysis about Unsupervised Outlier Detection for Images [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1280891389,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-13T02:21:53Z",
+                "open_issues": 0,
+                "owner": "zhliu-uod",
+                "repo": "VUOD",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FuDU: A Fuzzy Dual-dimension Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection[ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FuDU: Fuzzy Dual-dimensional Uncertainty for Streaming Active Learning in Industrial Defect Detection",
+                "homepage": null,
+                "id": 1280247483,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-25T13:25:08Z",
+                "open_issues": 0,
+                "owner": "wangzhaoyang-508",
+                "repo": "FuDU",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection",
+                "homepage": "https://arxiv.org/abs/2602.13091",
+                "id": 1355296016,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-02T22:53:30Z",
+                "open_issues": 0,
+                "owner": "DeclanMcIntosh",
+                "repo": "BAAF",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1282207646,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-30T03:20:06Z",
+                "open_issues": 0,
+                "owner": "evoLonation",
+                "repo": "DeMuS",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ECCV2026",
+                "homepage": null,
+                "id": 1323655431,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-09T05:44:48Z",
+                "open_issues": 0,
+                "owner": "leolin65",
+                "repo": "EGVLR-project",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
             }
           ],
           "description": null,
@@ -1117,7 +1306,7 @@
                 "open_issues": 0,
                 "owner": "longkukuhi",
                 "repo": "RAD",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1135,7 +1324,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-17T13:04:45Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "SirojbekSafarov",
                 "repo": "MeDS",
                 "stars": 19,
@@ -1187,7 +1376,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 254,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1240,6 +1429,27 @@
             },
             {
               "node_type": "item",
+              "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026 Highlight] The Official Implementation for \"One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control\"",
+                "homepage": "https://arxiv.org/abs/2603.18093",
+                "id": 1184938420,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2026-03-26T02:19:20Z",
+                "open_issues": 3,
+                "owner": "echrao",
+                "repo": "O2MAG",
+                "stars": 74,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [CVPR 2026]",
               "description": "[code]",
               "children": [],
@@ -1262,27 +1472,6 @@
                   "image-generation",
                   "zero-shot-anomaly-detection"
                 ]
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026 Highlight] The Official Implementation for \"One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control\"",
-                "homepage": "https://arxiv.org/abs/2603.18093",
-                "id": 1184938420,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2026-03-26T02:19:20Z",
-                "open_issues": 3,
-                "owner": "echrao",
-                "repo": "O2MAG",
-                "stars": 73,
-                "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             },
@@ -1365,7 +1554,7 @@
                 "open_issues": 1,
                 "owner": "CoCoRessa",
                 "repo": "MoECLIP",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2480,7 +2669,7 @@
                 "open_issues": 5,
                 "owner": "fengyan-cv",
                 "repo": "WPFormer",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2522,7 +2711,7 @@
                 "open_issues": 4,
                 "owner": "MapleBoat",
                 "repo": "MulSen-AD",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2827,7 +3016,7 @@
             "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6174,
+            "stars": 6177,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3328,7 +3517,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-06-17T13:04:45Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "SirojbekSafarov",
                     "repo": "MeDS",
                     "stars": 19,
@@ -3565,6 +3754,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [ECCV 2026]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection",
+                    "homepage": "https://arxiv.org/abs/2602.13091",
+                    "id": 1355296016,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-02T22:53:30Z",
+                    "open_issues": 0,
+                    "owner": "DeclanMcIntosh",
+                    "repo": "BAAF",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-20T09:52:50.611Z"
                 }
               ],
               "description": null,
@@ -3792,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1396,
+                    "stars": 1397,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4996,7 +5206,7 @@
                     "open_issues": 52,
                     "owner": "sjtuplayer",
                     "repo": "anomalydiffusion",
-                    "stars": 329,
+                    "stars": 330,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5281,7 +5491,7 @@
                     "open_issues": 4,
                     "owner": "zhangzilongc",
                     "repo": "SOFS",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5332,6 +5542,48 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [ECCV 2026]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation for DeltaDeno",
+                    "homepage": null,
+                    "id": 1276489624,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-06-25T12:42:02Z",
+                    "open_issues": 0,
+                    "owner": "CROVO1026",
+                    "repo": "DeltaDeno",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-20T09:52:50.611Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Structured guided diffusion models for industrial defect image generation [KBS 2025]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Structured guided diffusion models for industrial defect image generation — inference demo (Structured-GDM)",
+                    "homepage": "https://doi.org/10.1016/j.knosys.2025.114642",
+                    "id": 991767580,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-14T03:33:34Z",
+                    "open_issues": 0,
+                    "owner": "xieyulai",
+                    "repo": "Structured-DGM",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-20T09:52:50.611Z"
                 },
                 {
                   "node_type": "item",
@@ -5471,7 +5723,7 @@
                     "open_issues": 3,
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5628,7 +5880,7 @@
                     "open_issues": 23,
                     "owner": "zqhang",
                     "repo": "PointAD",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5786,7 +6038,7 @@
                     "open_issues": 1,
                     "owner": "CoCoRessa",
                     "repo": "MoECLIP",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5880,6 +6132,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1282207646,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-06-30T03:20:06Z",
+                    "open_issues": 0,
+                    "owner": "evoLonation",
+                    "repo": "DeMuS",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-20T09:52:50.611Z"
                 }
               ],
               "description": null,
@@ -6020,7 +6293,7 @@
                     "open_issues": 5,
                     "owner": "gaobb",
                     "repo": "MetaUAS",
-                    "stars": 94,
+                    "stars": 95,
                     "topics": [
                       "anomaly-detection",
                       "few-shot-anomaly-detection",
@@ -6214,7 +6487,7 @@
                     "open_issues": 4,
                     "owner": "zhangzilongc",
                     "repo": "SOFS",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6466,10 +6739,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-07-13T09:38:08Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "TencentYoutuResearch",
                 "repo": "AnomalyDetection-SoftPatch",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6487,10 +6760,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-07-13T09:38:08Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "TencentYoutuResearch",
                 "repo": "AnomalyDetection-SoftPatch",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6534,7 +6807,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-03-11T13:45:54Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "SpatialAILab",
                 "repo": "FUNAD",
                 "stars": 33,
@@ -6555,7 +6828,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-17T13:04:45Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "SirojbekSafarov",
                 "repo": "MeDS",
                 "stars": 19,
@@ -6649,7 +6922,7 @@
                 "open_issues": 52,
                 "owner": "sjtuplayer",
                 "repo": "anomalydiffusion",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6940,7 +7213,7 @@
                 "open_issues": 3,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7140,7 +7413,7 @@
             },
             {
               "node_type": "item",
-              "title": "DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
+              "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
               "description": "[code]",
               "children": [],
               "repo_info": {
@@ -7182,7 +7455,7 @@
             },
             {
               "node_type": "item",
-              "title": "UniScale: Arbitrary-Scale Industrial Anomaly Generation [ECCV 2026]",
+              "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
               "description": "[code]",
               "children": [],
               "repo_info": {
@@ -7221,6 +7494,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Structured guided diffusion models for industrial defect image generation [KBS 2025]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Structured guided diffusion models for industrial defect image generation — inference demo (Structured-GDM)",
+                "homepage": "https://doi.org/10.1016/j.knosys.2025.114642",
+                "id": 991767580,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-14T03:33:34Z",
+                "open_issues": 0,
+                "owner": "xieyulai",
+                "repo": "Structured-DGM",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
             },
             {
               "node_type": "item",
@@ -7268,7 +7562,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-11-18T11:37:53Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "M-3LAB",
             "repo": "awesome-anomaly-synthesis",
             "stars": 80,
@@ -7511,7 +7805,7 @@
                 "open_issues": 3,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 348,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7580,7 +7874,7 @@
                 "open_issues": 4,
                 "owner": "MapleBoat",
                 "repo": "MulSen-AD",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7601,7 +7895,7 @@
                 "open_issues": 23,
                 "owner": "zqhang",
                 "repo": "PointAD",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7857,6 +8151,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Anomaly Factory 3D: A modular framework for controlled geometric pseudo-anomaly synthesis in 3D point clouds.",
+                "homepage": "https://alibalapour.github.io/AF3AD",
+                "id": 1281744544,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-08T22:11:40Z",
+                "open_issues": 0,
+                "owner": "vpc-ccg",
+                "repo": "AF3AD",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026] IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion",
+                "homepage": null,
+                "id": 1281888803,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-14T02:03:12Z",
+                "open_issues": 1,
+                "owner": "HULEI7",
+                "repo": "IMMoE",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
             }
           ],
           "description": null,
@@ -8003,6 +8339,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV2026] The Official Implementation for ''CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection''",
+                "homepage": null,
+                "id": 1283014702,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-03T03:35:35Z",
+                "open_issues": 1,
+                "owner": "WenDongyp",
+                "repo": "CL-Anomaly",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
             },
             {
               "node_type": "item",
@@ -8742,6 +9099,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of the paper \"Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria\" which is accepted by ECCV 26. This work introduces criteria for logical anomaly detection and provide a new large-scale training set for LAD, FLAW.",
+                "homepage": null,
+                "id": 1281365524,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-26T13:45:34Z",
+                "open_issues": 0,
+                "owner": "tzjtatata",
+                "repo": "SCAN",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
             }
           ],
           "description": null,
@@ -8988,6 +9366,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ECCV2026",
+                "homepage": null,
+                "id": 1323655431,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-09T05:44:48Z",
+                "open_issues": 0,
+                "owner": "leolin65",
+                "repo": "EGVLR-project",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
             }
           ],
           "description": null,
@@ -9123,7 +9522,7 @@
                     "open_issues": 4,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 114,
+                    "stars": 116,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9450,7 +9849,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9576,7 +9975,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9708,7 +10107,7 @@
             "open_issues": 1,
             "owner": "Tencent",
             "repo": "AnomalyDetection_Real-IAD",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9803,7 +10202,7 @@
             "open_issues": 4,
             "owner": "MapleBoat",
             "repo": "MulSen-AD",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10252,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:36:50.563Z",
+    "last_updated": "2026-09-20T09:52:50.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10260,11 +10659,11 @@
       "id": 573313337,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-07T08:06:22Z",
+      "last_commit": "2026-09-20T08:31:07Z",
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3789,
+      "stars": 3790,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
@@ -10276,7 +10675,7 @@
         "medical"
       ]
     },
-    "original_repository_sha": "db5797fa1aeea8f9b9cfbee9dd6217f97fcfcfc2",
+    "original_repository_sha": "5cc49baf67ab6fba22d71e113caeac000312a2ee",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Industrial Anomaly Detection with stars"

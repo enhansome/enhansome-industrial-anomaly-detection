@@ -12,9 +12,9 @@ We will keep focusing on this field and updating relevant information.
 
 Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection
 
-[\[Main Page\]](https://github.com/M-3LAB) [\[Survey\]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,789 | 🐛 1 | 📅 2026-09-07 [\[Benchmark\]](https://github.com/M-3LAB/open-iad) ⭐ 171 | 🐛 3 | 🌐 Python | 📅 2025-02-20 [\[Result\]](https://github.com/M-3LAB/IM-IAD) ⭐ 25 | 🐛 0 | 📅 2023-07-04
+<!-- [[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD) -->
 
-🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and [pull requests](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/pulls) ⭐ 3,789 | 🐛 1 | 📅 2026-09-07.
+🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and [pull requests](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/pulls) ⭐ 3,790 | 🐛 1 | 📅 2026-09-20.
 
 ***
 
@@ -26,9 +26,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [\[paper\]](https://arxiv.org/abs/2510.07927)
 
-A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/2502.16412)[\[github\]](https://github.com/M-3LAB/awesome-anomaly-synthesis) ⭐ 80 | 🐛 0 | 📅 2025-11-18
+A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/2502.16412)[\[github\]](https://github.com/M-3LAB/awesome-anomaly-synthesis) ⭐ 80 | 🐛 1 | 📅 2025-11-18
 
-🔥🔥🔥 3D Anomaly Detection: A Survey [\[paper\]](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJzcG90bGlnaHQiLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ) [\[github\]](https://github.com/M-3LAB/awesome-3d-anomaly-detection) ⭐ 140 | 🐛 0 | 📅 2026-09-08
+🔥🔥🔥 3D Anomaly Detection: A Survey [\[paper\]](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJzcG90bGlnaHQiLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ) [\[github\]](https://github.com/M-3LAB/awesome-3d-anomaly-detection) ⭐ 140 | 🐛 0 | 📅 2026-09-19
 
 ***
 
@@ -99,11 +99,11 @@ A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/250
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: | :--: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 | ![Star](https://img.shields.io/github/stars/hq-deng/RD4AD.svg?style=social\&label=Star) <br> [**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br>                                                                |   CVPR  | 2022 |                         [Github](https://github.com/hq-deng/RD4AD) ⭐ 253 \| 🐛 21 \| 🌐 Python \| 📅 2023-06-23                        |                 Teacher-Student                |
 | ![Star](https://img.shields.io/github/stars/guojiajeremy/Dinomaly.svg?style=social\&label=Star) <br> [**Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Dinomaly_The_Less_Is_More_Philosophy_in_Multi-Class_Unsupervised_Anomaly_CVPR_2025_paper.html) <br>                                    |   CVPR  | 2025 |                     [Github](https://github.com/guojiajeremy/Dinomaly) ⭐ 525 \| 🐛 30 \| 🌐 Python \| 📅 2026-09-17                    |               Multi-Class Unified              |
-| ![Star](https://img.shields.io/github/stars/guojiajeremy/Dinomaly2.svg?style=social\&label=Star) <br> [**One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection**](https://arxiv.org/abs/2510.17611) <br>                                                                                                                                        |  Arxiv  | 2025 |                     [Github](https://github.com/guojiajeremy/Dinomaly2) ⭐ 114 \| 🐛 4 \| 🌐 Python \| 📅 2026-05-30                    | Multi-Class, Multi-View, Multi-Modal, Few-shot |
+| ![Star](https://img.shields.io/github/stars/guojiajeremy/Dinomaly2.svg?style=social\&label=Star) <br> [**One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection**](https://arxiv.org/abs/2510.17611) <br>                                                                                                                                        |  Arxiv  | 2025 |                     [Github](https://github.com/guojiajeremy/Dinomaly2) ⭐ 116 \| 🐛 4 \| 🌐 Python \| 📅 2026-05-30                    | Multi-Class, Multi-View, Multi-Modal, Few-shot |
 | ![Star](https://img.shields.io/github/stars/tientrandinh/Revisiting-Reverse-Distillation.svg?style=social\&label=Star) <br> [**Revisiting Reverse Distillation for Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2023/html/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.html) <br>                                                             |   CVPR  | 2023 |          [Github](https://github.com/tientrandinh/Revisiting-Reverse-Distillation) ⭐ 171 \| 🐛 9 \| 🌐 Python \| 📅 2023-12-28         |                 Teacher-Student                |
 | ![Star](https://img.shields.io/github/stars/DonaldRR/SimpleNet.svg?style=social\&label=Star) <br> [**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_SimpleNet_A_Simple_Network_for_Image_Anomaly_Detection_and_Localization_CVPR_2023_paper.html) <br>                                                   |   CVPR  | 2023 |                      [Github](https://github.com/DonaldRR/SimpleNet) ⭐ 603 \| 🐛 30 \| 🌐 Python \| 📅 2024-08-12                      |            One-Class-Classification            |
 | ![Star](https://img.shields.io/github/stars/gudovskiy/cflow-ad.svg?style=social\&label=Star) <br> [**Real-time unsupervised anomaly detection with localization via conditional normalizing flows**](https://openaccess.thecvf.com/content/WACV2022/html/Gudovskiy_CFLOW-AD_Real-Time_Unsupervised_Anomaly_Detection_With_Localization_via_Conditional_Normalizing_WACV_2022_paper.html) <br> |   WACV  | 2022 |                      [Github](https://github.com/gudovskiy/cflow-ad) ⭐ 270 \| 🐛 25 \| 🌐 Python \| 📅 2023-08-18                      |                Distribution Map                |
-| ![Star](https://img.shields.io/github/stars/amazon-science/patchcore-inspection.svg?style=social\&label=Star) <br> [**Towards total recall in industrial anomaly detection**](https://openaccess.thecvf.com/content/CVPR2022/html/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.html) <br>                                                                        |   CVPR  | 2022 |             [Github](https://github.com/amazon-science/patchcore-inspection) ⭐ 1,396 \| 🐛 84 \| 🌐 Python \| 📅 2024-07-10            |                   Memory-bank                  |
+| ![Star](https://img.shields.io/github/stars/amazon-science/patchcore-inspection.svg?style=social\&label=Star) <br> [**Towards total recall in industrial anomaly detection**](https://openaccess.thecvf.com/content/CVPR2022/html/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.html) <br>                                                                        |   CVPR  | 2022 |             [Github](https://github.com/amazon-science/patchcore-inspection) ⭐ 1,397 \| 🐛 84 \| 🌐 Python \| 📅 2024-07-10            |                   Memory-bank                  |
 | ![Star](https://img.shields.io/github/stars/vitjanz/draem.svg?style=social\&label=Star) <br> [**Draem-a discriminatively trained reconstruction embedding for surface anomaly detection**](https://openaccess.thecvf.com/content/ICCV2021/html/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.html) <br>                           |   ICCV  | 2021 |                         [Github](https://github.com/vitjanz/draem) ⭐ 294 \| 🐛 18 \| 🌐 Python \| 📅 2023-01-02                        |              Reconstruction-based              |
 | ![Star](https://img.shields.io/github/stars/VitjanZ/DSR_anomaly_detection.svg?style=social\&label=Star) <br> [**DSR: A dual subspace re-projection network for surface anomaly detection**](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_31) <br>                                                                                                                              |   ECCV  | 2022 |                  [Github](https://github.com/VitjanZ/DSR_anomaly_detection) ⭐ 57 \| 🐛 4 \| 🌐 Python \| 📅 2022-07-18                 |              Reconstruction-based              |
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ocr-gan.svg?style=social\&label=Star) <br> [**Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/10192551/) <br>                                                                                                                                       |   TIP   | 2023 |                        [Github](https://github.com/zhangzjn/ocr-gan) ⭐ 53 \| 🐛 4 \| 🌐 Python \| 📅 2022-07-14                        |              Reconstruction-based              |
@@ -114,7 +114,7 @@ A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/250
 | ![Star](https://img.shields.io/github/stars/Choubo/DRA.svg?style=social\&label=Star) <br> [**Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2022/html/Ding_Catching_Both_Gray_and_Black_Swans_Open-Set_Supervised_Anomaly_Detection_CVPR_2022_paper.html) <br>                                                        |   CVPR  | 2022 |                           [Github](https://github.com/Choubo/DRA) ⭐ 95 \| 🐛 7 \| 🌐 Python \| 📅 2022-04-11                           |              Few abnormal samples              |
 | ![Star](https://img.shields.io/github/stars/xcyao00/BGAD.svg?style=social\&label=Star) <br> [**Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2023/html/Yao_Explicit_Boundary_Guided_Semi-Push-Pull_Contrastive_Learning_for_Supervised_Anomaly_Detection_CVPR_2023_paper.html) <br>              |   CVPR  | 2023 |                          [Github](https://github.com/xcyao00/BGAD) ⭐ 99 \| 🐛 19 \| 🌐 Python \| 📅 2026-06-02                         |              Few abnormal samples              |
 | ![Star](https://img.shields.io/github/stars/tianyu0207/IGD.svg?style=social\&label=Star) <br> [**Deep one-class classification via interpolated gaussian descriptor**](https://ojs.aaai.org/index.php/AAAI/article/view/19915) <br>                                                                                                                                                           |   AAAI  | 2022 |                         [Github](https://github.com/tianyu0207/IGD) ⭐ 69 \| 🐛 5 \| 🌐 Python \| 📅 2025-10-29                         |                    Noisy AD                    |
-| ![Star](https://img.shields.io/github/stars/TencentYoutuResearch/AnomalyDetection-SoftPatch.svg?style=social\&label=Star) <br> [**SoftPatch: Unsupervised Anomaly Detection with Noisy Data**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/637a456d89289769ac1ab29617ef7213-Abstract-Conference.html) <br>                                                                     | NeurIPS | 2022 |         [Github](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch) ⭐ 96 \| 🐛 5 \| 🌐 Python \| 📅 2024-07-13        |                    Noisy AD                    |
+| ![Star](https://img.shields.io/github/stars/TencentYoutuResearch/AnomalyDetection-SoftPatch.svg?style=social\&label=Star) <br> [**SoftPatch: Unsupervised Anomaly Detection with Noisy Data**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/637a456d89289769ac1ab29617ef7213-Abstract-Conference.html) <br>                                                                     | NeurIPS | 2022 |         [Github](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch) ⭐ 97 \| 🐛 6 \| 🌐 Python \| 📅 2024-07-13        |                    Noisy AD                    |
 | ![Star](https://img.shields.io/github/stars/DeclanMcIntosh/InReaCh.svg?style=social\&label=Star) <br> [**Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification**](https://openaccess.thecvf.com/content/ICCV2023/html/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.html) <br>      |   ICCV  | 2023 |                     [Github](https://github.com/DeclanMcIntosh/InReaCh) ⭐ 15 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-12                     |                    Noisy AD                    |
 | ![Star](https://img.shields.io/github/stars/shirowalker/UCAD.svg?style=social\&label=Star) <br> [**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**](https://ojs.aaai.org/index.php/AAAI/article/view/28153) <br>                                                                                                                                                 |   AAAI  | 2024 |                        [Github](https://github.com/shirowalker/UCAD) ⭐ 118 \| 🐛 0 \| 🌐 Python \| 📅 2024-08-06                       |                  Continual AD                  |
 | ![Star](https://img.shields.io/github/stars/zhiyuanyou/UniAD.svg?style=social\&label=Star) <br> [**A Unified Model for Multi-class Anomaly Detection**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1d774c112926348c3e25ea47d87c835b-Abstract-Conference.html) <br>                                                                                                            | NeurIPS | 2022 |                        [Github](https://github.com/zhiyuanyou/UniAD) ⭐ 331 \| 🐛 1 \| 🌐 Python \| 📅 2022-11-22                       |               Multi-class unified              |
@@ -131,10 +131,10 @@ A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/250
 
 | Title                                                                                                                                                                                                                                                                                 | Venue | Date |                                                   Code                                                  |   topic   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---: | :--: | :-----------------------------------------------------------------------------------------------------: | :-------: |
-| ![Star](https://img.shields.io/github/stars/open-edge-platform/anomalib.svg?style=social\&label=Star) <br> [**Anomalib: A Deep Learning Library for Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/9897283/) <br>                                                 |  ICIP | 2022 | [Github](https://github.com/open-edge-platform/anomalib) ⭐ 6,174 \| 🐛 81 \| 🌐 Python \| 📅 2026-09-19 | Benchmark |
+| ![Star](https://img.shields.io/github/stars/open-edge-platform/anomalib.svg?style=social\&label=Star) <br> [**Anomalib: A Deep Learning Library for Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/9897283/) <br>                                                 |  ICIP | 2022 | [Github](https://github.com/open-edge-platform/anomalib) ⭐ 6,177 \| 🐛 81 \| 🌐 Python \| 📅 2026-09-19 | Benchmark |
 | ![Star](https://img.shields.io/github/stars/M-3LAB/open-iad.svg?style=social\&label=Star) <br> [**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**](https://arxiv.org/abs/2301.13359) <br>                                                                     |  TCYB | 2024 |         [Github](https://github.com/M-3LAB/open-iad) ⭐ 171 \| 🐛 3 \| 🌐 Python \| 📅 2025-02-20        | Benchmark |
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ader.svg?style=social\&label=Star) <br> [**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**](http://arxiv.org/pdf/2406.03262v1) <br>                                                                   | arxiv | 2024 |         [Github](https://github.com/zhangzjn/ader) ⭐ 353 \| 🐛 39 \| 🌐 Python \| 📅 2025-01-29         | Benchmark |
-| ![Star](https://img.shields.io/github/stars/jam-cc/MMAD.svg?style=social\&label=Star) <br> [**MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**](https://arxiv.org/abs/2410.09453) <br>                             |  ICLR | 2024 |           [Github](https://github.com/jam-cc/MMAD) ⭐ 274 \| 🐛 1 \| 🌐 Python \| 📅 2026-01-14          | Benchmark |
+| ![Star](https://img.shields.io/github/stars/jam-cc/MMAD.svg?style=social\&label=Star) <br> [**MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**](https://arxiv.org/abs/2410.09453) <br>                             |  ICLR | 2025 |           [Github](https://github.com/jam-cc/MMAD) ⭐ 274 \| 🐛 1 \| 🌐 Python \| 📅 2026-01-14          | Benchmark |
 | ![Star](https://img.shields.io/github/stars/en-research/RobustMAD.svg?style=social\&label=Star) <br> [**RobustMAD: Evaluating Real-World Robustness of Multimodal Small Language Models for Deployable Anomaly Detection Assistants**](https://openreview.net/pdf?id=skrA9UYNIZ) <br> |  TMLR | 2026 |       [Github](https://github.com/en-research/RobustMAD) ⭐ 7 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-13      | Benchmark |
 
 # Recent research [\[survey\]](https://www.preprints.org/manuscript/202606.0719)
@@ -151,20 +151,34 @@ A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/250
 * ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2608.01793)[\[code\]](https://github.com/CLendering/ReFP-AD) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-17
 * IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [\[ECCV 2026\]](https://arxiv.org/abs/2607.19032)[\[code\]](https://github.com/HULEI7/IMMoE) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-09-14
 * Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [\[ECCV 2026\]](https://arxiv.org/abs/2605.24251)[\[code\]](https://github.com/Continue-Edge-AI-Lab/Rethinking-Continual-AD) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-06-29
-* DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [\[ECCV 2026\]](https://arxiv.org/abs/2608.07904)[\[code\]](https://github.com/HUST-SLOW/DeCo) ⭐ 5 | 🐛 2 | 📅 2026-06-25
-* UniScale: Arbitrary-Scale Industrial Anomaly Generation [\[ECCV 2026\]](https://arxiv.org/abs/2608.07864)[\[code\]](https://github.com/HUST-SLOW/UniScale) ⭐ 4 | 🐛 2 | 📅 2026-06-25
-* Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [\[ECCV 2026\]](https://arxiv.org/abs/2512.09446)
+* CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2607.02930)[\[code\]](https://github.com/WenDongyp/CL-Anomaly) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-07-03
+* DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [\[ECCV 2026\]](https://arxiv.org/abs/2608.07904)[\[code\]](https://github.com/HUST-SLOW/DeCo) ⭐ 5 | 🐛 2 | 📅 2026-06-25
+* UniScale: Arbitrary-Scale Anomaly Generation [\[ECCV 2026\]](https://arxiv.org/abs/2608.07864)[\[code\]](https://github.com/HUST-SLOW/UniScale) ⭐ 4 | 🐛 2 | 📅 2026-06-25
+* Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2606.29181)[\[code\]](https://github.com/vpc-ccg/AF3AD) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-07-08
+* DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [\[ECCV 2026\]](https://arxiv.org/abs/2511.16920)[\[code\]](https://github.com/CROVO1026/DeltaDeno) ⭐ 2 | 🐛 0 | 📅 2026-06-25
+* Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/4468)[\[code\]](https://github.com/tzjtatata/SCAN) ⭐ 2 | 🐛 0 | 📅 2026-06-26
+* A Comprehensive Analysis about Unsupervised Outlier Detection for Images [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/5320)[\[code\]](https://github.com/zhliu-uod/VUOD) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-13
+* FuDU: A Fuzzy Dual-dimension Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection[\[ECCV 2026\]](https://arxiv.org/abs/2609.02212)[\[code\]](https://github.com/wangzhaoyang-508/FuDU) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-25
+* BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2602.13091)[\[code\]](https://github.com/DeclanMcIntosh/BAAF) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-02
+* DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/3717)[\[code\]](https://github.com/evoLonation/DeMuS) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-30
+* EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/4683)[\[code\]](https://github.com/leolin65/EGVLR-project) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-09
+* Defect-aware Hybrid Prompt Optimization for Zero-Shot Multi-type Anomaly Detection and Segmentation [\[ECCV 2026\]](https://arxiv.org/abs/2512.09446)
 * PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [\[ECCV 2026 Oral\]](https://arxiv.org/abs/2608.04210)
 * O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning [\[ECCV 2026\]](https://arxiv.org/abs/2607.18142)[\[code\]](https://o-vad.github.io/)
 * Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2607.03817)
 * Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors [\[ECCV 2026\]](https://arxiv.org/abs/2606.29428)
 * DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2606.26687)
 * MATCH: Flow Matching for Multi-View Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2606.24375)
+* Proximity-CLIP: Text-Guided Semantic Proximity Learning for Zero-Shot Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2609.07229)[\[paper\]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8183.pdf)
+* GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis [\[ECCV 2026\]](https://arxiv.org/abs/2604.08301)
+* VarProtoAD: Variational Prototype-Conditioned Prompting for Zero-Shot Anomaly Detection [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/3553)
+* Fast Dynamic Prototypes for Unsupervised Anomaly Detection and Localization [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/3350)[\[code coming soon\]](https://github.com/lmlpy/FDP)
+* HLRAD: High-dimensional Latent Representation for Unified Anomaly Detection [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/5190)
 
 ## ICML 2026
 
-* Is Training Necessary for Anomaly Detection? [\[ICML 2026\]](https://arxiv.org/abs/2601.22763)[\[code\]](https://github.com/longkukuhi/RAD) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2026-06-11
-* Memory-Distilled Selection for Noise-Robust Anomaly Detection [\[ICML 2026\]](https://arxiv.org/abs/2605.26676)[\[code\]](https://github.com/SirojbekSafarov/MeDS) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-06-17
+* Is Training Necessary for Anomaly Detection? [\[ICML 2026\]](https://arxiv.org/abs/2601.22763)[\[code\]](https://github.com/longkukuhi/RAD) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-06-11
+* Memory-Distilled Selection for Noise-Robust Anomaly Detection [\[ICML 2026\]](https://arxiv.org/abs/2605.26676)[\[code\]](https://github.com/SirojbekSafarov/MeDS) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-06-17
 * Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [\[ICML 2026\]](https://arxiv.org/abs/2605.02438)[\[code\]](https://github.com/fuyunwang/MPFM-OSAD) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-05-19
 * CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [\[ICML 2026\]](https://icml.cc/virtual/2026/poster/62489)
 * Formally Exploring Visual Anomaly Detection Evaluation Metrics [\[ICML 2026\]](https://icml.cc/virtual/2026/poster/65518)
@@ -173,15 +187,15 @@ A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/250
 
 ## CVPR 2026
 
-* SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling [\[CVPR 2026\]](https://arxiv.org/abs/2602.23013)[\[code\]](https://github.com/CLendering/SubspaceAD) ⭐ 254 | 🐛 1 | 🌐 Python | 📅 2026-08-17
+* SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling [\[CVPR 2026\]](https://arxiv.org/abs/2602.23013)[\[code\]](https://github.com/CLendering/SubspaceAD) ⭐ 256 | 🐛 1 | 🌐 Python | 📅 2026-08-17
 * UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [\[CVPR 2026\]](https://arxiv.org/abs/2509.25934)[\[code\]](https://github.com/yuanzhao-CVLAB/UniMMAD) ⭐ 248 | 🐛 4 | 🌐 Python | 📅 2026-05-20
 * VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer [\[CVPR 2026\]](https://arxiv.org/abs/2603.07952)[\[code\]](https://github.com/7HHHHH/VisualAD) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2026-09-08
+* One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [\[CVPR 2026\]](https://arxiv.org/abs/2603.18093)[\[code\]](https://github.com/echrao/O2MAG) ⭐ 74 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-03-26
 * AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [\[CVPR 2026\]](https://arxiv.org/abs/2601.20524)[\[code\]](https://github.com/MaticFuc/AnomalyVFM) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2026-04-21
-* One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [\[CVPR 2026\]](https://arxiv.org/abs/2603.18093)[\[code\]](https://github.com/echrao/O2MAG) ⭐ 73 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-03-26
 * InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [\[CVPR 2026\]](https://arxiv.org/abs/2504.05662)[\[code\]](https://github.com/SkyShunsuke/InversionAD) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2026-07-27
 * CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [\[CVPR 2026 Findings\]](https://arxiv.org/abs/2508.03447)[\[code\]](https://github.com/cqylunlun/CoPS) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-06-02
 * RAID: Retrieval-Augmented Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2602.19611)[\[code\]](https://github.com/Mingxiu-Cai/RAID) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2026-04-20
-* MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2603.03101)[\[code\]](https://github.com/CoCoRessa/MoECLIP) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-05-28
+* MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2603.03101)[\[code\]](https://github.com/CoCoRessa/MoECLIP) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-05-28
 * GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [\[CVPR 2026\]](https://arxiv.org/abs/2602.19206)[\[code\]](https://github.com/zhushengxinyue/GS-CLIP) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2026-03-07
 * Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2603.21511)[\[code\]](https://github.com/wistful-8029/BTP-3DAD) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2026-06-22
 * FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [\[CVPR 2026\]](https://arxiv.org/abs/2603.19608)[\[code\]](https://github.com/Xi-Mu-Yu/FB-CLIP) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-07-03
@@ -312,9 +326,9 @@ A Survey on Industrial Anomalies Synthesis [\[paper\]](https://arxiv.org/abs/250
 * AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [\[CVPR 2025\]](https://arxiv.org/abs/2410.14379)[\[code\]](https://github.com/HUST-SLOW/AnomalyNCD) ⭐ 167 | 🐛 11 | 🌐 Python | 📅 2025-09-01
 * DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation [\[CVPR 2025\]](https://arxiv.org/abs/2408.13509)[\[code\]](https://github.com/yinyjin/DualAnoDiff) ⭐ 162 | 🐛 11 | 🌐 Python | 📅 2025-06-03
 * UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [\[CVPR 2025\]](https://pangdatangtt.github.io/)[\[code\]](https://github.com/pangdatangtt/UniNet) ⭐ 136 | 🐛 14 | 🌐 Python | 📅 2025-08-12
-* Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection[\[CVPR 2025\]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html)[\[code\]](https://github.com/yfhdm/WPFormer) ⭐ 103 | 🐛 5 | 🌐 Python | 📅 2026-09-07
+* Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection[\[CVPR 2025\]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html)[\[code\]](https://github.com/yfhdm/WPFormer) ⭐ 104 | 🐛 5 | 🌐 Python | 📅 2026-09-07
 * Towards Training-free Anomaly Detection with Vision and Language Foundation Models [\[CVPR 2025\]](https://arxiv.org/abs/2503.18325)[\[code\]](https://github.com/zhang0jhon/LogSAD) ⭐ 102 | 🐛 12 | 🌐 Python | 📅 2025-05-19
-* Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [\[CVPR 2025\]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[\[code\]](https://github.com/ZZZBBBZZZ/MulSen-AD) ⭐ 97 | 🐛 4 | 🌐 Python | 📅 2025-03-20
+* Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [\[CVPR 2025\]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[\[code\]](https://github.com/ZZZBBBZZZ/MulSen-AD) ⭐ 98 | 🐛 4 | 🌐 Python | 📅 2025-03-20
 * Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection [\[CVPR 2025\]](https://arxiv.org/abs/2503.10080)[\[code coming soon\]](https://github.com/xiaozhen228/Bayes-PFL) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2025-06-23
 * Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection [\[CVPR 2025\]](https://arxiv.org/abs/2503.19357)[\[code\]](https://github.com/farzad-bz/DeCo-Diff) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2026-03-04
 * Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection[\[CVPR 2025\]](https://openaccess.thecvf.com/content/CVPR2025/html/Beizaee_Correcting_Deviations_from_Normality_A_Reformulated_Diffusion_Model_for_Multi-Class_CVPR_2025_paper.html)[\[code\]](https://github.com/farzad-bz/DeCo-Diff) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2026-03-04
@@ -572,7 +586,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 
 # Related Survey, Benchmark, and Framework
 
-* Anomalib: A Deep Learning Library for Anomaly Detection [\[ICIP 2022\]](https://ieeexplore.ieee.org/abstract/document/9897283/)[\[code\]](https://github.com/open-edge-platform/anomalib) ⭐ 6,174 | 🐛 81 | 🌐 Python | 📅 2026-09-19
+* Anomalib: A Deep Learning Library for Anomaly Detection [\[ICIP 2022\]](https://ieeexplore.ieee.org/abstract/document/9897283/)[\[code\]](https://github.com/open-edge-platform/anomalib) ⭐ 6,177 | 🐛 81 | 🌐 Python | 📅 2026-09-19
 * OpenOOD: Benchmarking Generalized Out-of-Distribution Detection [\[NeurIPS2022v1\]](https://openreview.net/pdf?id=gT6j4_tskUt)[\[2024v1.5\]](https://arxiv.org/abs/2306.09301)[\[github page\]](https://github.com/Jingkang50/OpenOOD) ⭐ 1,077 | 🐛 30 | 🌐 Python | 📅 2025-12-01
 * A Deep Learning-based Software for Manufacturing Defect Inspection [\[TII 2017\]](https://ieeexplore.ieee.org/document/9795891)[\[code\]](https://github.com/sundyCoder/DEye) ⭐ 885 | 🐛 1 | 🌐 C++ | 📅 2023-03-14
 * IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [\[TCYB 2024\]](https://arxiv.org/abs/2301.13359)[\[code\]](https://github.com/M-3LAB/open-iad) ⭐ 171 | 🐛 3 | 🌐 Python | 📅 2025-02-20[\[中文\]](https://blog.csdn.net/m0_63828250/article/details/136891730)
@@ -615,7 +629,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * A Discrepancy Aware Framework for Robust Anomaly Detection [\[2023\]](https://arxiv.org/abs/2310.07585)[\[code\]](https://github.com/caiyuxuan1120/DAF) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2023-11-01
 * Informative knowledge distillation for image anomaly segmentation [\[2022\]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123\&pid=1-s2.0-S0950705122004038-main.pdf)[\[code\]](https://github.com/caoyunkang/IKD) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2022-06-11
 * Learning deep feature correspondence for unsupervised anomaly detection and segmentation[\[PR 2022\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320322003557)[\[code\]](https://github.com/YoungGod/DFC) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2022-11-30
-* Memory-Distilled Selection for Noise-Robust Anomaly Detection [\[ICML 2026\]](https://arxiv.org/abs/2605.26676)[\[code\]](https://github.com/SirojbekSafarov/MeDS) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-06-17
+* Memory-Distilled Selection for Noise-Robust Anomaly Detection [\[ICML 2026\]](https://arxiv.org/abs/2605.26676)[\[code\]](https://github.com/SirojbekSafarov/MeDS) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-06-17
 * Contextual Affinity Distillation for Image Anomaly Detection [\[WACV 2024\]](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Contextual_Affinity_Distillation_for_Image_Anomaly_Detection_WACV_2024_paper.pdf)
 * Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings [\[CVPR 2020\]](http://arxiv.org/pdf/1911.02357)
 * Multiresolution knowledge distillation for anomaly detection [\[CVPR 2021\]](https://arxiv.org/pdf/2011.11108)
@@ -642,6 +656,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * Anomaly Detection under Distribution Shift [\[ICCV 2023\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Anomaly_Detection_Under_Distribution_Shift_ICCV_2023_paper.pdf)[\[code\]](https://github.com/mala-lab/ADShift) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2023-10-25
 * Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [\[TCSVT 2024\]](https://ieeexplore.ieee.org/document/10716437)[\[code\]](https://github.com/cqylunlun/PBAS) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-03-30
 * Learning Transferable Representations for Image Anomaly Localization Using Dense Pretraining [\[WACV 2024\]](https://openaccess.thecvf.com/content/WACV2024/papers/He_Learning_Transferable_Representations_for_Image_Anomaly_Localization_Using_Dense_Pretraining_WACV_2024_paper.pdf)[\[code\]](https://github.com/terrlo/DS2) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2023-10-29
+* BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2602.13091)[\[code\]](https://github.com/DeclanMcIntosh/BAAF) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-02
 * Patch svdd: Patch-level svdd for anomaly detection and segmentation [\[ACCV 2020\]](https://arxiv.org/pdf/2006.16067.pdf)
 * Anomaly detection using improved deep SVDD model with data structure preservation [\[2021\]](https://www.sciencedirect.com/science/article/am/pii/S0167865521001598)
 * A Semantic-Enhanced Method Based On Deep SVDD for Pixel-Wise Anomaly Detection [\[2021\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9428370)
@@ -685,7 +700,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 
 ### 2.1.4 Memory Bank
 
-* Towards total recall in industrial anomaly detection[\[CVPR 2022\]](http://arxiv.org/pdf/2106.08265)[\[code\]](https://github.com/amazon-science/patchcore-inspection) ⭐ 1,396 | 🐛 84 | 🌐 Python | 📅 2024-07-10
+* Towards total recall in industrial anomaly detection[\[CVPR 2022\]](http://arxiv.org/pdf/2106.08265)[\[code\]](https://github.com/amazon-science/patchcore-inspection) ⭐ 1,397 | 🐛 84 | 🌐 Python | 📅 2024-07-10
 * PaDiM: A Patch Distribution Modeling Framework for Anomaly Detection and Localization [\[ICPR 2021\]](https://link.springer.com/chapter/10.1007/978-3-030-68799-1_35)[\[unofficial code\]](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master) ⭐ 491 | 🐛 26 | 🌐 Python | 📅 2023-11-29
 * CFA: Coupled-Hypersphere-Based Feature Adaptation for Target-Oriented Anomaly Localization[\[2022\]](https://arxiv.org/pdf/2206.04325.pdf)[\[code\]](https://github.com/sungwool/CFA_for_anomaly_localization) ⭐ 121 | 🐛 6 | 🌐 Python | 📅 2022-07-14
 * Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval [\[TIP 2024\]](https://arxiv.org/abs/2308.06748)[\[code\]](https://github.com/flyinghu123/CPR) ⭐ 119 | 🐛 0 | 🌐 Python | 📅 2024-10-28
@@ -716,6 +731,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * FOCT: Few-shot Industrial Anomaly Detection with Foreground-aware Online Conditional Transport [\[ACM MM 2024\]](https://dl.acm.org/doi/10.1145/3664647.3680771)
 * Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions [\[ECCV 2024\]](https://eccv2024.ecva.net/virtual/2024/poster/2289)\[\[code]]
 * Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization [\[CVPR 2026\]](https://cvpr.thecvf.com/virtual/2026/poster/38295)
+* Fast Dynamic Prototypes for Unsupervised Anomaly Detection and Localization [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/3350)[\[code coming soon\]](https://github.com/lmlpy/FDP)
 
 ### 2.1.5 Vison Language AD
 
@@ -859,7 +875,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 
 ### More Normal Samples With (Less Abnormal Samples or Weak Labels)
 
-* AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [\[AAAI 2024\]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[\[code\]](https://github.com/sjtuplayer/anomalydiffusion) ⭐ 329 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-08-11
+* AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [\[AAAI 2024\]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[\[code\]](https://github.com/sjtuplayer/anomalydiffusion) ⭐ 330 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-08-11
 * SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [\[ICPR 2024\]](https://arxiv.org/abs/2408.03143)[\[JIMS 2025\]](https://link.springer.com/article/10.1007/s10845-025-02680-8)[\[code\]](https://github.com/blaz-r/SuperSimpleNet/tree/main) ⭐ 178 | 🐛 1 | 🌐 Python | 📅 2025-10-16
 * Few-shot defect image generation via defect-aware feature manipulation [\[AAAI 2023\]](https://arxiv.org/abs/2303.02389)[\[code\]](https://github.com/Ldhlwh/DFMGAN) ⭐ 158 | 🐛 5 | 🌐 Python | 📅 2024-12-19
 * Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [\[CVPR 2022\]](http://arxiv.org/pdf/2203.14506)[\[code\]](https://github.com/Choubo/DRA) ⭐ 95 | 🐛 7 | 🌐 Python | 📅 2022-04-11
@@ -883,9 +899,11 @@ Recent developments in industrial anomaly detection have reshaped method categor
 
 ### More Abnormal Samples
 
-* Small Object Few-shot Segmentation for Vision-based Industrial Inspection [\[2024\]](https://arxiv.org/abs/2407.21351)[\[code\]](https://github.com/zhangzilongc/SOFS) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-08-21
+* Small Object Few-shot Segmentation for Vision-based Industrial Inspection [\[2024\]](https://arxiv.org/abs/2407.21351)[\[code\]](https://github.com/zhangzilongc/SOFS) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-08-21
 * Supervised Anomaly Detection for Complex Industrial Images [\[2024\]](https://arxiv.org/abs/2405.04953)[\[code\]](https://github.com/abc-125/segad) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2025-09-07
 * Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation [\[2023\]](https://arxiv.org/abs/2312.14053)[\[code\]](https://github.com/RashaAlshawi/Dual-Attention-U-Net-with-Feature-Infusion-Pushing-the-Boundaries-of-Multiclass-Defect-Segmentation) ⭐ 18 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-01
+* DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [\[ECCV 2026\]](https://arxiv.org/abs/2511.16920)[\[code\]](https://github.com/CROVO1026/DeltaDeno) ⭐ 2 | 🐛 0 | 📅 2026-06-25
+* Structured guided diffusion models for industrial defect image generation [\[KBS 2025\]](https://doi.org/10.1016/j.knosys.2025.114642)[\[code\]](https://github.com/xieyulai/Structured-DGM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-14
 * ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [\[JIMS 2026\]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[\[code\]](https://github.com/p4ulk/isp-ad) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-10[\[data\]](https://zenodo.org/records/14911042)
 * Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [\[2022\]](https://ieeexplore.ieee.org/document/9885240)
 * An effective framework of automated visual surface defect detection for metal parts [\[2021\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9475966)
@@ -911,6 +929,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * MemoryMamba: Memory-Augmented State Space Model for Defect Recognition [\[2024\]](https://arxiv.org/abs/2405.03673)
 * SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [\[2025\]](https://arxiv.org/abs/2502.14884)
 * SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection [\[2025\]](https://arxiv.org/abs/2604.26633)
+* GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis [\[ECCV 2026\]](https://arxiv.org/abs/2604.08301)
 
 # 3 Other Research Direction
 
@@ -921,25 +940,26 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * Segment Any Anomaly without Training via Hybrid Prompt Regularization [\[2023\]](https://arxiv.org/abs/2305.10724) [\[code\]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection) ⭐ 844 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-02-22
 * AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [\[ICLR 2024\]](https://openreview.net/forum?id=buC4E91xZE)[\[code\]](https://github.com/zqhang/AnomalyCLIP) ⭐ 672 | 🐛 74 | 🌐 Python | 📅 2025-07-08
 * MuSc: Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images[\[ICLR 2024\]](https://openreview.net/forum?id=AHgc5SMdtd)[\[code\]](https://github.com/xrli-U/MuSc) ⭐ 438 | 🐛 33 | 🌐 Python | 📅 2026-04-25[\[2025 v2\]](https://arxiv.org/abs/2511.10047)
-* MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [\[TPAMI 2026\]](https://arxiv.org/abs/2511.10047)[\[code\]](https://github.com/HUST-SLOW/MuSc-V2) ⭐ 348 | 🐛 3 | 🌐 Python | 📅 2026-05-14
+* MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [\[TPAMI 2026\]](https://arxiv.org/abs/2511.10047)[\[code\]](https://github.com/HUST-SLOW/MuSc-V2) ⭐ 349 | 🐛 3 | 🌐 Python | 📅 2026-05-14
 * AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [\[ECCV 2024\]](https://arxiv.org/abs/2407.15795)[\[code\]](https://github.com/caoyunkang/AdaCLIP) ⭐ 311 | 🐛 38 | 🌐 Python | 📅 2025-07-07
 * APRIL-GAN: A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD [\[CVPRW 2023\]](https://arxiv.org/abs/2305.17382)[\[code\]](https://github.com/ByChelsea/VAND-APRIL-GAN) ⭐ 269 | 🐛 22 | 🌐 Python | 📅 2025-08-01
 * AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [\[AAAI 2026\]](https://arxiv.org/abs/2505.09926)[\[code\]](https://github.com/gaobb/AdaptCLIP) ⭐ 186 | 🐛 3 | 🌐 Python | 📅 2026-02-05
 * WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [\[CVPR 2023\]](https://arxiv.org/abs/2303.14814) [\[unofficial code in AnomalyCLIP\]](https://github.com/zqhang/Accurate-WinCLIP-pytorch) ⭐ 138 | 🐛 7 | 🌐 Python | 📅 2024-12-08 [\[unofficial code in SAA\]](https://github.com/caoyunkang/WinClip) ⭐ 429 | 🐛 11 | 🌐 Python | 📅 2024-03-16 [\[unofficial code in mala-lab\]](https://github.com/mala-lab/WinCLIP) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2025-07-17
 * VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation [\[ECCV 2024\]](https://arxiv.org/abs/2407.12276)[\[code\]](https://github.com/xiaozhen228/VCP-CLIP) ⭐ 107 | 🐛 5 | 🌐 Python | 📅 2025-06-04
 * IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [\[AAAI 2026\]](https://arxiv.org/abs/2508.09178)[\[code\]](https://github.com/Yanhui-Lee/IAD-R1) ⭐ 97 | 🐛 18 | 🌐 Python | 📅 2025-12-09
-* PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [\[NeurIPS 2024\]](https://arxiv.org/abs/2410.00320)[\[code\]](https://github.com/zqhang/PointAD) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2025-05-29
+* PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [\[NeurIPS 2024\]](https://arxiv.org/abs/2410.00320)[\[code\]](https://github.com/zqhang/PointAD) ⭐ 91 | 🐛 23 | 🌐 Python | 📅 2025-05-29
 * AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [\[CVPR 2026\]](https://arxiv.org/abs/2601.20524)[\[code\]](https://github.com/MaticFuc/AnomalyVFM) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2026-04-21
 * MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [\[ICCV 2025\]](https://arxiv.org/abs/2504.06740)[\[code\]](https://github.com/boschresearch/MultiADS) ⭐ 68 | 🐛 3 | 🌐 Python | 📅 2026-08-28
 * AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [\[2023\]](https://arxiv.org/abs/2308.15939)[\[code\]](https://github.com/hq-deng/AnoVL) ⭐ 57 | 🐛 9 | 🌐 Python | 📅 2023-09-07
 * MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [\[ICLR 2026\]](https://openreview.net/forum?id=TQkFiW3AEX)[\[code\]](https://github.com/CROVO1026/MRAD) ⭐ 53 | 🐛 4 | 🌐 Python | 📅 2026-03-13
 * CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [\[2025\]](https://arxiv.org/abs/2508.03447)[\[code\]](https://github.com/cqylunlun/CoPS) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-06-02
 * Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [\[ICCV 2025\]](https://arxiv.org/abs/2410.10289)[\[code\]](https://github.com/mala-lab/FAPrompt) ⭐ 48 | 🐛 3 | 🌐 Python | 📅 2026-03-07
-* MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2603.03101)[\[code\]](https://github.com/CoCoRessa/MoECLIP) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-05-28
+* MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2603.03101)[\[code\]](https://github.com/CoCoRessa/MoECLIP) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-05-28
 * AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation [\[ACM MM 2025\]](https://arxiv.org/abs/2507.19949)[\[code\]](https://github.com/Faustinaqq/AF-CLIP) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2025-07-12
 * Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [\[2025\]](https://arxiv.org/abs/2504.11055)[\[code\]](https://github.com/AlirezaSalehy/Crane) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-09-14
 * FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [\[CVPR 2026\]](https://arxiv.org/abs/2603.19608)[\[code\]](https://github.com/Xi-Mu-Yu/FB-CLIP) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-07-03
 * AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [\[CVPR 2026\]](https://arxiv.org/abs/2603.01305)[\[code\]](https://github.com/xiaozhen228/AG-VAS) ⭐ 14 | 🐛 2 | 📅 2026-06-30
+* DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/3717)[\[code\]](https://github.com/evoLonation/DeMuS) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-30
 * Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [\[BMVC 2023\]](https://arxiv.org/abs/2308.11119)
 * Zero-Shot Batch-Level Anomaly Detection [\[2023\]](https://arxiv.org/abs/2302.07849)
 * Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [\[WACV 2023\]](https://ieeexplore.ieee.org/document/10030870)
@@ -970,9 +990,11 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * Exploring High-order-aware Prompt Learning for Zero-shot Anomaly Detection [\[AAAI 2026\]](https://ojs.aaai.org/index.php/AAAI/article/view/38029)
 * DLVP-CLIP: Enhancing Fine-Grained Zero-Shot Anomaly Detection via Dynamic Local Visual Prompting [\[CVPR 2026\]](https://cvpr.thecvf.com/virtual/2026/poster/39303)
 * From Attraction to Equilibrium: Physics-Inspired Semantic Gravitons for Zero-Shot Anomaly Detection [\[CVPR 2026\]](https://cvpr.thecvf.com/virtual/2026/poster/39782)
-* Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [\[ECCV 2026\]](https://arxiv.org/abs/2512.09446)
+* Defect-aware Hybrid Prompt Optimization for Zero-Shot Multi-type Anomaly Detection and Segmentation [\[ECCV 2026\]](https://arxiv.org/abs/2512.09446)
 * Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[\[IEEE-CYBER 2026\]](https://arxiv.org/abs/2605.25407)
 * Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors [\[ECCV 2026\]](https://arxiv.org/abs/2606.29428)
+* Proximity-CLIP: Text-Guided Semantic Proximity Learning for Zero-Shot Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2609.07229)[\[paper\]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8183.pdf)
+* VarProtoAD: Variational Prototype-Conditioned Prompting for Zero-Shot Anomaly Detection [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/3553)
 
 ### Few-Shot AD
 
@@ -981,14 +1003,14 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [\[CVPR 2024\]](https://arxiv.org/abs/2404.05231)[\[code\]](https://github.com/FuNz-0/PromptAD) ⭐ 213 | 🐛 33 | 🌐 Python | 📅 2024-09-01
 * InCTRL: Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts [\[CVPR 2024\]](https://arxiv.org/abs/2403.06495)[\[code\]](https://github.com/mala-lab/InCTRL) ⭐ 202 | 🐛 7 | 🌐 Python | 📅 2025-07-17
 * SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [\[ICCV 2025\]](https://arxiv.org/pdf/2410.14987)[\[code\]](https://github.com/HUST-SLOW/SeaS) ⭐ 160 | 🐛 21 | 🌐 Python | 📅 2025-08-04
-* MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [\[NeurIPS 2024\]](https://arxiv.org/abs/2505.09265)[\[code\]](https://github.com/gaobb/MetaUAS) ⭐ 94 | 🐛 5 | 🌐 Python | 📅 2026-02-07
+* MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [\[NeurIPS 2024\]](https://arxiv.org/abs/2505.09265)[\[code\]](https://github.com/gaobb/MetaUAS) ⭐ 95 | 🐛 5 | 🌐 Python | 📅 2026-02-07
 * Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [\[2025\]](https://arxiv.org/abs/2510.01934)[\[code\]](https://github.com/ymxlzgy/FoundAD) ⭐ 82 | 🐛 4 | 🌐 Python | 📅 2026-09-12
 * Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [\[ICLR 2026\]](https://arxiv.org/abs/2510.01934)[\[code\]](https://github.com/ymxlzgy/FoundAD) ⭐ 82 | 🐛 4 | 🌐 Python | 📅 2026-09-12
 * Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [\[ECCV 2024\]](https://arxiv.org/abs/2505.09264)[\[code\]](https://github.com/gaobb/OneNIP) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2026-01-18
 * Optimizing PatchCore for Few/many-shot Anomaly Detection [\[2023\]](https://arxiv.org/abs/2307.10792)[\[code\]](https://github.com/scortexio/patchcore-few-shot/) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2023-07-25
 * CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2508.03447)[\[code\]](https://github.com/cqylunlun/CoPS) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-06-02
 * FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [\[ICCV 2023\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)[\[code\]](https://github.com/FzJun26th/FastRecon) ⭐ 48 | 🐛 6 | 🌐 Python | 📅 2023-10-25
-* Small Object Few-shot Segmentation for Vision-based Industrial Inspection [\[2024\]](https://arxiv.org/abs/2407.21351)[\[code\]](https://github.com/zhangzilongc/SOFS) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-08-21
+* Small Object Few-shot Segmentation for Vision-based Industrial Inspection [\[2024\]](https://arxiv.org/abs/2407.21351)[\[code\]](https://github.com/zhangzilongc/SOFS) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-08-21
 * Few-Shot Anomaly Detection via Category-Agnostic Registration Learning [\[2024\]](https://arxiv.org/abs/2406.08810)[\[code\]](https://github.com/Haoyan-Guan/CAReg) ⭐ 40 | 🐛 5 | 🌐 Python | 📅 2024-06-17
 * FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model[\[BMVC 2024\]](https://arxiv.org/abs/2409.00556#)[\[code\]](https://github.com/BMVC-FADE/BMVC-FADE) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2024-11-22
 * SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [\[2024\]](https://arxiv.org/abs/2407.03634)[\[code\]](https://github.com/huzongxiang/sowa) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2024-12-12
@@ -1025,11 +1047,11 @@ Recent developments in industrial anomaly detection have reshaped method categor
 
 ## 3.2 Noisy AD
 
-* SoftPatch: Unsupervised Anomaly Detection with Noisy Data [\[NeurIPS 2022\]](https://openreview.net/pdf?id=pIYYJflkhZ)[\[code\]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch) ⭐ 96 | 🐛 5 | 🌐 Python | 📅 2024-07-13
-* SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [\[PR 2025\]](https://arxiv.org/abs/2412.20870)[\[code\]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch) ⭐ 96 | 🐛 5 | 🌐 Python | 📅 2024-07-13
+* SoftPatch: Unsupervised Anomaly Detection with Noisy Data [\[NeurIPS 2022\]](https://openreview.net/pdf?id=pIYYJflkhZ)[\[code\]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2024-07-13
+* SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [\[PR 2025\]](https://arxiv.org/abs/2412.20870)[\[code\]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2024-07-13
 * Deep one-class classification via interpolated gaussian descriptor [\[AAAI 2022 oral\]](https://arxiv.org/pdf/2101.10043.pdf)[\[code\]](https://github.com/tianyu0207/IGD) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2025-10-29
-* FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [\[WACV 2025\]](https://arxiv.org/abs/2411.16110)[\[code\]](https://github.com/HY-Vision-Lab/FUNAD) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2025-03-11
-* Memory-Distilled Selection for Noise-Robust Anomaly Detection [\[ICML 2026\]](https://arxiv.org/abs/2605.26676)[\[code\]](https://github.com/SirojbekSafarov/MeDS) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-06-17
+* FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [\[WACV 2025\]](https://arxiv.org/abs/2411.16110)[\[code\]](https://github.com/HY-Vision-Lab/FUNAD) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2025-03-11
+* Memory-Distilled Selection for Noise-Robust Anomaly Detection [\[ICML 2026\]](https://arxiv.org/abs/2605.26676)[\[code\]](https://github.com/SirojbekSafarov/MeDS) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-06-17
 * Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [\[ICCV 2023\]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[\[code\]](https://github.com/DeclanMcIntosh/InReaCh) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-01-12
 * Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [\[WACV 2021\]](http://arxiv.org/pdf/2012.14629)
 * Self-Supervise, Refine, Repeat: Improving Unsupervised Anomaly Detection [\[TMLR 2021\]](https://arxiv.org/pdf/2106.06115.pdf)
@@ -1039,11 +1061,11 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * Meta Learning-Driven Iterative Refinement for Robust Anomaly Detection in Industrial Inspection [\[ECCVW 2024\]](https://arxiv.org/abs/2503.01569)
 * Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning [\[ICCV 2025\]](https://arxiv.org/abs/2508.02293)
 
-## 3.3 Anomaly Synthesis [\[awesome-anomaly-synthesis\]](https://github.com/M-3LAB/awesome-anomaly-synthesis) ⭐ 80 | 🐛 0 | 📅 2025-11-18
+## 3.3 Anomaly Synthesis [\[awesome-anomaly-synthesis\]](https://github.com/M-3LAB/awesome-anomaly-synthesis) ⭐ 80 | 🐛 1 | 📅 2025-11-18
 
 * RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [\[CVPR 2024\]](https://arxiv.org/abs/2403.05897)[\[code\]](https://github.com/cnulab/RealNet) ⭐ 426 | 🐛 79 | 🌐 Python | 📅 2025-02-12
 * A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [\[ECCV 2024\]](https://arxiv.org/abs/2407.09359)[\[code\]](https://github.com/cqylunlun/GLASS) ⭐ 394 | 🐛 5 | 🌐 Python | 📅 2026-03-30
-* AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [\[AAAI 2024\]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[\[code\]](https://github.com/sjtuplayer/anomalydiffusion) ⭐ 329 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-08-11
+* AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [\[AAAI 2024\]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[\[code\]](https://github.com/sjtuplayer/anomalydiffusion) ⭐ 330 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-08-11
 * Anomaly Anything: Promptable Unseen Visual Anomaly Generation [\[CVPR 2025\]](https://arxiv.org/abs/2406.01078)[\[code\]](https://github.com/EPFL-IMOS/AnomalyAny) ⭐ 303 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2025-06-30
 * Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [\[(Reconstruction AE)ICCV 2021\]](http://arxiv.org/pdf/2108.07610)[\[code\]](https://github.com/vitjanz/draem) ⭐ 294 | 🐛 18 | 🌐 Python | 📅 2023-01-02
 * Cutpaste: Self-supervised learning for anomaly detection and localization [\[(OCC)ICCV 2021\]](http://arxiv.org/pdf/2104.04015)[\[unofficial code\]](https://github.com/Runinho/pytorch-cutpaste) ⭐ 261 | 🐛 21 | 🌐 Python | 📅 2024-05-07
@@ -1055,7 +1077,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection [\[CVPR 2023\]](https://arxiv.org/abs/2211.11317)[\[code\]](https://github.com/apple/ml-destseg) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-09-11
 * Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [\[ECCV 2024\]](https://csgaobb.github.io/Pub_files/ECCV2024_AnoGen_CR_0730_Mobile.pdf)[\[code\]](https://github.com/gaobb/AnoGen) ⭐ 83 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-09-08
 * Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [\[ECCV 2022\]](https://arxiv.org/pdf/2109.15222.pdf)[\[code\]](https://github.com/hmsch/natural-synthetic-anomalies) ⭐ 74 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-04-20
-* One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [\[CVPR 2026\]](https://arxiv.org/abs/2603.18093)[\[code\]](https://github.com/echrao/O2MAG) ⭐ 73 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-03-26
+* One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [\[CVPR 2026\]](https://arxiv.org/abs/2603.18093)[\[code\]](https://github.com/echrao/O2MAG) ⭐ 74 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-03-26
 * DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [\[ICCV 2025\]](https://www.arxiv.org/abs/2508.13560)[\[code\]](https://github.com/xiaozhen228/DictAS) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2025-12-13
 * DSR: A dual subspace re-projection network for surface anomaly detection [\[ECCV 2022\]](https://arxiv.org/pdf/2208.01521.pdf)[\[code\]](https://github.com/VitjanZ/DSR_anomaly_detection) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2022-07-18
 * Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [\[TCSVT 2024\]](https://ieeexplore.ieee.org/document/10716437)[\[code\]](https://github.com/cqylunlun/PBAS) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-03-30
@@ -1065,10 +1087,11 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map [\[CVPRW 2025\]](https://arxiv.org/abs/2505.03623)[\[code\]](https://github.com/covisionlab/diffusion_labeling) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-08-28
 * CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [\[AAAI 2026\]](https://ojs.aaai.org/index.php/AAAI/article/view/37511)[\[code\]](https://github.com/cvlab-kaist/CHIMERA) ⭐ 12 | 🐛 2 | 📅 2025-11-16
 * Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [\[AAAI 2026\]](https://arxiv.org/abs/2508.03539)[\[code\]](https://github.com/neymarql/QARAD) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-11-12
-* DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [\[ECCV 2026\]](https://arxiv.org/abs/2608.07904)[\[code\]](https://github.com/HUST-SLOW/DeCo) ⭐ 5 | 🐛 2 | 📅 2026-06-25
+* DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [\[ECCV 2026\]](https://arxiv.org/abs/2608.07904)[\[code\]](https://github.com/HUST-SLOW/DeCo) ⭐ 5 | 🐛 2 | 📅 2026-06-25
 * SynSpill: Improved Industrial Spill Detection With Synthetic Data [\[ICCVW 2025 oral\]](https://arxiv.org/abs/2508.10171)[\[code\]](https://github.com/eternal-f1ame/SynSpill) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-10[\[homepage\]](https://synspill.vercel.app/)
-* UniScale: Arbitrary-Scale Industrial Anomaly Generation [\[ECCV 2026\]](https://arxiv.org/abs/2608.07864)[\[code\]](https://github.com/HUST-SLOW/UniScale) ⭐ 4 | 🐛 2 | 📅 2026-06-25
+* UniScale: Arbitrary-Scale Anomaly Generation [\[ECCV 2026\]](https://arxiv.org/abs/2608.07864)[\[code\]](https://github.com/HUST-SLOW/UniScale) ⭐ 4 | 🐛 2 | 📅 2026-06-25
 * ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [\[TAI 2026\]](https://arxiv.org/abs/2510.07927)[\[code\]](https://github.com/M-3LAB/ASBench) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-11
+* Structured guided diffusion models for industrial defect image generation [\[KBS 2025\]](https://doi.org/10.1016/j.knosys.2025.114642)[\[code\]](https://github.com/xieyulai/Structured-DGM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-14
 * ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [\[JIMS 2026\]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[\[code\]](https://github.com/p4ulk/isp-ad) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-10[\[data\]](https://zenodo.org/records/14911042)
 * A High-Efficiency Fully Convolutional Networks for Pixel-Wise Surface Defect Detection [\[IEEE Access 2019\]](https://ieeexplore.ieee.org/abstract/document/8624360)
 * Multistage GAN for fabric defect detection [\[2019\]](https://pubmed.ncbi.nlm.nih.gov/31870985/)
@@ -1133,11 +1156,11 @@ Recent developments in industrial anomaly detection have reshaped method categor
 
 ## 3.5 3D AD
 
-* MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [\[TPAMI 2026\]](https://arxiv.org/abs/2511.10047)[\[code\]](https://github.com/HUST-SLOW/MuSc-V2) ⭐ 348 | 🐛 3 | 🌐 Python | 📅 2026-05-14
+* MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [\[TPAMI 2026\]](https://arxiv.org/abs/2511.10047)[\[code\]](https://github.com/HUST-SLOW/MuSc-V2) ⭐ 349 | 🐛 3 | 🌐 Python | 📅 2026-05-14
 * Real3D-AD: A Dataset of Point Cloud Anomaly Detection [\[NeurIPS 2023\]](https://arxiv.org/abs/2309.13226)[\[code\]](https://github.com/M-3LAB/Real3D-AD) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2024-03-13
 * Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [\[2024\]](https://arxiv.org/abs/2409.13162)[\[code\]](https://github.com/hustCYQ/MVP-PCLIP) ⭐ 118 | 🐛 11 | 🌐 Python | 📅 2025-12-17
-* Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [\[CVPR 2025\]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[\[code\]](https://github.com/ZZZBBBZZZ/MulSen-AD) ⭐ 97 | 🐛 4 | 🌐 Python | 📅 2025-03-20
-* PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [\[NeurIPS 2024\]](https://arxiv.org/abs/2410.00320)[\[code\]](https://github.com/zqhang/PointAD) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2025-05-29
+* Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [\[CVPR 2025\]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[\[code\]](https://github.com/ZZZBBBZZZ/MulSen-AD) ⭐ 98 | 🐛 4 | 🌐 Python | 📅 2025-03-20
+* PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [\[NeurIPS 2024\]](https://arxiv.org/abs/2410.00320)[\[code\]](https://github.com/zqhang/PointAD) ⭐ 91 | 🐛 23 | 🌐 Python | 📅 2025-05-29
 * Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [\[PR 2024\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [\[code\]](https://github.com/caoyunkang/CPMF) ⭐ 85 | 🐛 2 | 🌐 Python | 📅 2025-03-04
 * Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [\[CVPR 2024\]](https://arxiv.org/abs/2311.14897)[\[code\]](https://github.com/Chopper-233/Anomaly-ShapeNet) ⭐ 57 | 🐛 8 | 📅 2025-10-17
 * Multi-View Reconstruction with Global Context for 3D Anomaly Detection [\[IEEE SMC 2025\]](https://arxiv.org/abs/2507.21555)[\[code\]](https://github.com/hustSYH/MVR) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2025-08-01
@@ -1150,6 +1173,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [\[2025\]](https://arxiv.org/abs/2511.05853)[\[code is comming\]](https://github.com/Bingyang0410/CPS3D-Seg) ⭐ 7 | 🐛 1 | 📅 2025-11-08
 * Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [\[2025\]](https://arxiv.org/abs/2505.05901v2)[\[code\]](https://github.com/hzzzzzhappy/MC4AD) ⭐ 5 | 🐛 1 | 📅 2025-07-31
 * 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [\[2025\]](https://arxiv.org/abs/2507.07838)[\[data\]](https://huggingface.co/datasets/pmchard/3D-ADAM)[\[code\]](https://github.com/PaulMcHard/3D-ADAMBench) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-05-25
+* Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2606.29181)[\[code\]](https://github.com/vpc-ccg/AF3AD) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-07-08
 * PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [\[2024\]](https://arxiv.org/abs/2403.01804)
 * R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [\[ECCV 2024\]](https://arxiv.org/abs/2407.10862)[\[homepage\]](https://zhouzheyuan.github.io/r3d-ad)
 * Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [\[2025\]](https://arxiv.org/abs/2502.11307)
@@ -1170,6 +1194,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 
 <!-- + DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_DropGaussian_Structural_Regularization_for_Sparse-view_Gaussian_Splatting_CVPR_2025_paper.pdf)[[code]](https://github.com/DCVL-3D/DropGaussian_release) -->
 
+* IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [\[ECCV 2026\]](https://arxiv.org/abs/2607.19032)[\[code\]](https://github.com/HULEI7/IMMoE) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-09-14
 * Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[\[IEEE-CYBER 2026\]](https://arxiv.org/abs/2605.25407)
 * PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [\[ECCV 2026 Oral\]](https://arxiv.org/abs/2608.04210)
 
@@ -1181,6 +1206,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [\[CVPR 2026\]](https://arxiv.org/abs/2602.19206)[\[code\]](https://github.com/zhushengxinyue/GS-CLIP) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2026-03-07
 * C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [\[2025\]](https://arxiv.org/abs/2508.01311)[\[code\]](https://github.com/hzzzzzhappy/CL3AD) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-02-24
 * Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [\[ECCV 2026\]](https://arxiv.org/abs/2605.24251)[\[code\]](https://github.com/Continue-Edge-AI-Lab/Rethinking-Continual-AD) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-06-29
+* CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [\[ECCV 2026\]](https://arxiv.org/abs/2607.02930)[\[code\]](https://github.com/WenDongyp/CL-Anomaly) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-07-03
 * Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [\[CVPR 2026\]](https://arxiv.org/abs/2604.03972)[\[code\]](https://github.com/alexandor91/Shape-Anomaly-Codebook) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-05-19
 * Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [\[2023\]](https://arxiv.org/abs/2305.15652)
 * Towards Continual Adaptation in Industrial Anomaly Detection [\[ACM MM 2022\]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
@@ -1234,6 +1260,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [\[2025\]](https://arxiv.org/abs/2502.11307)
 * Learning Invariant Discriminative Patterns for Unified Anomaly Detection [\[ACM MM 2025\]](https://dl.acm.org/doi/abs/10.1145/3746027.3755179)
 * DecAD: Decoupling Anomalies in Latent Space for Multi-Class Unsupervised Anomaly Detection [\[ICCV 2025\]](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_DecAD_Decoupling_Anomalies_in_Latent_Space_for_Multi-Class_Unsupervised_Anomaly_ICCV_2025_paper.html)
+* HLRAD: High-dimensional Latent Representation for Unified Anomaly Detection [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/5190)
 
 ## 3.8 Logical AD
 
@@ -1250,6 +1277,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 * VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [\[2026\]](https://arxiv.org/abs/2603.13964)[\[data\]](https://github.com/nkthiroto/VID-AD) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-03-26
 * LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction [\[AAAI 2025\]](https://arxiv.org/abs/2501.01767)[\[code\]](https://github.com/jasonjin34/logicAD) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2025-10-27
 * Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[\[TMLR 2024\]](https://arxiv.org/abs/2410.16255)[\[code\]](https://github.com/sukanyapatra1997/ULSAD-2024) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-04-24
+* Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/4468)[\[code\]](https://github.com/tzjtatata/SCAN) ⭐ 2 | 🐛 0 | 📅 2026-06-26
 * Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [\[IJCV 2022\]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
 * EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [\[WACV 2024\]](https://openaccess.thecvf.com/content/WACV2024/papers/Batzner_EfficientAD_Accurate_Visual_Anomaly_Detection_at_Millisecond-Level_Latencies_WACV_2024_paper.pdf)
 * Contextual Affinity Distillation for Image Anomaly Detection [\[WACV 2024\]](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Contextual_Affinity_Distillation_for_Image_Anomaly_Detection_WACV_2024_paper.pdf)
@@ -1277,6 +1305,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
   Benchmark and Framework for Industrial Anomaly Detection [\[2026\]](https://arxiv.org/abs/2603.00055)[\[code\]](https://github.com/Yanhui-Lee/M3-AD) ⭐ 14 | 🐛 1 | 📅 2026-02-10
 * Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection [\[2026\]](https://arxiv.org/abs/2602.09850)[\[code\]](https://github.com/chenpeng052/Reason-IAD) ⭐ 10 | 🐛 3 | 📅 2026-05-07
 * Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision [\[CVPR 2026\]](https://arxiv.org/abs/2603.27179)[\[code\]](https://github.com/YizhouJin313/ReADL) ⭐ 5 | 🐛 2 | 📅 2026-03-11
+* EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [\[ECCV 2026\]](https://eccv.ecva.net/virtual/2026/poster/4683)[\[code\]](https://github.com/leolin65/EGVLR-project) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-09
 * Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning [\[CSCWD 2024\]](https://arxiv.org/abs/2403.11083)
 * Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection [\[ACM MM 2024\]](https://arxiv.org/abs/2404.09654)
 * LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [\[T-ASE 2024\]](https://arxiv.org/pdf/2406.04687)
@@ -1336,7 +1365,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 ### Universal Task
 
 * UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [\[CVPR 2026\]](https://arxiv.org/abs/2509.25934)[\[code\]](https://github.com/yuanzhao-CVLAB/UniMMAD) ⭐ 248 | 🐛 4 | 🌐 Python | 📅 2026-05-20
-* One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [\[2025\]](https://arxiv.org/abs/2510.17611) [\[code\]](https://github.com/guojiajeremy/Dinomaly2) ⭐ 114 | 🐛 4 | 🌐 Python | 📅 2026-05-30
+* One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [\[2025\]](https://arxiv.org/abs/2510.17611) [\[code\]](https://github.com/guojiajeremy/Dinomaly2) ⭐ 116 | 🐛 4 | 🌐 Python | 📅 2026-05-30
 * Unified Unsupervised Anomaly Detection via Matching Cost Filtering [\[2025\]](https://arxiv.org/abs/2510.03363)[\[code\]](https://github.com/ZHE-SAPI/CostFilter-AD) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2026-07-03
 * UniADC: A Unified Framework for Anomaly Detection and Classification [\[2025\]](https://arxiv.org/abs/2511.06644)[\[code is comming\]](https://github.com/cnulab/UniADC) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2026-09-12
 * AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [\[AAAI 2025\]](https://arxiv.org/abs/2508.06203)[\[code\]](https://github.com/CASIA-LMC-Lab/AnomalyMoE) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2025-11-17
@@ -1374,23 +1403,23 @@ Recent developments in industrial anomaly detection have reshaped method categor
 | [RSDD](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8063875)                                                                          | 2     | -      | -        | 195    | Segmentation mask | RGB real              | 2017         |
 | [Steel defect detection](https://www.kaggle.com/code/ekhtiar/resunet-a-baseline-on-tensorflow/notebook)                                            | 1     | -      | -        | 18076  | Image             | RGB real              | 2019         |
 | [Steel tube dataset](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection) ⭐ 116 \| 🐛 6 \| 🌐 Jupyter Notebook \| 📅 2021-12-06      | 1     | 0      | 3408     | 3408   | Bounding box      | RGB real              | 2021         |
-| [VisA](https://github.com/amazon-science/spot-diff) ⭐ 256 \| 🐛 4 \| 🌐 Python \| 📅 2022-09-22                                                    | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real              | ECCV,2022    |
+| [VisA](https://github.com/amazon-science/spot-diff) ⭐ 257 \| 🐛 4 \| 🌐 Python \| 📅 2022-09-22                                                    | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real              | ECCV,2022    |
 | [RAD](https://github.com/hustCYQ/RAD-dataset) ⭐ 12 \| 🐛 1 \| 🌐 Python \| 📅 2024-09-19                                                           | 4     | 213    | 1224     | 1224   | Segmentation mask | RGB real              | CASE,2024    |
 
 * (DEEP PCB)Online PCB defect detector on a new PCB defect dataset [\[2019\]](https://arxiv.org/pdf/1902.06197.pdf) [\[data\]](https://github.com/tangsanli5201/DeepPCB) ⭐ 544 | 🐛 9 | 🌐 Python | 📅 2018-12-19
 * The Woven Fabric Defect Detection (WFDD) dataset [\[2024\]](https://arxiv.org/abs/2407.09359)[\[data\]](https://github.com/cqylunlun/GLASS?tab=readme-ov-file#1wfdd-download-link) ⭐ 394 | 🐛 5 | 🌐 Python | 📅 2026-03-30
 * (CPLID) Insulator Data Set - Chinese Power Line Insulator Dataset [\[data\]](https://github.com/InsulatorData/InsulatorDataSet) ⭐ 356 | 🐛 5 | 📅 2018-11-19
 * MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [\[ICLR 2025\]](https://arxiv.org/abs/2410.09453) [\[data\]](https://github.com/jam-cc/MMAD) ⭐ 274 | 🐛 1 | 🌐 Python | 📅 2026-01-14✨✨✨
-* (VisA)SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [\[ECCV 2022\]](https://arxiv.org/pdf/2207.14315.pdf) [\[data\]](https://github.com/amazon-science/spot-diff) ⭐ 256 | 🐛 4 | 🌐 Python | 📅 2022-09-22✨✨✨
+* (VisA)SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [\[ECCV 2022\]](https://arxiv.org/pdf/2207.14315.pdf) [\[data\]](https://github.com/amazon-science/spot-diff) ⭐ 257 | 🐛 4 | 🌐 Python | 📅 2022-09-22✨✨✨
 * (MTD)Surface defect saliency of magnetic tile [\[2020\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8560423) [\[data\]](https://github.com/abin24/Magnetic-tile-defect-datasets.) ⭐ 223 | 🐛 5 | 📅 2020-05-09
 * InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images [\[IJRS 2023\]](https://arxiv.org/abs/2311.01619)[\[data\]](https://github.com/andreluizbvs/InsPLAD) ⭐ 169 | 🐛 0 | 📅 2026-08-04
 * Real3D-AD: A Dataset of Point Cloud Anomaly Detection [\[NeurIPS 2023\]](https://openreview.net/pdf?id=zGthDp4yYe)[\[data\]](https://github.com/M-3LAB/Real3D-AD) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2024-03-13✨✨✨
 * Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [\[ECCV 2024\]](https://openreview.net/forum?id=RLhS1TrjK3)[\[data\]](https://github.com/EnVision-Research/Defect_Spectrum) ⭐ 138 | 🐛 6 | 🌐 Python | 📅 2024-08-26
-* Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [\[CVPR 2024\]](https://arxiv.org/abs/2403.12580)[\[code\]](https://github.com/Tencent/AnomalyDetection_Real-IAD) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2025-07-16[\[data\]](https://realiad4ad.github.io/Real-IAD/)✨✨✨
+* Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [\[CVPR 2024\]](https://arxiv.org/abs/2403.12580)[\[code\]](https://github.com/Tencent/AnomalyDetection_Real-IAD) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2025-07-16[\[data\]](https://realiad4ad.github.io/Real-IAD/)✨✨✨
 * (Steel tube dataset)Deep learning based steel pipe weld defect detection [\[2021\]](https://www.tandfonline.com/doi/pdf/10.1080/08839514.2021.1975391?needAccess=true) [\[data\]](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection) ⭐ 116 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2021-12-06
 * PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [\[NeurIPS 2023\]](https://github.com/EricLee0224/PAD) ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2024-12-02
 * (AeBAD)Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [\[2023\]](https://arxiv.org/abs/2304.02216) [\[data\]](https://github.com/zhangzilongc/MMR) ⭐ 103 | 🐛 5 | 🌐 Python | 📅 2023-11-14
-* Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [\[CVPR 2025\]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[\[code\]](https://github.com/ZZZBBBZZZ/MulSen-AD) ⭐ 97 | 🐛 4 | 🌐 Python | 📅 2025-03-20✨✨
+* Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [\[CVPR 2025\]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[\[code\]](https://github.com/ZZZBBBZZZ/MulSen-AD) ⭐ 98 | 🐛 4 | 🌐 Python | 📅 2025-03-20✨✨
 * 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [\[AAAI 2025\]](https://arxiv.org/abs/2502.05761)[\[data\]](https://github.com/EnquanYang2022/3CAD) ⭐ 66 | 🐛 5 | 🌐 Python | 📅 2025-04-22✨✨
 * (SSGD)SSGD: A smartphone screen glass dataset for defect detection [\[2023\]](https://arxiv.org/abs/2303.06673)[\[github page\]](https://github.com/VincentHancoder/SSGD) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2024-12-01
 * Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [\[CVPR 2024\]](https://arxiv.org/abs/2311.14897)[\[data\]](https://github.com/Chopper-233/Anomaly-ShapeNet) ⭐ 57 | 🐛 8 | 📅 2025-10-17
@@ -1496,4 +1525,4 @@ If you find this paper and repository useful, please cite our paper☺️.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
