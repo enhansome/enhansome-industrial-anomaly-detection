@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "3d",
               "anomaly-detection",
@@ -153,7 +153,7 @@
             "open_issues": 21,
             "owner": "hq-deng",
             "repo": "RD4AD",
-            "stars": 253,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1399,
+            "stars": 1400,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -462,7 +462,7 @@
             "open_issues": 7,
             "owner": "Choubo",
             "repo": "DRA",
-            "stars": 95,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T07:52:16Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-21T12:31:26Z",
+            "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6181,
+            "stars": 6187,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1033,6 +1033,27 @@
             },
             {
               "node_type": "item",
+              "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV2026] UniScale: Arbitrary-Scale Industrial Anomaly Generation. Paper is avaliable at https://arxiv.org/abs/2608.07864",
+                "homepage": null,
+                "id": 1280163835,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-06-25T10:25:29Z",
+                "open_issues": 2,
+                "owner": "HUST-SLOW",
+                "repo": "UniScale",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -1089,27 +1110,6 @@
                 "open_issues": 2,
                 "owner": "HUST-SLOW",
                 "repo": "DeCo",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV2026] UniScale: Arbitrary-Scale Industrial Anomaly Generation. Paper is avaliable at https://arxiv.org/abs/2608.07864",
-                "homepage": null,
-                "id": 1280163835,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-06-25T10:25:29Z",
-                "open_issues": 2,
-                "owner": "HUST-SLOW",
-                "repo": "UniScale",
                 "stars": 5,
                 "topics": []
               },
@@ -1443,7 +1443,7 @@
                 "open_issues": 3,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1464,7 +1464,7 @@
                 "open_issues": 2,
                 "owner": "MaticFuc",
                 "repo": "AnomalyVFM",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "anomaly-detection",
                   "cvpr",
@@ -2606,7 +2606,7 @@
                 "open_issues": 11,
                 "owner": "HUST-SLOW",
                 "repo": "AnomalyNCD",
-                "stars": 167,
+                "stars": 168,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2732,7 +2732,7 @@
                 "open_issues": 8,
                 "owner": "xiaozhen228",
                 "repo": "Bayes-PFL",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3012,11 +3012,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T07:52:16Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-21T12:31:26Z",
+            "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6181,
+            "stars": 6187,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3339,7 +3339,7 @@
                     "open_issues": 21,
                     "owner": "hq-deng",
                     "repo": "RD4AD",
-                    "stars": 253,
+                    "stars": 254,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3387,7 +3387,7 @@
                     "open_issues": 4,
                     "owner": "marco-rudolph",
                     "repo": "AST",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning"
@@ -3638,7 +3638,7 @@
                     "open_issues": 1,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 178,
+                    "stars": 180,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -4002,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1399,
+                    "stars": 1400,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5227,7 +5227,7 @@
                     "open_issues": 1,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 178,
+                    "stars": 180,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -5285,7 +5285,7 @@
                     "open_issues": 7,
                     "owner": "Choubo",
                     "repo": "DRA",
-                    "stars": 95,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5306,7 +5306,7 @@
                     "open_issues": 3,
                     "owner": "mala-lab",
                     "repo": "deviation-network-image",
-                    "stars": 89,
+                    "stars": 88,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -5723,7 +5723,7 @@
                     "open_issues": 3,
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 349,
+                    "stars": 351,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5901,7 +5901,7 @@
                     "open_issues": 2,
                     "owner": "MaticFuc",
                     "repo": "AnomalyVFM",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": [
                       "anomaly-detection",
                       "cvpr",
@@ -7033,7 +7033,7 @@
                 "open_issues": 1,
                 "owner": "blaz-r",
                 "repo": "SuperSimpleNet",
-                "stars": 178,
+                "stars": 180,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -7175,6 +7175,27 @@
             },
             {
               "node_type": "item",
+              "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026 Highlight] The Official Implementation for \"One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control\"",
+                "homepage": "https://arxiv.org/abs/2603.18093",
+                "id": 1184938420,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2026-03-26T02:19:20Z",
+                "open_issues": 3,
+                "owner": "echrao",
+                "repo": "O2MAG",
+                "stars": 75,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [ECCV 2022]",
               "description": "[code]",
               "children": [],
@@ -7194,27 +7215,6 @@
                   "anomaly-detection",
                   "self-supervised-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026 Highlight] The Official Implementation for \"One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control\"",
-                "homepage": "https://arxiv.org/abs/2603.18093",
-                "id": 1184938420,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2026-03-26T02:19:20Z",
-                "open_issues": 3,
-                "owner": "echrao",
-                "repo": "O2MAG",
-                "stars": 74,
-                "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             },
@@ -7413,27 +7413,6 @@
             },
             {
               "node_type": "item",
-              "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV2026] DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling. Paper is avaliable at https://arxiv.org/abs/2608.07904 ",
-                "homepage": null,
-                "id": 1280164832,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-06-25T10:26:33Z",
-                "open_issues": 2,
-                "owner": "HUST-SLOW",
-                "repo": "DeCo",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
               "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -7448,6 +7427,27 @@
                 "open_issues": 2,
                 "owner": "HUST-SLOW",
                 "repo": "UniScale",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV2026] DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling. Paper is avaliable at https://arxiv.org/abs/2608.07904 ",
+                "homepage": null,
+                "id": 1280164832,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-06-25T10:26:33Z",
+                "open_issues": 2,
+                "owner": "HUST-SLOW",
+                "repo": "DeCo",
                 "stars": 5,
                 "topics": []
               },
@@ -7805,7 +7805,7 @@
                 "open_issues": 3,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 349,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8105,7 +8105,7 @@
                 "open_issues": 1,
                 "owner": "Bingyang0410",
                 "repo": "CPS3D-Seg",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9441,7 +9441,7 @@
                     "open_issues": 11,
                     "owner": "HUST-SLOW",
                     "repo": "AnomalyNCD",
-                    "stars": 167,
+                    "stars": 168,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 544,
+            "stars": 545,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 544,
+            "stars": 545,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10017,7 +10017,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:51:33.286Z",
+    "last_updated": "2026-09-22T10:06:08.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
