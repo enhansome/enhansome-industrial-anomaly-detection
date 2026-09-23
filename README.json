@@ -197,7 +197,7 @@
             "open_issues": 4,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 117,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1400,
+            "stars": 1401,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1137,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T12:31:26Z",
+            "last_commit": "2026-09-23T07:29:05Z",
             "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6187,
+            "stars": 6196,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1012,6 +1012,27 @@
             },
             {
               "node_type": "item",
+              "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV2026] UniScale: Arbitrary-Scale Industrial Anomaly Generation. Paper is avaliable at https://arxiv.org/abs/2608.07864",
+                "homepage": null,
+                "id": 1280163835,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-06-25T10:25:29Z",
+                "open_issues": 2,
+                "owner": "HUST-SLOW",
+                "repo": "UniScale",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -1027,27 +1048,6 @@
                 "owner": "HULEI7",
                 "repo": "IMMoE",
                 "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV2026] UniScale: Arbitrary-Scale Industrial Anomaly Generation. Paper is avaliable at https://arxiv.org/abs/2608.07864",
-                "homepage": null,
-                "id": 1280163835,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-06-25T10:25:29Z",
-                "open_issues": 2,
-                "owner": "HUST-SLOW",
-                "repo": "UniScale",
-                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 257,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1554,7 +1554,7 @@
                 "open_issues": 1,
                 "owner": "CoCoRessa",
                 "repo": "MoECLIP",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1771,7 +1771,7 @@
                 "open_issues": 4,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -1809,7 +1809,7 @@
                 "open_issues": 4,
                 "owner": "CROVO1026",
                 "repo": "MRAD",
-                "stars": 53,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2669,7 +2669,7 @@
                 "open_issues": 5,
                 "owner": "fengyan-cv",
                 "repo": "WPFormer",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3012,11 +3012,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T12:31:26Z",
+            "last_commit": "2026-09-23T07:29:05Z",
             "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6187,
+            "stars": 6196,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4002,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1400,
+                    "stars": 1401,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4294,7 +4294,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1137,
+                    "stars": 1138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5956,27 +5956,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [ICLR 2026]",
-                  "description": "[code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official implementation of “MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval” (ICLR 2026)",
-                    "homepage": null,
-                    "id": 1144984969,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-03-13T16:04:48Z",
-                    "open_issues": 4,
-                    "owner": "CROVO1026",
-                    "repo": "MRAD",
-                    "stars": 53,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [2025]",
                   "description": "[code]",
                   "children": [],
@@ -5991,6 +5970,27 @@
                     "open_issues": 1,
                     "owner": "cqylunlun",
                     "repo": "CoPS",
+                    "stars": 52,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [ICLR 2026]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation of “MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval” (ICLR 2026)",
+                    "homepage": null,
+                    "id": 1144984969,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-03-13T16:04:48Z",
+                    "open_issues": 4,
+                    "owner": "CROVO1026",
+                    "repo": "MRAD",
                     "stars": 52,
                     "topics": []
                   },
@@ -6038,7 +6038,7 @@
                     "open_issues": 1,
                     "owner": "CoCoRessa",
                     "repo": "MoECLIP",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6177,7 +6177,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1137,
+                    "stars": 1138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6318,7 +6318,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6356,7 +6356,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -7427,7 +7427,7 @@
                 "open_issues": 2,
                 "owner": "HUST-SLOW",
                 "repo": "UniScale",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7614,7 +7614,7 @@
                 "open_issues": 10,
                 "owner": "eliahuhorwitz",
                 "repo": "3D-ADS",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -9144,7 +9144,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9522,7 +9522,7 @@
                     "open_issues": 4,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 545,
+            "stars": 546,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9849,7 +9849,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 259,
+            "stars": 260,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 545,
+            "stars": 546,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9975,7 +9975,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 259,
+            "stars": 260,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10017,7 +10017,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 170,
+            "stars": 172,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:06:08.543Z",
+    "last_updated": "2026-09-23T10:07:07.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3792,
+      "stars": 3794,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
