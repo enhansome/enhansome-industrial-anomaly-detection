@@ -174,7 +174,7 @@
             "open_issues": 30,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 525,
+            "stars": 527,
             "topics": [
               "anomaly-detection"
             ]
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1138,
+            "stars": 1139,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -814,7 +814,7 @@
             "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6196,
+            "stars": 6197,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -963,7 +963,7 @@
                 "open_issues": 1,
                 "owner": "LGC-AD",
                 "repo": "ArcAD",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1397,7 +1397,7 @@
                 "open_issues": 4,
                 "owner": "yuanzhao-CVLAB",
                 "repo": "UniMMAD",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "anomaly-detection",
                   "mixture-of-experts",
@@ -2520,7 +2520,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 525,
+                "stars": 527,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -2627,7 +2627,7 @@
                 "open_issues": 11,
                 "owner": "yinyjin",
                 "repo": "DualAnoDiff",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2669,7 +2669,7 @@
                 "open_issues": 5,
                 "owner": "fengyan-cv",
                 "repo": "WPFormer",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3016,7 +3016,7 @@
             "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6196,
+            "stars": 6197,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4070,7 +4070,7 @@
                     "open_issues": 0,
                     "owner": "flyinghu123",
                     "repo": "CPR",
-                    "stars": 119,
+                    "stars": 118,
                     "topics": [
                       "anomaly-detection",
                       "contrastive-loss"
@@ -4294,7 +4294,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1138,
+                    "stars": 1139,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4987,7 +4987,7 @@
                     "open_issues": 8,
                     "owner": "HuiZhang0812",
                     "repo": "DiffusionAD",
-                    "stars": 222,
+                    "stars": 223,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5421,7 +5421,7 @@
                     "open_issues": 1,
                     "owner": "LGC-AD",
                     "repo": "ArcAD",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 1,
                     "owner": "Alireza99Salehi",
                     "repo": "Crane",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": [
                       "anomaly-detection",
                       "clip",
@@ -6177,7 +6177,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1138,
+                    "stars": 1139,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8242,7 +8242,7 @@
                 "open_issues": 0,
                 "owner": "HULEI7",
                 "repo": "ReplayCAD",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8263,7 +8263,7 @@
                 "open_issues": 2,
                 "owner": "jqtangust",
                 "repo": "IUF",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "anomaly",
                   "anomaly-detection",
@@ -8314,7 +8314,7 @@
                 "open_issues": 0,
                 "owner": "hzzzzzhappy",
                 "repo": "C3DAD",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8405,7 +8405,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 525,
+                "stars": 527,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -8502,6 +8502,36 @@
             },
             {
               "node_type": "item",
+              "title": "An Incremental Unified Framework for Small Defect Inspection [ECCV2024]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024] Official Implementation of An Incremental Unified Framework for Small Defect Inspection",
+                "homepage": "https://jqt.me/_IUF_/",
+                "id": 731000736,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-17T06:18:38Z",
+                "open_issues": 2,
+                "owner": "jqtangust",
+                "repo": "IUF",
+                "stars": 50,
+                "topics": [
+                  "anomaly",
+                  "anomaly-detection",
+                  "continual-learning",
+                  "defect-detection",
+                  "incremental-learning",
+                  "industrial-detection",
+                  "industrial-vision",
+                  "small-defect"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [NeurIPS 2023]",
               "description": "[code]",
               "children": [],
@@ -8518,36 +8548,6 @@
                 "repo": "HVQ-Trans",
                 "stars": 49,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "An Incremental Unified Framework for Small Defect Inspection [ECCV2024]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024] Official Implementation of An Incremental Unified Framework for Small Defect Inspection",
-                "homepage": "https://jqt.me/_IUF_/",
-                "id": 731000736,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-02-17T06:18:38Z",
-                "open_issues": 2,
-                "owner": "jqtangust",
-                "repo": "IUF",
-                "stars": 49,
-                "topics": [
-                  "anomaly",
-                  "anomaly-detection",
-                  "continual-learning",
-                  "defect-detection",
-                  "incremental-learning",
-                  "industrial-detection",
-                  "industrial-vision",
-                  "small-defect"
-                ]
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             },
@@ -9053,7 +9053,7 @@
                 "open_issues": 1,
                 "owner": "nkthiroto",
                 "repo": "VID-AD",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9144,7 +9144,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9497,7 +9497,7 @@
                     "open_issues": 4,
                     "owner": "yuanzhao-CVLAB",
                     "repo": "UniMMAD",
-                    "stars": 248,
+                    "stars": 249,
                     "topics": [
                       "anomaly-detection",
                       "mixture-of-experts",
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 546,
+            "stars": 548,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9748,7 +9748,7 @@
             "open_issues": 5,
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 546,
+            "stars": 548,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9996,7 +9996,7 @@
             "open_issues": 5,
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10459,7 +10459,7 @@
             "open_issues": 1,
             "owner": "nkthiroto",
             "repo": "VID-AD",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:07:07.245Z",
+    "last_updated": "2026-09-24T10:13:23.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3794,
+      "stars": 3795,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
