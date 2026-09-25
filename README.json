@@ -65,10 +65,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-01-14T10:54:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "3d",
               "anomaly-detection",
@@ -811,10 +811,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T07:29:05Z",
-            "open_issues": 77,
+            "open_issues": 79,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6197,
+            "stars": 6200,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -889,10 +889,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-01-14T10:54:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1306,7 +1306,7 @@
                 "open_issues": 0,
                 "owner": "longkukuhi",
                 "repo": "RAD",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 260,
+                "stars": 261,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1771,7 +1771,7 @@
                 "open_issues": 4,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -1890,7 +1890,7 @@
                 "open_issues": 18,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2221,7 +2221,7 @@
                 "open_issues": 3,
                 "owner": "boschresearch",
                 "repo": "MultiADS",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3013,10 +3013,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T07:29:05Z",
-            "open_issues": 77,
+            "open_issues": 79,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6197,
+            "stars": 6200,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4361,7 +4361,7 @@
                     "open_issues": 3,
                     "owner": "boschresearch",
                     "repo": "MultiADS",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5859,7 +5859,7 @@
                     "open_issues": 18,
                     "owner": "Yanhui-Lee",
                     "repo": "IAD-R1",
-                    "stars": 97,
+                    "stars": 98,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5928,7 +5928,7 @@
                     "open_issues": 3,
                     "owner": "boschresearch",
                     "repo": "MultiADS",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6071,7 +6071,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection (BMVC 2026)",
+                    "description": "[BMVC 2026] Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection",
                     "homepage": "https://arxiv.org/abs/2504.11055",
                     "id": 950425402,
                     "language": "Python",
@@ -6318,7 +6318,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6356,7 +6356,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -7164,7 +7164,7 @@
                 "open_issues": 7,
                 "owner": "gaobb",
                 "repo": "AnoGen",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-generation",
@@ -9162,10 +9162,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-14T10:54:39Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jam-cc",
                 "repo": "MMAD",
-                "stars": 274,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9207,7 +9207,7 @@
                 "open_issues": 18,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9951,10 +9951,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-01-14T10:54:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10017,7 +10017,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:13:23.534Z",
+    "last_updated": "2026-09-25T10:18:17.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3795,
+      "stars": 3797,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
