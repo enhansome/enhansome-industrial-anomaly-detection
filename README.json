@@ -110,7 +110,7 @@
             "id": 1090905215,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-20T21:31:39Z",
+            "last_commit": "2026-09-26T20:50:23Z",
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1139,
+            "stars": 1140,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -814,7 +814,7 @@
             "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6200,
+            "stars": 6202,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1554,7 +1554,7 @@
                 "open_issues": 1,
                 "owner": "CoCoRessa",
                 "repo": "MoECLIP",
-                "stars": 42,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1596,7 +1596,7 @@
                 "open_issues": 4,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2492,7 +2492,7 @@
                 "open_issues": 1,
                 "owner": "ZHE-SAPI",
                 "repo": "CostFilter-AD",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2669,7 +2669,7 @@
                 "open_issues": 5,
                 "owner": "fengyan-cv",
                 "repo": "WPFormer",
-                "stars": 106,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3016,7 +3016,7 @@
             "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6200,
+            "stars": 6202,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4294,7 +4294,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1139,
+                    "stars": 1140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5723,7 +5723,7 @@
                     "open_issues": 3,
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 350,
+                    "stars": 351,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6038,7 +6038,7 @@
                     "open_issues": 1,
                     "owner": "CoCoRessa",
                     "repo": "MoECLIP",
-                    "stars": 42,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6177,7 +6177,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1139,
+                    "stars": 1140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7805,7 +7805,7 @@
                 "open_issues": 3,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7979,7 +7979,7 @@
                 "open_issues": 4,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9144,7 +9144,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1139,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9332,7 +9332,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "[NeurIPS 2026]⭐️ Towards Explainable Industrial Anomaly Detection  via Knowledge-Guided Latent Reasoning.",
                 "homepage": null,
                 "id": 1154410070,
                 "language": null,
@@ -9543,7 +9543,7 @@
                     "open_issues": 1,
                     "owner": "ZHE-SAPI",
                     "repo": "CostFilter-AD",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9824,7 +9824,7 @@
             "open_issues": 6,
             "owner": "huangyebiaoke",
             "repo": "steel-pipe-weld-defect-detection",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "dataset",
               "deep-learning",
@@ -10128,7 +10128,7 @@
             "open_issues": 6,
             "owner": "huangyebiaoke",
             "repo": "steel-pipe-weld-defect-detection",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "dataset",
               "deep-learning",
@@ -10328,7 +10328,7 @@
             "open_issues": 0,
             "owner": "jianzhang96",
             "repo": "GoodsAD",
-            "stars": 41,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:57:48.665Z",
+    "last_updated": "2026-09-27T10:37:17.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
