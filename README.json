@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "3d",
               "anomaly-detection",
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1403,
+            "stars": 1404,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T11:21:44Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-30T11:09:54Z",
+            "open_issues": 72,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6206,
+            "stars": 6209,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1075,27 +1075,6 @@
             },
             {
               "node_type": "item",
-              "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV2026] The Official Implementation for ''CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection''",
-                "homepage": null,
-                "id": 1283014702,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-03T03:35:35Z",
-                "open_issues": 1,
-                "owner": "WenDongyp",
-                "repo": "CL-Anomaly",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-09-20T09:52:50.611Z"
-            },
-            {
-              "node_type": "item",
               "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
               "description": "[code]",
               "children": [],
@@ -1114,6 +1093,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV2026] The Official Implementation for ''CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection''",
+                "homepage": null,
+                "id": 1283014702,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-03T03:35:35Z",
+                "open_issues": 1,
+                "owner": "WenDongyp",
+                "repo": "CL-Anomaly",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
             },
             {
               "node_type": "item",
@@ -1376,7 +1376,7 @@
                 "open_issues": 2,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 262,
+                "stars": 264,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1443,7 +1443,7 @@
                 "open_issues": 3,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 75,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3012,11 +3012,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T11:21:44Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-30T11:09:54Z",
+            "open_issues": 72,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6206,
+            "stars": 6209,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4002,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1403,
+                    "stars": 1404,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4987,7 +4987,7 @@
                     "open_issues": 8,
                     "owner": "HuiZhang0812",
                     "repo": "DiffusionAD",
-                    "stars": 223,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5838,7 +5838,7 @@
                     "open_issues": 5,
                     "owner": "xiaozhen228",
                     "repo": "VCP-CLIP",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6240,7 +6240,7 @@
                     "id": 766093530,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2025-07-17T14:00:49Z",
+                    "last_commit": "2026-09-29T12:03:45Z",
                     "open_issues": 7,
                     "owner": "mala-lab",
                     "repo": "InCTRL",
@@ -7189,7 +7189,7 @@
                 "open_issues": 3,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 75,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7853,7 +7853,7 @@
                 "open_issues": 11,
                 "owner": "hustCYQ",
                 "repo": "MVP-PCLIP",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8356,7 +8356,7 @@
                 "open_issues": 1,
                 "owner": "WenDongyp",
                 "repo": "CL-Anomaly",
-                "stars": 6,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-09-20T09:52:50.611Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:26:10.792Z",
+    "last_updated": "2026-09-30T11:14:00.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3803,
+      "stars": 3804,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
