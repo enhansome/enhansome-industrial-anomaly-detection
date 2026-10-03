@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "🔥🔥🔥 We have released AD-Copilot, an end-to-end trained MLLM for industrial anomaly detection. Most impressively, AD-Copilot surpasses humans on real industrial inspection tasks! Try it at [Code]",
-          "description": "[Demo]",
+          "description": "jam-cc/AD-Copilot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -55,7 +55,7 @@
         {
           "node_type": "item",
           "title": "🔥🔥🔥 How well are current MLLMs performing as industrial quality inspectors? Which MLLM performs best in industrial anomaly detection? Please refer to our recent research. [ICLR 2025]",
-          "description": "[Github]",
+          "description": "jam-cc/MMAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -68,7 +68,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -76,7 +76,7 @@
         {
           "node_type": "item",
           "title": "A Survey on Industrial Anomalies Synthesis [paper]",
-          "description": "[github]",
+          "description": "M-3LAB/awesome-anomaly-synthesis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "🔥🔥🔥 3D Anomaly Detection: A Survey [paper]",
-          "description": "[github]",
+          "description": "M-3LAB/awesome-3d-anomaly-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,7 +110,7 @@
             "id": 1090905215,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-30T13:01:31Z",
+            "last_commit": "2026-10-02T13:00:39Z",
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
@@ -174,7 +174,7 @@
             "open_issues": 30,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "anomaly-detection"
             ]
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1405,
+            "stars": 1406,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:31:30Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-03T03:25:53Z",
+            "open_issues": 79,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6212,
+            "stars": 6214,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -892,7 +892,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -929,7 +929,7 @@
             {
               "node_type": "item",
               "title": "CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "Junhaocai27/CMDS-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -950,7 +950,7 @@
             {
               "node_type": "item",
               "title": "ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "LGC-AD/ArcAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -971,7 +971,7 @@
             {
               "node_type": "item",
               "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "cnulab/LogiCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -992,7 +992,7 @@
             {
               "node_type": "item",
               "title": "ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "CLendering/ReFP-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1013,7 +1013,7 @@
             {
               "node_type": "item",
               "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
-              "description": "[code]",
+              "description": "HUST-SLOW/UniScale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1034,7 +1034,7 @@
             {
               "node_type": "item",
               "title": "IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [ECCV 2026]",
-              "description": "[code]",
+              "description": "HULEI7/IMMoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1055,7 +1055,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [ECCV 2026]",
-              "description": "[code]",
+              "description": "Continue-Edge-AI-Lab/Rethinking-Continual-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1076,7 +1076,7 @@
             {
               "node_type": "item",
               "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
-              "description": "[code]",
+              "description": "HUST-SLOW/DeCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1097,7 +1097,7 @@
             {
               "node_type": "item",
               "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "WenDongyp/CL-Anomaly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,7 +1118,7 @@
             {
               "node_type": "item",
               "title": "Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "vpc-ccg/AF3AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1139,7 +1139,7 @@
             {
               "node_type": "item",
               "title": "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [ECCV 2026]",
-              "description": "[code]",
+              "description": "CROVO1026/DeltaDeno",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1160,7 +1160,7 @@
             {
               "node_type": "item",
               "title": "Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [ECCV 2026]",
-              "description": "[code]",
+              "description": "tzjtatata/SCAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1181,7 +1181,7 @@
             {
               "node_type": "item",
               "title": "EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [ECCV 2026]",
-              "description": "[code]",
+              "description": "leolin65/EGVLR-project",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1202,7 +1202,7 @@
             {
               "node_type": "item",
               "title": "A Comprehensive Analysis about Unsupervised Outlier Detection for Images [ECCV 2026]",
-              "description": "[code]",
+              "description": "zhliu-uod/VUOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1223,7 +1223,7 @@
             {
               "node_type": "item",
               "title": "FuDU: A Fuzzy Dual-dimension Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection[ECCV 2026]",
-              "description": "[code]",
+              "description": "wangzhaoyang-508/FuDU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1244,7 +1244,7 @@
             {
               "node_type": "item",
               "title": "BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "DeclanMcIntosh/BAAF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1265,7 +1265,7 @@
             {
               "node_type": "item",
               "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "evoLonation/DeMuS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1293,7 +1293,7 @@
             {
               "node_type": "item",
               "title": "Is Training Necessary for Anomaly Detection? [ICML 2026]",
-              "description": "[code]",
+              "description": "longkukuhi/RAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1314,7 +1314,7 @@
             {
               "node_type": "item",
               "title": "Memory-Distilled Selection for Noise-Robust Anomaly Detection [ICML 2026]",
-              "description": "[code]",
+              "description": "SirojbekSafarov/MeDS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1335,7 @@
             {
               "node_type": "item",
               "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
-              "description": "[code]",
+              "description": "fuyunwang/MPFM-OSAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1363,7 +1363,7 @@
             {
               "node_type": "item",
               "title": "SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling [CVPR 2026]",
-              "description": "[code]",
+              "description": "CLendering/SubspaceAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1384,7 +1384,7 @@
             {
               "node_type": "item",
               "title": "UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [CVPR 2026]",
-              "description": "[code]",
+              "description": "yuanzhao-CVLAB/UniMMAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1409,7 +1409,7 @@
             {
               "node_type": "item",
               "title": "VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer [CVPR 2026]",
-              "description": "[code]",
+              "description": "7HHHHH/VisualAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1430,7 +1430,7 @@
             {
               "node_type": "item",
               "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
-              "description": "[code]",
+              "description": "echrao/O2MAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1451,7 +1451,7 @@
             {
               "node_type": "item",
               "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [CVPR 2026]",
-              "description": "[code]",
+              "description": "MaticFuc/AnomalyVFM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1478,7 +1478,7 @@
             {
               "node_type": "item",
               "title": "InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [CVPR 2026]",
-              "description": "[code]",
+              "description": "SkyShunsuke/InversionAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1499,7 +1499,7 @@
             {
               "node_type": "item",
               "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [CVPR 2026 Findings]",
-              "description": "[code]",
+              "description": "cqylunlun/CoPS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1520,7 +1520,7 @@
             {
               "node_type": "item",
               "title": "RAID: Retrieval-Augmented Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "Mingxiu-Cai/RAID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1541,7 +1541,7 @@
             {
               "node_type": "item",
               "title": "MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "CoCoRessa/MoECLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1562,7 +1562,7 @@
             {
               "node_type": "item",
               "title": "GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [CVPR 2026]",
-              "description": "[code]",
+              "description": "zhushengxinyue/GS-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1583,7 +1583,7 @@
             {
               "node_type": "item",
               "title": "Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "wistful-8029/BTP-3DAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1604,7 +1604,7 @@
             {
               "node_type": "item",
               "title": "FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [CVPR 2026]",
-              "description": "[code]",
+              "description": "Xi-Mu-Yu/FB-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1625,7 +1625,7 @@
             {
               "node_type": "item",
               "title": "PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "OxygenLu/PDD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1646,7 +1646,7 @@
             {
               "node_type": "item",
               "title": "AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [CVPR 2026]",
-              "description": "[code]",
+              "description": "xiaozhen228/AG-VAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1667,7 +1667,7 @@
             {
               "node_type": "item",
               "title": "MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness [CVPR 2026 Findings]",
-              "description": "[code]",
+              "description": "SpatialAILab/MAGIC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1688,7 +1688,7 @@
             {
               "node_type": "item",
               "title": "Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision [CVPR 2026]",
-              "description": "[code]",
+              "description": "YizhouJin313/ReADL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1709,7 +1709,7 @@
             {
               "node_type": "item",
               "title": "Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "alexandor91/Shape-Anomaly-Codebook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1730,7 +1730,7 @@
             {
               "node_type": "item",
               "title": "Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "YoojLee/AnoPLe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1758,7 +1758,7 @@
             {
               "node_type": "item",
               "title": "Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [ICLR 2026]",
-              "description": "[code]",
+              "description": "ymxlzgy/FoundAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1796,7 +1796,7 @@
             {
               "node_type": "item",
               "title": "MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [ICLR 2026]",
-              "description": "[code]",
+              "description": "CROVO1026/MRAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "gaobb/AdaptCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1849,7 +1849,7 @@
             {
               "node_type": "item",
               "title": "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [AAAI 2026]",
-              "description": "[code]",
+              "description": "yuxin-jiang/Anomagic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1877,7 +1877,7 @@
             {
               "node_type": "item",
               "title": "IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "Yanhui-Lee/IAD-R1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1898,7 +1898,7 @@
             {
               "node_type": "item",
               "title": "AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "CASIA-LMC-Lab/AnomalyMoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1919,7 +1919,7 @@
             {
               "node_type": "item",
               "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
-              "description": "[code]",
+              "description": "Sunny5250/CIF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1946,7 +1946,7 @@
             {
               "node_type": "item",
               "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
-              "description": "[code]",
+              "description": "Sunny5250/CIF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1973,7 +1973,7 @@
             {
               "node_type": "item",
               "title": "AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [AAAI 2026]",
-              "description": "[code]",
+              "description": "yulimso/AnoStyler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1994,7 +1994,7 @@
             {
               "node_type": "item",
               "title": "CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "zyh16143998882/CASL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2015,7 +2015,7 @@
             {
               "node_type": "item",
               "title": "CHIMERA:Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [AAAI 2026]",
-              "description": "[code]",
+              "description": "cvlab-kaist/CHIMERA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2036,7 +2036,7 @@
             {
               "node_type": "item",
               "title": "Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "neymarql/QARAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2057,7 +2057,7 @@
             {
               "node_type": "item",
               "title": "FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [AAAI 2026]",
-              "description": "[code]",
+              "description": "ls1rius/MRI_FDP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2078,7 +2078,7 @@
             {
               "node_type": "item",
               "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "liugang-xd/MaskAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2106,7 +2106,7 @@
             {
               "node_type": "item",
               "title": "Normal-Abnormal Guided Generalist Anomaly Detection [NeurIPS 2025]",
-              "description": "[code]",
+              "description": "JasonKyng/NAGL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2127,7 +2127,7 @@
             {
               "node_type": "item",
               "title": "ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining [NeurIPS 2025]",
-              "description": "[code]",
+              "description": "xcyao00/ADPretrain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2159,7 +2159,7 @@
             {
               "node_type": "item",
               "title": "Self-Tuning Self-Supervised Image Anomaly Detection [KDD 2025]",
-              "description": "[code]",
+              "description": "jaeminyoo/ST-SSAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2187,7 +2187,7 @@
             {
               "node_type": "item",
               "title": "SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [ICCV 2025]",
-              "description": "[code]",
+              "description": "HUST-SLOW/SeaS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2208,7 +2208,7 @@
             {
               "node_type": "item",
               "title": "MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [ICCV 2025]",
-              "description": "[code]",
+              "description": "boschresearch/MultiADS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2229,7 +2229,7 @@
             {
               "node_type": "item",
               "title": "DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [ICCV 2025]",
-              "description": "[code]",
+              "description": "xiaozhen228/DictAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2250,7 +2250,7 @@
             {
               "node_type": "item",
               "title": "SALAD -- Semantics-Aware Logical Anomaly Detection [ICCV 2025]",
-              "description": "[code]",
+              "description": "MaticFuc/SALAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2278,7 +2278,7 @@
             {
               "node_type": "item",
               "title": "Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [ICCV 2025]",
-              "description": "[code]",
+              "description": "mala-lab/FAPrompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2304,7 +2304,7 @@
             {
               "node_type": "item",
               "title": "Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [ICCV 2025]",
-              "description": "[code]",
+              "description": "tzjtatata/Triad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2325,7 +2325,7 @@
             {
               "node_type": "item",
               "title": "Training-Free Industrial Defect Generation with Diffusion Models [ICCV 2025]",
-              "description": "[code]",
+              "description": "rubymiaomiao/TF-IDG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2346,7 +2346,7 @@
             {
               "node_type": "item",
               "title": "RareCLIP: Rarity-aware Online Zero-shot Industrial Anomaly Detection [ICCV 2025]",
-              "description": "[code]",
+              "description": "hjf02/RareCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2367,7 +2367,7 @@
             {
               "node_type": "item",
               "title": "Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [ICCV 2025]",
-              "description": "[code]",
+              "description": "MapleBoat/PASDF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2388,7 +2388,7 @@
             {
               "node_type": "item",
               "title": "G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection[ICCV 2025]",
-              "description": "[code]",
+              "description": "ctaoaa/G2SF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2409,7 +2409,7 @@
             {
               "node_type": "item",
               "title": "Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application [ICCV 2025]",
-              "description": "[data]",
+              "description": "Bingyang0410/CPS2D-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2430,7 +2430,7 @@
             {
               "node_type": "item",
               "title": "ReMP-AD: Retrieval-enhanced Multi-modal Prompt Fusion for Few-Shot Industrial Visual Anomaly Detection [ICCV 2025]",
-              "description": "[code]",
+              "description": "cshcma/ReMP-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2451,7 +2451,7 @@
             {
               "node_type": "item",
               "title": "Salvaging the Overlooked: Leveraging Class-Aware Contrastive Learning for Multi-Class Anomaly Detection [ICCV 2025]",
-              "description": "[code]",
+              "description": "LGC-AD/AD-LGC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2479,7 +2479,7 @@
             {
               "node_type": "item",
               "title": "CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [ICML2025]",
-              "description": "[code]",
+              "description": "ZHE-SAPI/CostFilter-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2507,7 +2507,7 @@
             {
               "node_type": "item",
               "title": "Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "guojiajeremy/Dinomaly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2520,7 +2520,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -2530,7 +2530,7 @@
             {
               "node_type": "item",
               "title": "Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "luow23/INP-Former",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2551,7 +2551,7 @@
             {
               "node_type": "item",
               "title": "Anomaly Anything: Promptable Unseen Visual Anomaly Generation [CVPR 2025]",
-              "description": "[code]",
+              "description": "EPFL-IMOS/AnomalyAny",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2572,7 +2572,7 @@
             {
               "node_type": "item",
               "title": "AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP [CVPR 2025]",
-              "description": "[code]",
+              "description": "Mwxinnn/AA-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2593,7 +2593,7 @@
             {
               "node_type": "item",
               "title": "AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [CVPR 2025]",
-              "description": "[code]",
+              "description": "HUST-SLOW/AnomalyNCD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2614,7 +2614,7 @@
             {
               "node_type": "item",
               "title": "DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation [CVPR 2025]",
-              "description": "[code]",
+              "description": "yinyjin/DualAnoDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2635,7 +2635,7 @@
             {
               "node_type": "item",
               "title": "UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "pangdatangtt/UniNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2656,7 +2656,7 @@
             {
               "node_type": "item",
               "title": "Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection[CVPR 2025]",
-              "description": "[code]",
+              "description": "fengyan-cv/WPFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2677,7 +2677,7 @@
             {
               "node_type": "item",
               "title": "Towards Training-free Anomaly Detection with Vision and Language Foundation Models [CVPR 2025]",
-              "description": "[code]",
+              "description": "zhang0jhon/LogSAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2698,7 +2698,7 @@
             {
               "node_type": "item",
               "title": "Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [CVPR 2025]",
-              "description": "[code]",
+              "description": "MapleBoat/MulSen-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2740,7 +2740,7 @@
             {
               "node_type": "item",
               "title": "Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "farzad-bz/DeCo-Diff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2761,7 +2761,7 @@
             {
               "node_type": "item",
               "title": "Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection[CVPR 2025]",
-              "description": "[code]",
+              "description": "farzad-bz/DeCo-Diff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2782,7 +2782,7 @@
             {
               "node_type": "item",
               "title": "One-for-More: Continual Diffusion Model for Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "FuNz-0/One-for-More",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2803,7 +2803,7 @@
             {
               "node_type": "item",
               "title": "Odd-One-Out: Anomaly Detection by Comparing with Neighbors [CVPR 2025]",
-              "description": "[code]",
+              "description": "VICO-UoE/OddOneOutAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2824,7 +2824,7 @@
             {
               "node_type": "item",
               "title": "TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "jungyg/TailedCore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2845,7 +2845,7 @@
             {
               "node_type": "item",
               "title": "Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "fuyunwang/DPDL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2866,7 +2866,7 @@
             {
               "node_type": "item",
               "title": "Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "Chopper-233/Physics-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2887,7 +2887,7 @@
             {
               "node_type": "item",
               "title": "RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images [CVPR 2025 VAND 3.0 Workshop]",
-              "description": "[code]",
+              "description": "xrli-U/RoBiS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2908,7 +2908,7 @@
             {
               "node_type": "item",
               "title": "PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies[CVPR 2025]",
-              "description": "[code]",
+              "description": "rohban-lab/PatchGuard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2929,7 +2929,7 @@
             {
               "node_type": "item",
               "title": "Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization[CVPR 2025]",
-              "description": "[code]",
+              "description": "Kerio99/CMAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2971,7 +2971,7 @@
             {
               "node_type": "item",
               "title": "A Unified Latent Schrödinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization[CVPR 2025]",
-              "description": "[code]",
+              "description": "Akshay-Shilhora-AS/LASB",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3003,7 +3003,7 @@
         {
           "node_type": "item",
           "title": "Anomalib: A Deep Learning Library for Anomaly Detection [ICIP 2022]",
-          "description": "[code]",
+          "description": "open-edge-platform/anomalib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3012,11 +3012,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:31:30Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-03T03:25:53Z",
+            "open_issues": 79,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6212,
+            "stars": 6214,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3060,7 +3060,7 @@
         {
           "node_type": "item",
           "title": "A Deep Learning-based Software for Manufacturing Defect Inspection [TII 2017]",
-          "description": "[code]",
+          "description": "sundyCoder/DEye",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3109,7 +3109,7 @@
         {
           "node_type": "item",
           "title": "Towards High-Resolution Industrial Image Anomaly Detection [2025]",
-          "description": "[code]",
+          "description": "cnulab/HiAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3198,7 +3198,7 @@
         {
           "node_type": "item",
           "title": "Explainable Anomaly Detection in Images and Videos: A Survey [2024]",
-          "description": "[repo]",
+          "description": "wyzjack/Awesome-XAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3245,7 +3245,7 @@
         {
           "node_type": "item",
           "title": "Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection [2025]",
-          "description": "[code]",
+          "description": "abc-125/viad-benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3295,7 +3295,7 @@
         {
           "node_type": "item",
           "title": "ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [TAI 2026]",
-          "description": "[code]",
+          "description": "M-3LAB/ASBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3326,7 +3326,7 @@
                 {
                   "node_type": "item",
                   "title": "Anomaly Detection via Reverse Distillation from One-Class Embedding [CVPR 2022]",
-                  "description": "[code]",
+                  "description": "hq-deng/RD4AD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3347,7 +3347,7 @@
                 {
                   "node_type": "item",
                   "title": "Revisiting Reverse Distillation for Anomaly Detection [CVPR 2023]",
-                  "description": "[code]",
+                  "description": "tientrandinh/Revisiting-Reverse-Distillation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3374,7 +3374,7 @@
                 {
                   "node_type": "item",
                   "title": "Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [WACV 2022]",
-                  "description": "[code]",
+                  "description": "marco-rudolph/AST",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3398,7 +3398,7 @@
                 {
                   "node_type": "item",
                   "title": "Student-Teacher Feature Pyramid Matching for Anomaly Detection [2021]",
-                  "description": "[code]",
+                  "description": "smiler96/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3440,7 +3440,7 @@
                 {
                   "node_type": "item",
                   "title": "A Discrepancy Aware Framework for Robust Anomaly Detection [2023]",
-                  "description": "[code]",
+                  "description": "caiyuxuan1120/DAF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3461,7 +3461,7 @@
                 {
                   "node_type": "item",
                   "title": "Informative knowledge distillation for image anomaly segmentation [2022]",
-                  "description": "[code]",
+                  "description": "caoyunkang/IKD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3482,7 +3482,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning deep feature correspondence for unsupervised anomaly detection and segmentation[PR 2022]",
-                  "description": "[code]",
+                  "description": "YoungGod/DFC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3507,7 +3507,7 @@
                 {
                   "node_type": "item",
                   "title": "Memory-Distilled Selection for Noise-Robust Anomaly Detection [ICML 2026]",
-                  "description": "[code]",
+                  "description": "SirojbekSafarov/MeDS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3535,7 +3535,7 @@
                 {
                   "node_type": "item",
                   "title": "SimpleNet: A Simple Network for Image Anomaly Detection and Localization [CVPR 2023]",
-                  "description": "[code]",
+                  "description": "DonaldRR/SimpleNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3556,7 +3556,7 @@
                 {
                   "node_type": "item",
                   "title": "A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [ECCV 2024]",
-                  "description": "[code]",
+                  "description": "cqylunlun/GLASS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3662,7 +3662,7 @@
                 {
                   "node_type": "item",
                   "title": "GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features [ECCV 2024]",
-                  "description": "[code]",
+                  "description": "LucStrater/GeneralAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3690,7 +3690,7 @@
                 {
                   "node_type": "item",
                   "title": "Anomaly Detection under Distribution Shift [ICCV 2023]",
-                  "description": "[code]",
+                  "description": "mala-lab/ADShift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3716,7 +3716,7 @@
                 {
                   "node_type": "item",
                   "title": "Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [TCSVT 2024]",
-                  "description": "[code]",
+                  "description": "cqylunlun/PBAS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3737,7 +3737,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Transferable Representations for Image Anomaly Localization Using Dense Pretraining [WACV 2024]",
-                  "description": "[code]",
+                  "description": "terrlo/DS2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3758,7 +3758,7 @@
                 {
                   "node_type": "item",
                   "title": "BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [ECCV 2026]",
-                  "description": "[code]",
+                  "description": "DeclanMcIntosh/BAAF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3786,7 +3786,7 @@
                 {
                   "node_type": "item",
                   "title": "Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [WACV 2022]",
-                  "description": "[code]",
+                  "description": "gudovskiy/cflow-ad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3814,7 +3814,7 @@
                 {
                   "node_type": "item",
                   "title": "Same same but differnet: Semi-supervised defect detection with normalizing flows [WACV 2021]",
-                  "description": "[code]",
+                  "description": "marco-rudolph/differnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3856,7 +3856,7 @@
                 {
                   "node_type": "item",
                   "title": "Fully convolutional cross-scale-flows for image-based defect detection [WACV 2022]",
-                  "description": "[code]",
+                  "description": "marco-rudolph/cs-flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3877,7 +3877,7 @@
                 {
                   "node_type": "item",
                   "title": "MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection [2024]",
-                  "description": "[code]",
+                  "description": "cool-xuan/msflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3898,7 +3898,7 @@
                 {
                   "node_type": "item",
                   "title": "Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [TII 2023]",
-                  "description": "[code]",
+                  "description": "caoyunkang/CDO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3919,7 +3919,7 @@
                 {
                   "node_type": "item",
                   "title": "Position Encoding Enhanced Feature Mapping for Image Anomaly Detection [2022]",
-                  "description": "[code]",
+                  "description": "smiler96/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3940,7 +3940,7 @@
                 {
                   "node_type": "item",
                   "title": "Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [CVPR 2025]",
-                  "description": "[code]",
+                  "description": "fuyunwang/DPDL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3961,7 +3961,7 @@
                 {
                   "node_type": "item",
                   "title": "Anomaly Detection of Defect using Energy of Point Pattern Features within Random Finite Set Framework [2021]",
-                  "description": "[code]",
+                  "description": "AmmarKamoona/RFS-Energy-Anomaly-Detection-of-Defect",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3989,7 +3989,7 @@
                 {
                   "node_type": "item",
                   "title": "Towards total recall in industrial anomaly detection[CVPR 2022]",
-                  "description": "[code]",
+                  "description": "amazon-science/patchcore-inspection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4002,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1405,
+                    "stars": 1406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4036,7 +4036,7 @@
                 {
                   "node_type": "item",
                   "title": "CFA: Coupled-Hypersphere-Based Feature Adaptation for Target-Oriented Anomaly Localization[2022]",
-                  "description": "[code]",
+                  "description": "sungwool/CFA_for_anomaly_localization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4057,7 +4057,7 @@
                 {
                   "node_type": "item",
                   "title": "Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval [TIP 2024]",
-                  "description": "[code]",
+                  "description": "flyinghu123/CPR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4081,7 +4081,7 @@
                 {
                   "node_type": "item",
                   "title": "PNI : Industrial Anomaly Detection using Position and Neighborhood Information [ICCV 2023]",
-                  "description": "[code]",
+                  "description": "wogur110/PNI_anomaly_detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4102,7 +4102,7 @@
                 {
                   "node_type": "item",
                   "title": "RAID: Retrieval-Augmented Anomaly Detection [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "Mingxiu-Cai/RAID",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4123,7 +4123,7 @@
                 {
                   "node_type": "item",
                   "title": "Grid-Based Continuous Normal Representation for Anomaly Detection [2024]",
-                  "description": "[code]",
+                  "description": "tae-mo/CRAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4144,7 +4144,7 @@
                 {
                   "node_type": "item",
                   "title": "REB: Reducing Biases in Representation for Industrial Anomaly Detection [2023]",
-                  "description": "[code]",
+                  "description": "ShuaiLYU/REB",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4165,7 +4165,7 @@
                 {
                   "node_type": "item",
                   "title": "EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [2026]",
-                  "description": "[code]",
+                  "description": "shengtun/Eagle-Anomaly-Detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4186,7 +4186,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-supervised Context Learning for Visual Inspection of Industrial Defects [2023]",
-                  "description": "[code]",
+                  "description": "wangpeng000/VisualInspection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4211,7 +4211,7 @@
                 {
                   "node_type": "item",
                   "title": "VQ-Flow: Taming Normalizing Flows for Multi-Class Anomaly Detection via Hierarchical Vector Quantization [2024]",
-                  "description": "[code]",
+                  "description": "cool-xuan/vqflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4232,7 +4232,7 @@
                 {
                   "node_type": "item",
                   "title": "Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [ICCV 2023]",
-                  "description": "[code]",
+                  "description": "DeclanMcIntosh/InReaCh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4253,7 +4253,7 @@
                 {
                   "node_type": "item",
                   "title": "Tailored Transformation Invariance for Industrial Anomaly Detection [2025]",
-                  "description": "[code]",
+                  "description": "ML-KULeuven/LWinNN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4302,7 +4302,7 @@
                 {
                   "node_type": "item",
                   "title": "AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [ICLR 2024]",
-                  "description": "[code]",
+                  "description": "zqhang/AnomalyCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4323,7 +4323,7 @@
                 {
                   "node_type": "item",
                   "title": "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [CVPR 2024]",
-                  "description": "[code]",
+                  "description": "FuNz-0/PromptAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4348,7 +4348,7 @@
                 {
                   "node_type": "item",
                   "title": "MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [ICCV 2025]",
-                  "description": "[code]",
+                  "description": "boschresearch/MultiADS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4369,7 +4369,7 @@
                 {
                   "node_type": "item",
                   "title": "AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [2023]",
-                  "description": "[code]",
+                  "description": "hq-deng/AnoVL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4390,7 +4390,7 @@
                 {
                   "node_type": "item",
                   "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [2025]",
-                  "description": "[code]",
+                  "description": "cqylunlun/CoPS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4411,7 +4411,7 @@
                 {
                   "node_type": "item",
                   "title": "Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [ICCV 2025]",
-                  "description": "[code]",
+                  "description": "tzjtatata/Triad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4432,7 +4432,7 @@
                 {
                   "node_type": "item",
                   "title": "Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning [2024]",
-                  "description": "[code]",
+                  "description": "Xiaohao-Xu/Customizable-VLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4459,7 +4459,7 @@
                 {
                   "node_type": "item",
                   "title": "EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [2025]",
-                  "description": "[code]",
+                  "description": "guanwei49/EMIT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4488,7 +4488,7 @@
                 {
                   "node_type": "item",
                   "title": "EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [2026]",
-                  "description": "[code]",
+                  "description": "shengtun/Eagle-Anomaly-Detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4509,7 +4509,7 @@
                 {
                   "node_type": "item",
                   "title": "VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [2025]",
-                  "description": "[code]",
+                  "description": "giddyyupp/VLMDiff",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4535,7 +4535,7 @@
                 {
                   "node_type": "item",
                   "title": "AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples [2024]",
-                  "description": "[code]",
+                  "description": "YoojLee/AnoPLe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4556,7 +4556,7 @@
                 {
                   "node_type": "item",
                   "title": "IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection [2025]",
-                  "description": "[code]",
+                  "description": "LiZeWen1225/IAD-GPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4591,7 +4591,7 @@
                 {
                   "node_type": "item",
                   "title": "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [CVPR 2024]",
-                  "description": "[code]",
+                  "description": "cnulab/RealNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4612,7 +4612,7 @@
                 {
                   "node_type": "item",
                   "title": "Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [ICCV 2021]",
-                  "description": "[code]",
+                  "description": "VitjanZ/DRAEM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4633,7 +4633,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-supervised predictive convolutional attentive block for anomaly detection [CVPR 2022 oral]",
-                  "description": "[code]",
+                  "description": "ristea/sspcab",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4654,7 +4654,7 @@
                 {
                   "node_type": "item",
                   "title": "Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [ECCV 2022]",
-                  "description": "[code]",
+                  "description": "hmsch/natural-synthetic-anomalies",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4678,7 +4678,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection [TPAMI 2022]",
-                  "description": "[code]",
+                  "description": "ristea/ssmctb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4699,7 +4699,7 @@
                 {
                   "node_type": "item",
                   "title": "DSR: A dual subspace re-projection network for surface anomaly detection [ECCV 2022]",
-                  "description": "[code]",
+                  "description": "VitjanZ/DSR_anomaly_detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4720,7 +4720,7 @@
                 {
                   "node_type": "item",
                   "title": "FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [ICCV 2023]",
-                  "description": "[code]",
+                  "description": "FzJun26th/FastRecon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4741,7 +4741,7 @@
                 {
                   "node_type": "item",
                   "title": "FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection [2023]",
-                  "description": "[code]",
+                  "description": "liutongkun/FAIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4762,7 +4762,7 @@
                 {
                   "node_type": "item",
                   "title": "Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection [2022]",
-                  "description": "[code]",
+                  "description": "liutongkun/EdgRec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4783,7 +4783,7 @@
                 {
                   "node_type": "item",
                   "title": "Variational Autoencoder for Anomaly Detection: A Comparative Study [2024]",
-                  "description": "[code]",
+                  "description": "endtheme123/VAE-compare",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4804,7 +4804,7 @@
                 {
                   "node_type": "item",
                   "title": "Revitalizing Reconstruction Models for Multi-class Anomaly Detection via Class-Aware Contrastive Learning [2024]",
-                  "description": "[code]",
+                  "description": "LGC-AD/AD-LGC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4832,7 +4832,7 @@
                 {
                   "node_type": "item",
                   "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
-                  "description": "[code]",
+                  "description": "Ldhlwh/DFMGAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4853,7 +4853,7 @@
                 {
                   "node_type": "item",
                   "title": "Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [TIP 2023]",
-                  "description": "[code]",
+                  "description": "zhangzjn/OCR-GAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4874,7 +4874,7 @@
                 {
                   "node_type": "item",
                   "title": "CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [AAAI 2025]",
-                  "description": "[code]",
+                  "description": "Faustinaqq/CKAAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4902,7 +4902,7 @@
                 {
                   "node_type": "item",
                   "title": "Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection [ICCV 2023]",
-                  "description": "[code]",
+                  "description": "xcyao00/FOD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4925,7 +4925,7 @@
                 {
                   "node_type": "item",
                   "title": "Multi-scale feature reconstruction network for industrial anomaly detection [KBS 2024]",
-                  "description": "[code]",
+                  "description": "Ehteshamciitwah/MSFR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4946,7 +4946,7 @@
                 {
                   "node_type": "item",
                   "title": "Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection[2024]",
-                  "description": "[code]",
+                  "description": "Nothingtolose9979/RAS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4974,7 +4974,7 @@
                 {
                   "node_type": "item",
                   "title": "DiffusionAD: Denoising Diffusion for Anomaly Detection [2023]",
-                  "description": "[code]",
+                  "description": "HuiZhang0812/DiffusionAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4995,7 +4995,7 @@
                 {
                   "node_type": "item",
                   "title": "Anomaly Detection with Conditioned Denoising Diffusion Models [2023]",
-                  "description": "[code]",
+                  "description": "arimousa/DDAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5016,7 +5016,7 @@
                 {
                   "node_type": "item",
                   "title": "GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [ECCV 2024]",
-                  "description": "[code]",
+                  "description": "hyao1/GLAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5037,7 +5037,7 @@
                 {
                   "node_type": "item",
                   "title": "InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "SkyShunsuke/InversionAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5058,7 +5058,7 @@
                 {
                   "node_type": "item",
                   "title": "TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection [ECCV 2024]",
-                  "description": "[code]",
+                  "description": "MaticFuc/ECCV_TransFusion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5087,7 +5087,7 @@
                 {
                   "node_type": "item",
                   "title": "Tackling Structural Hallucination in Image Translation with Local Diffusion [ECCV 2024 oral]",
-                  "description": "[code]",
+                  "description": "edshkim98/LocalDiffusion-Hallucination",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5116,7 +5116,7 @@
                 {
                   "node_type": "item",
                   "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
-                  "description": "[code]",
+                  "description": "fuyunwang/MPFM-OSAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5137,7 +5137,7 @@
                 {
                   "node_type": "item",
                   "title": "How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [2025]",
-                  "description": "[code]",
+                  "description": "lil-wayne-0319/fmad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5158,7 +5158,7 @@
                 {
                   "node_type": "item",
                   "title": "FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [AAAI 2026]",
-                  "description": "[code]",
+                  "description": "ls1rius/MRI_FDP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5193,7 +5193,7 @@
                 {
                   "node_type": "item",
                   "title": "AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [AAAI 2024]",
-                  "description": "[code]",
+                  "description": "sjtuplayer/anomalydiffusion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5251,7 +5251,7 @@
                 {
                   "node_type": "item",
                   "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
-                  "description": "[code]",
+                  "description": "Ldhlwh/DFMGAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5272,7 +5272,7 @@
                 {
                   "node_type": "item",
                   "title": "Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [CVPR 2022]",
-                  "description": "[code]",
+                  "description": "Choubo/DRA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5293,7 +5293,7 @@
                 {
                   "node_type": "item",
                   "title": "Explainable deep few-shot anomaly detection with deviation networks [2021]",
-                  "description": "[code]",
+                  "description": "mala-lab/deviation-network-image",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5318,7 +5318,7 @@
                 {
                   "node_type": "item",
                   "title": "Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [CVPR 2024]",
-                  "description": "[code]",
+                  "description": "mala-lab/AHL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5345,7 +5345,7 @@
                 {
                   "node_type": "item",
                   "title": "Prototypical Residual Networks for Anomaly Detection and Localization [CVPR 2023]",
-                  "description": "[code]",
+                  "description": "xcyao00/PRNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5366,7 +5366,7 @@
                 {
                   "node_type": "item",
                   "title": "VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [TII 2025]",
-                  "description": "[code]",
+                  "description": "caoyunkang/VarAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5387,7 +5387,7 @@
                 {
                   "node_type": "item",
                   "title": "Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [CVPR 2025]",
-                  "description": "[code]",
+                  "description": "fuyunwang/DPDL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5408,7 +5408,7 @@
                 {
                   "node_type": "item",
                   "title": "ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection [ECCV 2026]",
-                  "description": "[code]",
+                  "description": "LGC-AD/ArcAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5429,7 +5429,7 @@
                 {
                   "node_type": "item",
                   "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [ICML 2026]",
-                  "description": "[code]",
+                  "description": "fuyunwang/MPFM-OSAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5450,7 +5450,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Tuning Self-Supervised Image Anomaly Detection [KDD 2025]",
-                  "description": "[code]",
+                  "description": "jaeminyoo/ST-SSAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5478,7 +5478,7 @@
                 {
                   "node_type": "item",
                   "title": "Small Object Few-shot Segmentation for Vision-based Industrial Inspection [2024]",
-                  "description": "[code]",
+                  "description": "zhangzilongc/SOFS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5499,7 +5499,7 @@
                 {
                   "node_type": "item",
                   "title": "Supervised Anomaly Detection for Complex Industrial Images [2024]",
-                  "description": "[code]",
+                  "description": "abc-125/segad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5525,7 +5525,7 @@
                 {
                   "node_type": "item",
                   "title": "Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation [2023]",
-                  "description": "[code]",
+                  "description": "RashaAlshawi/DAU-Net-for-Automated-Infrastructure-Inspection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5546,7 +5546,7 @@
                 {
                   "node_type": "item",
                   "title": "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [ECCV 2026]",
-                  "description": "[code]",
+                  "description": "CROVO1026/DeltaDeno",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5602,7 +5602,7 @@
                 {
                   "node_type": "item",
                   "title": "Structured guided diffusion models for industrial defect image generation [KBS 2025]",
-                  "description": "[code]",
+                  "description": "xieyulai/Structured-DGM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5643,7 +5643,7 @@
                 {
                   "node_type": "item",
                   "title": "Segment Any Anomaly without Training via Hybrid Prompt Regularization [2023]",
-                  "description": "[code]",
+                  "description": "caoyunkang/Segment-Any-Anomaly",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5668,7 +5668,7 @@
                 {
                   "node_type": "item",
                   "title": "AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [ICLR 2024]",
-                  "description": "[code]",
+                  "description": "zqhang/AnomalyCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5710,7 +5710,7 @@
                 {
                   "node_type": "item",
                   "title": "MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [TPAMI 2026]",
-                  "description": "[code]",
+                  "description": "HUST-SLOW/MuSc-V2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5731,7 +5731,7 @@
                 {
                   "node_type": "item",
                   "title": "AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [ECCV 2024]",
-                  "description": "[code]",
+                  "description": "caoyunkang/AdaCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5752,7 +5752,7 @@
                 {
                   "node_type": "item",
                   "title": "APRIL-GAN: A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD [CVPRW 2023]",
-                  "description": "[code]",
+                  "description": "ByChelsea/VAND-APRIL-GAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5779,7 +5779,7 @@
                 {
                   "node_type": "item",
                   "title": "AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [AAAI 2026]",
-                  "description": "[code]",
+                  "description": "gaobb/AdaptCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5825,7 +5825,7 @@
                 {
                   "node_type": "item",
                   "title": "VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation [ECCV 2024]",
-                  "description": "[code]",
+                  "description": "xiaozhen228/VCP-CLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5846,7 +5846,7 @@
                 {
                   "node_type": "item",
                   "title": "IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [AAAI 2026]",
-                  "description": "[code]",
+                  "description": "Yanhui-Lee/IAD-R1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5867,7 +5867,7 @@
                 {
                   "node_type": "item",
                   "title": "PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [NeurIPS 2024]",
-                  "description": "[code]",
+                  "description": "zqhang/PointAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5888,7 +5888,7 @@
                 {
                   "node_type": "item",
                   "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "MaticFuc/AnomalyVFM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5915,7 +5915,7 @@
                 {
                   "node_type": "item",
                   "title": "MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [ICCV 2025]",
-                  "description": "[code]",
+                  "description": "boschresearch/MultiADS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5936,7 +5936,7 @@
                 {
                   "node_type": "item",
                   "title": "AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [2023]",
-                  "description": "[code]",
+                  "description": "hq-deng/AnoVL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5957,7 +5957,7 @@
                 {
                   "node_type": "item",
                   "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [2025]",
-                  "description": "[code]",
+                  "description": "cqylunlun/CoPS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5978,7 +5978,7 @@
                 {
                   "node_type": "item",
                   "title": "MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [ICLR 2026]",
-                  "description": "[code]",
+                  "description": "CROVO1026/MRAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5999,7 +5999,7 @@
                 {
                   "node_type": "item",
                   "title": "Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [ICCV 2025]",
-                  "description": "[code]",
+                  "description": "mala-lab/FAPrompt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6025,7 +6025,7 @@
                 {
                   "node_type": "item",
                   "title": "MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "CoCoRessa/MoECLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6046,7 +6046,7 @@
                 {
                   "node_type": "item",
                   "title": "AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation [ACM MM 2025]",
-                  "description": "[code]",
+                  "description": "Faustinaqq/AF-CLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6067,7 +6067,7 @@
                 {
                   "node_type": "item",
                   "title": "Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [2025]",
-                  "description": "[code]",
+                  "description": "Alireza99Salehi/Crane",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6094,7 +6094,7 @@
                 {
                   "node_type": "item",
                   "title": "FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "Xi-Mu-Yu/FB-CLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6115,7 +6115,7 @@
                 {
                   "node_type": "item",
                   "title": "AG-VAS: Anchor-Guided Zero-Shot Visual Anomaly Segmentation with Large Multimodal Models [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "xiaozhen228/AG-VAS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6136,7 +6136,7 @@
                 {
                   "node_type": "item",
                   "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
-                  "description": "[code]",
+                  "description": "evoLonation/DeMuS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6185,7 +6185,7 @@
                 {
                   "node_type": "item",
                   "title": "Registration based few-shot anomaly detection [ECCV 2022 oral]",
-                  "description": "[code]",
+                  "description": "MediaBrain-SJTU/RegAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6206,7 +6206,7 @@
                 {
                   "node_type": "item",
                   "title": "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [CVPR 2024]",
-                  "description": "[code]",
+                  "description": "FuNz-0/PromptAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6231,7 +6231,7 @@
                 {
                   "node_type": "item",
                   "title": "InCTRL: Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts [CVPR 2024]",
-                  "description": "[code]",
+                  "description": "mala-lab/InCTRL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6259,7 +6259,7 @@
                 {
                   "node_type": "item",
                   "title": "SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [ICCV 2025]",
-                  "description": "[code]",
+                  "description": "HUST-SLOW/SeaS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6280,7 +6280,7 @@
                 {
                   "node_type": "item",
                   "title": "MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [NeurIPS 2024]",
-                  "description": "[code]",
+                  "description": "gaobb/MetaUAS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6305,7 +6305,7 @@
                 {
                   "node_type": "item",
                   "title": "Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [2025]",
-                  "description": "[code]",
+                  "description": "ymxlzgy/FoundAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6343,7 +6343,7 @@
                 {
                   "node_type": "item",
                   "title": "Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [ICLR 2026]",
-                  "description": "[code]",
+                  "description": "ymxlzgy/FoundAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6381,7 +6381,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [ECCV 2024]",
-                  "description": "[code]",
+                  "description": "gaobb/OneNIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6405,7 +6405,7 @@
                 {
                   "node_type": "item",
                   "title": "Optimizing PatchCore for Few/many-shot Anomaly Detection [2023]",
-                  "description": "[code]",
+                  "description": "scortexio/patchcore-few-shot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6432,7 +6432,7 @@
                 {
                   "node_type": "item",
                   "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "cqylunlun/CoPS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6453,7 +6453,7 @@
                 {
                   "node_type": "item",
                   "title": "FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [ICCV 2023]",
-                  "description": "[code]",
+                  "description": "FzJun26th/FastRecon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6474,7 +6474,7 @@
                 {
                   "node_type": "item",
                   "title": "Small Object Few-shot Segmentation for Vision-based Industrial Inspection [2024]",
-                  "description": "[code]",
+                  "description": "zhangzilongc/SOFS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6495,7 +6495,7 @@
                 {
                   "node_type": "item",
                   "title": "Few-Shot Anomaly Detection via Category-Agnostic Registration Learning [2024]",
-                  "description": "[code]",
+                  "description": "Haoyan-Guan/CAReg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6516,7 +6516,7 @@
                 {
                   "node_type": "item",
                   "title": "FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model[BMVC 2024]",
-                  "description": "[code]",
+                  "description": "BMVC-FADE/BMVC-FADE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6537,7 +6537,7 @@
                 {
                   "node_type": "item",
                   "title": "SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [2024]",
-                  "description": "[code]",
+                  "description": "huzongxiang/sowa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6564,7 +6564,7 @@
                 {
                   "node_type": "item",
                   "title": "KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [AAAI 2025]",
-                  "description": "[code]",
+                  "description": "CVL-hub/KAG-prompt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6585,7 +6585,7 @@
                 {
                   "node_type": "item",
                   "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
-                  "description": "[code]",
+                  "description": "Sunny5250/CIF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6612,7 +6612,7 @@
                 {
                   "node_type": "item",
                   "title": "CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [2024]",
-                  "description": "[code]",
+                  "description": "Jay-zzcoder/clip-fsac-pp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6633,7 +6633,7 @@
                 {
                   "node_type": "item",
                   "title": "FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks [CVPRW 2023]",
-                  "description": "[code]",
+                  "description": "niamhbelton/FewSOME",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6654,7 +6654,7 @@
                 {
                   "node_type": "item",
                   "title": "CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [ECCV 2026]",
-                  "description": "[code]",
+                  "description": "Junhaocai27/CMDS-AD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6675,7 +6675,7 @@
                 {
                   "node_type": "item",
                   "title": "Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation [CVPR 2024]",
-                  "description": "[code]",
+                  "description": "MingyuLee82/TGI_AD_v1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6696,7 +6696,7 @@
                 {
                   "node_type": "item",
                   "title": "AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples [2024]",
-                  "description": "[code]",
+                  "description": "YoojLee/AnoPLe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6729,7 +6729,7 @@
             {
               "node_type": "item",
               "title": "SoftPatch: Unsupervised Anomaly Detection with Noisy Data [NeurIPS 2022]",
-              "description": "[code]",
+              "description": "TencentYoutuResearch/AnomalyDetection-SoftPatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6750,7 +6750,7 @@
             {
               "node_type": "item",
               "title": "SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [PR 2025]",
-              "description": "[code]",
+              "description": "TencentYoutuResearch/AnomalyDetection-SoftPatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6771,7 +6771,7 @@
             {
               "node_type": "item",
               "title": "Deep one-class classification via interpolated gaussian descriptor [AAAI 2022 oral]",
-              "description": "[code]",
+              "description": "tianyu0207/IGD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6797,7 +6797,7 @@
             {
               "node_type": "item",
               "title": "FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [WACV 2025]",
-              "description": "[code]",
+              "description": "SpatialAILab/FUNAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6818,7 +6818,7 @@
             {
               "node_type": "item",
               "title": "Memory-Distilled Selection for Noise-Robust Anomaly Detection [ICML 2026]",
-              "description": "[code]",
+              "description": "SirojbekSafarov/MeDS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6839,7 +6839,7 @@
             {
               "node_type": "item",
               "title": "Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [ICCV 2023]",
-              "description": "[code]",
+              "description": "DeclanMcIntosh/InReaCh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6867,7 +6867,7 @@
             {
               "node_type": "item",
               "title": "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [CVPR 2024]",
-              "description": "[code]",
+              "description": "cnulab/RealNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6888,7 +6888,7 @@
             {
               "node_type": "item",
               "title": "A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [ECCV 2024]",
-              "description": "[code]",
+              "description": "cqylunlun/GLASS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6909,7 +6909,7 @@
             {
               "node_type": "item",
               "title": "AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [AAAI 2024]",
-              "description": "[code]",
+              "description": "sjtuplayer/anomalydiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6930,7 +6930,7 @@
             {
               "node_type": "item",
               "title": "Anomaly Anything: Promptable Unseen Visual Anomaly Generation [CVPR 2025]",
-              "description": "[code]",
+              "description": "EPFL-IMOS/AnomalyAny",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6951,7 +6951,7 @@
             {
               "node_type": "item",
               "title": "Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [(Reconstruction AE)ICCV 2021]",
-              "description": "[code]",
+              "description": "VitjanZ/DRAEM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7057,7 +7057,7 @@
             {
               "node_type": "item",
               "title": "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [AAAI 2026]",
-              "description": "[code]",
+              "description": "yuxin-jiang/Anomagic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7085,7 +7085,7 @@
             {
               "node_type": "item",
               "title": "Few-shot defect image generation via defect-aware feature manipulation [AAAI 2023]",
-              "description": "[code]",
+              "description": "Ldhlwh/DFMGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7106,7 +7106,7 @@
             {
               "node_type": "item",
               "title": "A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation [2024]",
-              "description": "[code]",
+              "description": "GrandpaXun242/AdaBLDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7130,7 +7130,7 @@
             {
               "node_type": "item",
               "title": "DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection [CVPR 2023]",
-              "description": "[code]",
+              "description": "apple-aiml-research/ml-destseg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7151,7 +7151,7 @@
             {
               "node_type": "item",
               "title": "Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [ECCV 2024]",
-              "description": "[code]",
+              "description": "gaobb/AnoGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7176,7 +7176,7 @@
             {
               "node_type": "item",
               "title": "One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [CVPR 2026]",
-              "description": "[code]",
+              "description": "echrao/O2MAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7197,7 +7197,7 @@
             {
               "node_type": "item",
               "title": "Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [ECCV 2022]",
-              "description": "[code]",
+              "description": "hmsch/natural-synthetic-anomalies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7221,7 +7221,7 @@
             {
               "node_type": "item",
               "title": "DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [ICCV 2025]",
-              "description": "[code]",
+              "description": "xiaozhen228/DictAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7242,7 +7242,7 @@
             {
               "node_type": "item",
               "title": "DSR: A dual subspace re-projection network for surface anomaly detection [ECCV 2022]",
-              "description": "[code]",
+              "description": "VitjanZ/DSR_anomaly_detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7263,7 +7263,7 @@
             {
               "node_type": "item",
               "title": "Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [TCSVT 2024]",
-              "description": "[code]",
+              "description": "cqylunlun/PBAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7305,7 +7305,7 @@
             {
               "node_type": "item",
               "title": "AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [AAAI 2026]",
-              "description": "[code]",
+              "description": "yulimso/AnoStyler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7326,7 +7326,7 @@
             {
               "node_type": "item",
               "title": "AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [2024]",
-              "description": "[data]",
+              "description": "hujiecpp/MVTec-Caption",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7347,7 +7347,7 @@
             {
               "node_type": "item",
               "title": "Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map [CVPRW 2025]",
-              "description": "[code]",
+              "description": "covisionlab/diffusion_labeling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7372,7 +7372,7 @@
             {
               "node_type": "item",
               "title": "CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [AAAI 2026]",
-              "description": "[code]",
+              "description": "cvlab-kaist/CHIMERA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7393,7 +7393,7 @@
             {
               "node_type": "item",
               "title": "Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "neymarql/QARAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7414,7 +7414,7 @@
             {
               "node_type": "item",
               "title": "UniScale: Arbitrary-Scale Anomaly Generation [ECCV 2026]",
-              "description": "[code]",
+              "description": "HUST-SLOW/UniScale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7435,7 +7435,7 @@
             {
               "node_type": "item",
               "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
-              "description": "[code]",
+              "description": "HUST-SLOW/DeCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7477,7 +7477,7 @@
             {
               "node_type": "item",
               "title": "ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [TAI 2026]",
-              "description": "[code]",
+              "description": "M-3LAB/ASBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7533,7 +7533,7 @@
             {
               "node_type": "item",
               "title": "Structured guided diffusion models for industrial defect image generation [KBS 2025]",
-              "description": "[code]",
+              "description": "xieyulai/Structured-DGM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7580,7 +7580,7 @@
             {
               "node_type": "item",
               "title": "Multimodal Industrial Anomaly Detection via Hybrid Fusion [CVPR 2023]",
-              "description": "[code]",
+              "description": "wynoxos/M3DM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7601,7 +7601,7 @@
             {
               "node_type": "item",
               "title": "Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [2022]",
-              "description": "[code]",
+              "description": "eliahuhorwitz/3D-ADS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7632,7 +7632,7 @@
             {
               "node_type": "item",
               "title": "Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [2023]",
-              "description": "[code]",
+              "description": "caoyunkang/CPMF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7653,7 +7653,7 @@
             {
               "node_type": "item",
               "title": "Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [CVPR 2024]",
-              "description": "[code]",
+              "description": "Chopper-233/Anomaly-ShapeNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7674,7 +7674,7 @@
             {
               "node_type": "item",
               "title": "Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [WACV 2024]",
-              "description": "[code]",
+              "description": "VitjanZ/3DSR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7695,7 +7695,7 @@
             {
               "node_type": "item",
               "title": "Cross-Modal Distillation in Industrial Anomaly Detection: Exploring Efficient Multi-Modal IAD [2024]",
-              "description": "[code]",
+              "description": "evenrose/CMDIAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7716,7 +7716,7 @@
             {
               "node_type": "item",
               "title": "Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [AAAI 2026]",
-              "description": "[code]",
+              "description": "Sunny5250/CIF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7743,7 +7743,7 @@
             {
               "node_type": "item",
               "title": "G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection[ICCV 2025]",
-              "description": "[code]",
+              "description": "ctaoaa/G2SF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7764,7 +7764,7 @@
             {
               "node_type": "item",
               "title": "Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [2023]",
-              "description": "[data]",
+              "description": "Andy-cs008/PD-REAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7792,7 +7792,7 @@
             {
               "node_type": "item",
               "title": "MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [TPAMI 2026]",
-              "description": "[code]",
+              "description": "HUST-SLOW/MuSc-V2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7813,7 +7813,7 @@
             {
               "node_type": "item",
               "title": "Real3D-AD: A Dataset of Point Cloud Anomaly Detection [NeurIPS 2023]",
-              "description": "[code]",
+              "description": "M-3LAB/Real3D-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7840,7 +7840,7 @@
             {
               "node_type": "item",
               "title": "Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [2024]",
-              "description": "[code]",
+              "description": "hustCYQ/MVP-PCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7853,7 +7853,7 @@
                 "open_issues": 11,
                 "owner": "hustCYQ",
                 "repo": "MVP-PCLIP",
-                "stars": 119,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7861,7 +7861,7 @@
             {
               "node_type": "item",
               "title": "Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [CVPR 2025]",
-              "description": "[code]",
+              "description": "MapleBoat/MulSen-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7882,7 +7882,7 @@
             {
               "node_type": "item",
               "title": "PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [NeurIPS 2024]",
-              "description": "[code]",
+              "description": "zqhang/PointAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7903,7 +7903,7 @@
             {
               "node_type": "item",
               "title": "Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [PR 2024]",
-              "description": "[code]",
+              "description": "caoyunkang/CPMF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7924,7 +7924,7 @@
             {
               "node_type": "item",
               "title": "Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [CVPR 2024]",
-              "description": "[code]",
+              "description": "Chopper-233/Anomaly-ShapeNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7945,7 +7945,7 @@
             {
               "node_type": "item",
               "title": "Multi-View Reconstruction with Global Context for 3D Anomaly Detection [IEEE SMC 2025]",
-              "description": "[code]",
+              "description": "hustSYH/MVR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7966,7 +7966,7 @@
             {
               "node_type": "item",
               "title": "Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "wistful-8029/BTP-3DAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7987,7 +7987,7 @@
             {
               "node_type": "item",
               "title": "Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [ICCV 2025]",
-              "description": "[code]",
+              "description": "MapleBoat/PASDF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8008,7 +8008,7 @@
             {
               "node_type": "item",
               "title": "Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [AAAI 2025]",
-              "description": "[code]",
+              "description": "M-3LAB/Look-Inside-for-More",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8050,7 +8050,7 @@
             {
               "node_type": "item",
               "title": "CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "zyh16143998882/CASL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8071,7 +8071,7 @@
             {
               "node_type": "item",
               "title": "Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning [ACM MM 2024]",
-              "description": "[code]",
+              "description": "M-3LAB/Group3AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8113,7 +8113,7 @@
             {
               "node_type": "item",
               "title": "Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [2025]",
-              "description": "[code]",
+              "description": "hzzzzzhappy/MC4AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8155,7 +8155,7 @@
             {
               "node_type": "item",
               "title": "Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "vpc-ccg/AF3AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8176,7 +8176,7 @@
             {
               "node_type": "item",
               "title": "IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [ECCV 2026]",
-              "description": "[code]",
+              "description": "HULEI7/IMMoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8204,7 +8204,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [AAAI 2024]",
-              "description": "[code]",
+              "description": "jiaq-liu/UCAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8229,7 +8229,7 @@
             {
               "node_type": "item",
               "title": "ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [IJCAI 2025]",
-              "description": "[code]",
+              "description": "HULEI7/ReplayCAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8250,7 +8250,7 @@
             {
               "node_type": "item",
               "title": "An Incremental Unified Framework for Small Defect Inspection [ECCV2024]",
-              "description": "[code]",
+              "description": "jqtangust/IUF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8280,7 +8280,7 @@
             {
               "node_type": "item",
               "title": "GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [CVPR 2026]",
-              "description": "[code]",
+              "description": "zhushengxinyue/GS-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8301,7 +8301,7 @@
             {
               "node_type": "item",
               "title": "C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [2025]",
-              "description": "[code]",
+              "description": "hzzzzzhappy/C3DAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8322,7 +8322,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [ECCV 2026]",
-              "description": "[code]",
+              "description": "Continue-Edge-AI-Lab/Rethinking-Continual-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8343,7 +8343,7 @@
             {
               "node_type": "item",
               "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "WenDongyp/CL-Anomaly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8364,7 +8364,7 @@
             {
               "node_type": "item",
               "title": "Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [CVPR 2026]",
-              "description": "[code]",
+              "description": "alexandor91/Shape-Anomaly-Codebook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8392,7 +8392,7 @@
             {
               "node_type": "item",
               "title": "Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "guojiajeremy/Dinomaly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8405,7 +8405,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -8415,7 +8415,7 @@
             {
               "node_type": "item",
               "title": "Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark [2024]",
-              "description": "[code]",
+              "description": "zhangzjn/ADer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8436,7 +8436,7 @@
             {
               "node_type": "item",
               "title": "A Unified Model for Multi-class Anomaly Detection [NeurIPS 2022]",
-              "description": "[code]",
+              "description": "zhiyuanyou/UniAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8478,7 +8478,7 @@
             {
               "node_type": "item",
               "title": "ResAD: A Simple Framework for Class Generalizable Anomaly Detection [NeurIPS 2024]",
-              "description": "[code]",
+              "description": "xcyao00/ResAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8503,7 +8503,7 @@
             {
               "node_type": "item",
               "title": "An Incremental Unified Framework for Small Defect Inspection [ECCV2024]",
-              "description": "[code]",
+              "description": "jqtangust/IUF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8533,7 +8533,7 @@
             {
               "node_type": "item",
               "title": "Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [NeurIPS 2023]",
-              "description": "[code]",
+              "description": "RuiyingLu/HVQ-Trans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8554,7 +8554,7 @@
             {
               "node_type": "item",
               "title": "Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [TASE 2025]",
-              "description": "[code]",
+              "description": "hustCYQ/GLFM-Multi-class-3DAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8575,7 +8575,7 @@
             {
               "node_type": "item",
               "title": "MoEAD: A Parameter-efficient Model for Multi-class Anomaly Detection [ECCV 2024]",
-              "description": "[code]",
+              "description": "TheStarOfMSY/MoEAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8617,7 +8617,7 @@
             {
               "node_type": "item",
               "title": "Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection [TII 2025]",
-              "description": "[code]",
+              "description": "cqylunlun/CRAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8638,7 +8638,7 @@
             {
               "node_type": "item",
               "title": "Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection [ECCV 2024]",
-              "description": "[code]",
+              "description": "xcyao00/HGAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8659,7 +8659,7 @@
             {
               "node_type": "item",
               "title": "UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection [2023]",
-              "description": "[code]",
+              "description": "YoojLee/Uniformaly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8680,7 +8680,7 @@
             {
               "node_type": "item",
               "title": "Revitalizing Reconstruction Models for Multi-class Anomaly Detection via Class-Aware Contrastive Learning [2024]",
-              "description": "[code]",
+              "description": "LGC-AD/AD-LGC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8701,7 +8701,7 @@
             {
               "node_type": "item",
               "title": "ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "CLendering/ReFP-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8722,7 +8722,7 @@
             {
               "node_type": "item",
               "title": "MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [IJCAI 2025]",
-              "description": "[code]",
+              "description": "jiayi-art/MC3D-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8743,7 +8743,7 @@
             {
               "node_type": "item",
               "title": "VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [2025]",
-              "description": "[code]",
+              "description": "giddyyupp/VLMDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8769,7 +8769,7 @@
             {
               "node_type": "item",
               "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "liugang-xd/MaskAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8790,7 +8790,7 @@
             {
               "node_type": "item",
               "title": "Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [Data Intelligence 2025]",
-              "description": "[code]",
+              "description": "Qiqigeww/CRR-MUAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8818,7 +8818,7 @@
             {
               "node_type": "item",
               "title": "Towards Training-free Anomaly Detection with Vision and Language Foundation Models [CVPR 2025]",
-              "description": "[code]",
+              "description": "zhang0jhon/LogSAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8839,7 +8839,7 @@
             {
               "node_type": "item",
               "title": "Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [AAAI 2024]",
-              "description": "[code]",
+              "description": "oopil/PSAD_logical_anomaly_detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8860,7 +8860,7 @@
             {
               "node_type": "item",
               "title": "CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection [BMVC 2024]",
-              "description": "[code]",
+              "description": "Tokichan/CSAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8881,7 +8881,7 @@
             {
               "node_type": "item",
               "title": "SALAD -- Semantics-Aware Logical Anomaly Detection [ICCV 2025]",
-              "description": "[code]",
+              "description": "MaticFuc/SALAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8909,7 +8909,7 @@
             {
               "node_type": "item",
               "title": "Set Features for Fine-grained Anomaly Detection[2023]",
-              "description": "[code]",
+              "description": "NivC/SINBAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8930,7 +8930,7 @@
             {
               "node_type": "item",
               "title": "Supervised Anomaly Detection for Complex Industrial Images [2024]",
-              "description": "[code]",
+              "description": "abc-125/segad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8956,7 +8956,7 @@
             {
               "node_type": "item",
               "title": "REB: Reducing Biases in Representation for Industrial Anomaly Detection [2023]",
-              "description": "[code]",
+              "description": "ShuaiLYU/REB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8977,7 +8977,7 @@
             {
               "node_type": "item",
               "title": "AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [2024]",
-              "description": "[data]",
+              "description": "hujiecpp/MVTec-Caption",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8998,7 +8998,7 @@
             {
               "node_type": "item",
               "title": "LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [ECCV 2026]",
-              "description": "[code]",
+              "description": "cnulab/LogiCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9019,7 +9019,7 @@
             {
               "node_type": "item",
               "title": "Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection [TCSVT 2023]",
-              "description": "[code]",
+              "description": "hmyao22/GLCF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9040,7 +9040,7 @@
             {
               "node_type": "item",
               "title": "VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [2026]",
-              "description": "[data]",
+              "description": "nkthiroto/VID-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9061,7 +9061,7 @@
             {
               "node_type": "item",
               "title": "LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction [AAAI 2025]",
-              "description": "[code]",
+              "description": "jasonjin34/logicAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9082,7 +9082,7 @@
             {
               "node_type": "item",
               "title": "Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[TMLR 2024]",
-              "description": "[code]",
+              "description": "sukanyapatra1997/ULSAD-2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9103,7 +9103,7 @@
             {
               "node_type": "item",
               "title": "Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [ECCV 2026]",
-              "description": "[code]",
+              "description": "tzjtatata/SCAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9165,7 +9165,7 @@
                 "open_issues": 2,
                 "owner": "jam-cc",
                 "repo": "MMAD",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9173,7 +9173,7 @@
             {
               "node_type": "item",
               "title": "Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [2023]",
-              "description": "[code]",
+              "description": "caoyunkang/GPT4V-for-Generic-Anomaly-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9194,7 +9194,7 @@
             {
               "node_type": "item",
               "title": "IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [AAAI 2026]",
-              "description": "[code]",
+              "description": "Yanhui-Lee/IAD-R1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9236,7 +9236,7 @@
             {
               "node_type": "item",
               "title": "Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection [IJCAI WORKSHOP 2024]",
-              "description": "[code]",
+              "description": "zhangzjn/GPT-4V-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9257,7 +9257,7 @@
             {
               "node_type": "item",
               "title": "EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [2025]",
-              "description": "[code]",
+              "description": "guanwei49/EMIT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9286,7 +9286,7 @@
             {
               "node_type": "item",
               "title": "AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection [2026]",
-              "description": "[code]",
+              "description": "mala-lab/AnomalyAgent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9307,7 +9307,7 @@
             {
               "node_type": "item",
               "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [2026]",
-              "description": "[code]",
+              "description": "Yanhui-Lee/M3-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9328,7 +9328,7 @@
             {
               "node_type": "item",
               "title": "Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection [2026]",
-              "description": "[code]",
+              "description": "chenpeng052/Reason-IAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9349,7 +9349,7 @@
             {
               "node_type": "item",
               "title": "Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision [CVPR 2026]",
-              "description": "[code]",
+              "description": "YizhouJin313/ReADL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9370,7 +9370,7 @@
             {
               "node_type": "item",
               "title": "EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [ECCV 2026]",
-              "description": "[code]",
+              "description": "leolin65/EGVLR-project",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9398,7 +9398,7 @@
             {
               "node_type": "item",
               "title": "Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [CVPR 2025]",
-              "description": "[code]",
+              "description": "Chopper-233/Physics-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9456,7 +9456,7 @@
                 {
                   "node_type": "item",
                   "title": "FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [AAAI 2025]",
-                  "description": "[code]",
+                  "description": "znchen666/FiCo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9484,7 +9484,7 @@
                 {
                   "node_type": "item",
                   "title": "UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [CVPR 2026]",
-                  "description": "[code]",
+                  "description": "yuanzhao-CVLAB/UniMMAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9509,7 +9509,7 @@
                 {
                   "node_type": "item",
                   "title": "One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [2025]",
-                  "description": "[code]",
+                  "description": "guojiajeremy/Dinomaly2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9530,7 +9530,7 @@
                 {
                   "node_type": "item",
                   "title": "Unified Unsupervised Anomaly Detection via Matching Cost Filtering [2025]",
-                  "description": "[code]",
+                  "description": "ZHE-SAPI/CostFilter-AD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9572,7 +9572,7 @@
                 {
                   "node_type": "item",
                   "title": "AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [AAAI 2025]",
-                  "description": "[code]",
+                  "description": "CASIA-LMC-Lab/AnomalyMoE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9878,7 +9878,7 @@
         {
           "node_type": "item",
           "title": "(DEEP PCB)Online PCB defect detector on a new PCB defect dataset [2019]",
-          "description": "[data]",
+          "description": "tangsanli5201/DeepPCB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9899,7 +9899,7 @@
         {
           "node_type": "item",
           "title": "The Woven Fabric Defect Detection (WFDD) dataset [2024]",
-          "description": "[data]",
+          "description": "cqylunlun/GLASS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9920,7 +9920,7 @@
         {
           "node_type": "item",
           "title": "(CPLID) Insulator Data Set - Chinese Power Line Insulator Dataset [data]",
-          "description": null,
+          "description": "InsulatorData/InsulatorDataSet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9954,7 +9954,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9983,7 +9983,7 @@
         {
           "node_type": "item",
           "title": "(MTD)Surface defect saliency of magnetic tile [2020]",
-          "description": "[data]",
+          "description": "abin24/Magnetic-tile-defect-datasets.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10004,7 +10004,7 @@
         {
           "node_type": "item",
           "title": "InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images [IJRS 2023]",
-          "description": "[data]",
+          "description": "andreluizbvs/InsPLAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10073,7 +10073,7 @@
         {
           "node_type": "item",
           "title": "Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [ECCV 2024]",
-          "description": "[data]",
+          "description": "EnVision-Research/Defect_Spectrum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10115,7 +10115,7 @@
         {
           "node_type": "item",
           "title": "(Steel tube dataset)Deep learning based steel pipe weld defect detection [2021]",
-          "description": "[data]",
+          "description": "huangyebiaoke/steel-pipe-weld-defect-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10140,7 +10140,7 @@
         {
           "node_type": "item",
           "title": "PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [NeurIPS 2023]",
-          "description": null,
+          "description": "EricLee0224/PAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10168,7 +10168,7 @@
         {
           "node_type": "item",
           "title": "(AeBAD)Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [2023]",
-          "description": "[data]",
+          "description": "zhangzilongc/MMR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10252,7 +10252,7 @@
         {
           "node_type": "item",
           "title": "Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [CVPR 2024]",
-          "description": "[data]",
+          "description": "Chopper-233/Anomaly-ShapeNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10273,7 +10273,7 @@
         {
           "node_type": "item",
           "title": "(MPDD)Deep learning-based defect detection of metal parts: evaluating current methods in complex conditions [ICUMT 2021]",
-          "description": "[data]",
+          "description": "stepanje/MPDD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10294,7 +10294,7 @@
         {
           "node_type": "item",
           "title": "RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations [IJCV 2024]",
-          "description": "[data]",
+          "description": "kaichen-z/RAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10336,7 +10336,7 @@
         {
           "node_type": "item",
           "title": "Supervised Anomaly Detection for Complex Industrial Images [2024]",
-          "description": "[data]",
+          "description": "abc-125/segad",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10362,7 +10362,7 @@
         {
           "node_type": "item",
           "title": "MVTec-Caption: AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [2024]",
-          "description": "[data]",
+          "description": "hujiecpp/MVTec-Caption",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10383,7 +10383,7 @@
         {
           "node_type": "item",
           "title": "Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application [ICCV 2025]",
-          "description": "[data]",
+          "description": "Bingyang0410/CPS2D-AD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10425,7 +10425,7 @@
         {
           "node_type": "item",
           "title": "M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection [2026]",
-          "description": "[code]",
+          "description": "Yanhui-Lee/M3-AD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10446,7 +10446,7 @@
         {
           "node_type": "item",
           "title": "VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [2026]",
-          "description": "[data]",
+          "description": "nkthiroto/VID-AD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10467,7 +10467,7 @@
         {
           "node_type": "item",
           "title": "Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [2023]",
-          "description": "[data]",
+          "description": "Andy-cs008/PD-REAL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10488,7 +10488,7 @@
         {
           "node_type": "item",
           "title": "HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset [ICME 2025]",
-          "description": "[data]",
+          "description": "Qiqigeww/HSS-IAD-Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10509,7 +10509,7 @@
         {
           "node_type": "item",
           "title": "Catenary Insulator Defects Detection: A Dataset and an Unsupervised Baseline [TIM 2024]",
-          "description": "[code]",
+          "description": "LightZH/Insulator-Defect-Detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10551,7 +10551,7 @@
         {
           "node_type": "item",
           "title": "(MPDD2)Anomaly detection for real-world industrial applications: benchmarking recent self-supervised and pretrained methods [ICUMT 2022]",
-          "description": "[data]",
+          "description": "stepanje/MPDD2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10572,7 +10572,7 @@
         {
           "node_type": "item",
           "title": "PeanutAD: A Real-World Dataset for Anomaly Detection in Agricultural Product Processing Line [2024]",
-          "description": "[data]",
+          "description": "TCV0257/PeanutAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10593,7 +10593,7 @@
         {
           "node_type": "item",
           "title": "(MCBT) Manufacturing Complex Background Texture: a real-world industrial anomaly dataset for challenging textured backgrounds, introduced in When Textures Deceive: Weakly Supervised Industrial Anomaly Detection with Adapted-Loss [CVPR 2025 W (VAND)]",
-          "description": "[data]",
+          "description": "ganatma/AL-CycleGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:10:59.857Z",
+    "last_updated": "2026-10-03T04:49:15.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3805,
+      "stars": 3806,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
