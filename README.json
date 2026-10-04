@@ -814,7 +814,7 @@
             "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6214,
+            "stars": 6218,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1491,7 +1491,7 @@
                 "open_issues": 2,
                 "owner": "SkyShunsuke",
                 "repo": "InversionAD",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1890,7 +1890,7 @@
                 "open_issues": 18,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3016,7 +3016,7 @@
             "open_issues": 81,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6214,
+            "stars": 6218,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4315,7 +4315,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 674,
+                    "stars": 673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5050,7 +5050,7 @@
                     "open_issues": 2,
                     "owner": "SkyShunsuke",
                     "repo": "InversionAD",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5681,7 +5681,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 674,
+                    "stars": 673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5702,7 +5702,7 @@
                     "open_issues": 33,
                     "owner": "xrli-U",
                     "repo": "MuSc",
-                    "stars": 438,
+                    "stars": 436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5859,7 +5859,7 @@
                     "open_issues": 18,
                     "owner": "Yanhui-Lee",
                     "repo": "IAD-R1",
-                    "stars": 98,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9207,7 +9207,7 @@
                 "open_issues": 18,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9338,10 +9338,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-07T16:18:19Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "chenpeng052",
                 "repo": "Reason-IAD",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 550,
+            "stars": 551,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 550,
+            "stars": 551,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:28:45.075Z",
+    "last_updated": "2026-10-04T11:10:27.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
