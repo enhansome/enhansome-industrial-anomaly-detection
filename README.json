@@ -810,7 +810,7 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T13:11:19Z",
+            "last_commit": "2026-10-06T11:59:13Z",
             "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
@@ -3012,7 +3012,7 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T13:11:19Z",
+            "last_commit": "2026-10-06T11:59:13Z",
             "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
@@ -3045,7 +3045,7 @@
             "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:39:14.858Z",
+    "last_updated": "2026-10-06T12:06:22.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
