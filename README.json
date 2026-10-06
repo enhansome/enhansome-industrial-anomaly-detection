@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "3d",
               "anomaly-detection",
@@ -174,7 +174,7 @@
             "open_issues": 30,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 530,
+            "stars": 531,
             "topics": [
               "anomaly-detection"
             ]
@@ -315,7 +315,7 @@
             "open_issues": 18,
             "owner": "VitjanZ",
             "repo": "DRAEM",
-            "stars": 294,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T11:16:37Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-05T13:11:19Z",
+            "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6222,
+            "stars": 6223,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1422,7 +1422,7 @@
                 "open_issues": 2,
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1771,7 +1771,7 @@
                 "open_issues": 4,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -2520,7 +2520,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -3012,11 +3012,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T11:16:37Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-05T13:11:19Z",
+            "open_issues": 77,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6222,
+            "stars": 6223,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3827,7 +3827,7 @@
                     "open_issues": 4,
                     "owner": "marco-rudolph",
                     "repo": "differnet",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4625,7 +4625,7 @@
                     "open_issues": 18,
                     "owner": "VitjanZ",
                     "repo": "DRAEM",
-                    "stars": 294,
+                    "stars": 295,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5723,7 +5723,7 @@
                     "open_issues": 3,
                     "owner": "HUST-SLOW",
                     "repo": "MuSc-V2",
-                    "stars": 351,
+                    "stars": 350,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6318,7 +6318,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6356,7 +6356,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6964,7 +6964,7 @@
                 "open_issues": 18,
                 "owner": "VitjanZ",
                 "repo": "DRAEM",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7805,7 +7805,7 @@
                 "open_issues": 3,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 351,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8405,7 +8405,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -9341,7 +9341,7 @@
                 "open_issues": 4,
                 "owner": "chenpeng052",
                 "repo": "Reason-IAD",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:24:00.521Z",
+    "last_updated": "2026-10-06T10:39:14.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
