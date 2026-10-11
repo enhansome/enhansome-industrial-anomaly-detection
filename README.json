@@ -811,10 +811,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T03:21:06Z",
-            "open_issues": 71,
+            "open_issues": 73,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6234,
+            "stars": 6238,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1659,7 +1659,7 @@
                 "open_issues": 2,
                 "owner": "xiaozhen228",
                 "repo": "AG-VAS",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2366,6 +2366,27 @@
             },
             {
               "node_type": "item",
+              "title": "G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection[ICCV 2025]",
+              "description": "ctaoaa/G2SF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Offical repository for G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection",
+                "homepage": null,
+                "id": 1024287445,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-12-14T13:42:16Z",
+                "open_issues": 3,
+                "owner": "ctaoaa",
+                "repo": "G2SF",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [ICCV 2025]",
               "description": "MapleBoat/PASDF",
               "children": [],
@@ -2381,27 +2402,6 @@
                 "owner": "MapleBoat",
                 "repo": "PASDF",
                 "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection[ICCV 2025]",
-              "description": "ctaoaa/G2SF",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Offical repository for G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection",
-                "homepage": null,
-                "id": 1024287445,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-12-14T13:42:16Z",
-                "open_issues": 3,
-                "owner": "ctaoaa",
-                "repo": "G2SF",
-                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2543,7 +2543,7 @@
                 "open_issues": 45,
                 "owner": "luow23",
                 "repo": "INP-Former",
-                "stars": 321,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2585,7 +2585,7 @@
                 "open_issues": 29,
                 "owner": "Mwxinnn",
                 "repo": "AA-CLIP",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3013,10 +3013,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T03:21:06Z",
-            "open_issues": 71,
+            "open_issues": 73,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6234,
+            "stars": 6238,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3045,7 +3045,7 @@
             "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1081,
+            "stars": 1082,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -5206,7 +5206,7 @@
                     "open_issues": 52,
                     "owner": "sjtuplayer",
                     "repo": "anomalydiffusion",
-                    "stars": 331,
+                    "stars": 330,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6128,7 +6128,7 @@
                     "open_issues": 2,
                     "owner": "xiaozhen228",
                     "repo": "AG-VAS",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6922,7 +6922,7 @@
                 "open_issues": 52,
                 "owner": "sjtuplayer",
                 "repo": "anomalydiffusion",
-                "stars": 331,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7164,7 +7164,7 @@
                 "open_issues": 7,
                 "owner": "gaobb",
                 "repo": "AnoGen",
-                "stars": 84,
+                "stars": 83,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-generation",
@@ -7756,7 +7756,7 @@
                 "open_issues": 3,
                 "owner": "ctaoaa",
                 "repo": "G2SF",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8021,7 +8021,7 @@
                 "open_issues": 0,
                 "owner": "M-3LAB",
                 "repo": "Look-Inside-for-More",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9727,7 +9727,7 @@
             "open_issues": 0,
             "owner": "stepanje",
             "repo": "MPDD",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9849,7 +9849,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 263,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9975,7 +9975,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 263,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10181,7 +10181,7 @@
             "open_issues": 5,
             "owner": "zhangzilongc",
             "repo": "MMR",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10286,7 +10286,7 @@
             "open_issues": 0,
             "owner": "stepanje",
             "repo": "MPDD",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:15:27.684Z",
+    "last_updated": "2026-10-11T11:28:51.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3818,
+      "stars": 3819,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
