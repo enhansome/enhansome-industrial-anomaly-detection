@@ -174,7 +174,7 @@
             "open_issues": 30,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "anomaly-detection"
             ]
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1413,
+            "stars": 1415,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -814,7 +814,7 @@
             "open_issues": 75,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6249,
+            "stars": 6253,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1201,6 +1201,27 @@
             },
             {
               "node_type": "item",
+              "title": "FuDU: A Fuzzy Dual-dimension Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection[ECCV 2026]",
+              "description": "wangzhaoyang-508/FuDU",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FuDU: Fuzzy Dual-dimensional Uncertainty for Streaming Active Learning in Industrial Defect Detection",
+                "homepage": null,
+                "id": 1280247483,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-25T13:25:08Z",
+                "open_issues": 0,
+                "owner": "wangzhaoyang-508",
+                "repo": "FuDU",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
               "title": "EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [ECCV 2026]",
               "description": "leolin65/EGVLR-project",
               "children": [],
@@ -1237,27 +1258,6 @@
                 "owner": "zhliu-uod",
                 "repo": "VUOD",
                 "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-09-20T09:52:50.611Z"
-            },
-            {
-              "node_type": "item",
-              "title": "FuDU: A Fuzzy Dual-dimension Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection[ECCV 2026]",
-              "description": "wangzhaoyang-508/FuDU",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "FuDU: Fuzzy Dual-dimensional Uncertainty for Streaming Active Learning in Industrial Defect Detection",
-                "homepage": null,
-                "id": 1280247483,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-25T13:25:08Z",
-                "open_issues": 0,
-                "owner": "wangzhaoyang-508",
-                "repo": "FuDU",
-                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-09-20T09:52:50.611Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 2,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1596,7 +1596,7 @@
                 "open_issues": 4,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
-                "stars": 24,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1771,7 +1771,7 @@
                 "open_issues": 4,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -2056,6 +2056,27 @@
             },
             {
               "node_type": "item",
+              "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
+              "description": "liugang-xd/MaskAD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1120901597,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-31T07:59:07Z",
+                "open_issues": 0,
+                "owner": "liugang-xd",
+                "repo": "MaskAD",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [AAAI 2026]",
               "description": "ls1rius/MRI_FDP",
               "children": [],
@@ -2071,27 +2092,6 @@
                 "owner": "ls1rius",
                 "repo": "MRI_FDP",
                 "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
-              "description": "liugang-xd/MaskAD",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1120901597,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-31T07:59:07Z",
-                "open_issues": 0,
-                "owner": "liugang-xd",
-                "repo": "MaskAD",
-                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2221,7 +2221,7 @@
                 "open_issues": 3,
                 "owner": "boschresearch",
                 "repo": "MultiADS",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2520,7 +2520,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -2564,7 +2564,7 @@
                 "open_issues": 14,
                 "owner": "EPFL-IMOS",
                 "repo": "AnomalyAny",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3016,7 +3016,7 @@
             "open_issues": 75,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6249,
+            "stars": 6253,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4002,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1413,
+                    "stars": 1415,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4361,7 +4361,7 @@
                     "open_issues": 3,
                     "owner": "boschresearch",
                     "repo": "MultiADS",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5206,7 +5206,7 @@
                     "open_issues": 52,
                     "owner": "sjtuplayer",
                     "repo": "anomalydiffusion",
-                    "stars": 330,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5744,7 +5744,7 @@
                     "open_issues": 38,
                     "owner": "caoyunkang",
                     "repo": "AdaCLIP",
-                    "stars": 311,
+                    "stars": 313,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5928,7 +5928,7 @@
                     "open_issues": 3,
                     "owner": "boschresearch",
                     "repo": "MultiADS",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6318,7 +6318,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 89,
+                    "stars": 88,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6356,7 +6356,7 @@
                     "open_issues": 4,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 89,
+                    "stars": 88,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6922,7 +6922,7 @@
                 "open_issues": 52,
                 "owner": "sjtuplayer",
                 "repo": "anomalydiffusion",
-                "stars": 330,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6943,7 +6943,7 @@
                 "open_issues": 14,
                 "owner": "EPFL-IMOS",
                 "repo": "AnomalyAny",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7645,7 +7645,7 @@
                 "open_issues": 2,
                 "owner": "caoyunkang",
                 "repo": "CPMF",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7916,7 +7916,7 @@
                 "open_issues": 2,
                 "owner": "caoyunkang",
                 "repo": "CPMF",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7979,7 +7979,7 @@
                 "open_issues": 4,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
-                "stars": 24,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8405,7 +8405,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -8768,27 +8768,6 @@
             },
             {
               "node_type": "item",
-              "title": "Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [Data Intelligence 2025]",
-              "description": "Qiqigeww/CRR-MUAD",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "多类别异常检测方法",
-                "homepage": null,
-                "id": 1115198912,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-12-20T08:43:24Z",
-                "open_issues": 1,
-                "owner": "Qiqigeww",
-                "repo": "CRR-MUAD",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
               "title": "MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [AAAI 2026]",
               "description": "liugang-xd/MaskAD",
               "children": [],
@@ -8803,6 +8782,27 @@
                 "open_issues": 0,
                 "owner": "liugang-xd",
                 "repo": "MaskAD",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [Data Intelligence 2025]",
+              "description": "Qiqigeww/CRR-MUAD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "多类别异常检测方法",
+                "homepage": null,
+                "id": 1115198912,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-12-20T08:43:24Z",
+                "open_issues": 1,
+                "owner": "Qiqigeww",
+                "repo": "CRR-MUAD",
                 "stars": 3,
                 "topics": []
               },
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 556,
+            "stars": 557,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9748,7 +9748,7 @@
             "open_issues": 5,
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 556,
+            "stars": 557,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9996,7 +9996,7 @@
             "open_issues": 5,
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10107,7 +10107,7 @@
             "open_issues": 1,
             "owner": "Tencent",
             "repo": "AnomalyDetection_Real-IAD",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10303,7 +10303,7 @@
             "id": 865704331,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T19:06:00Z",
+            "last_commit": "2026-10-16T08:02:43Z",
             "open_issues": 0,
             "owner": "kaichen-z",
             "repo": "RAD",
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:06:24.700Z",
+    "last_updated": "2026-10-16T09:56:54.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
