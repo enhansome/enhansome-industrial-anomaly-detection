@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "3d",
               "anomaly-detection",
@@ -174,7 +174,7 @@
             "open_issues": 30,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 539,
+            "stars": 540,
             "topics": [
               "anomaly-detection"
             ]
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1417,
+            "stars": 1418,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -814,7 +814,7 @@
             "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6255,
+            "stars": 6260,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1075,6 +1075,27 @@
             },
             {
               "node_type": "item",
+              "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
+              "description": "WenDongyp/CL-Anomaly",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV2026] The Official Implementation for ''CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection''",
+                "homepage": null,
+                "id": 1283014702,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-03T03:35:35Z",
+                "open_issues": 1,
+                "owner": "WenDongyp",
+                "repo": "CL-Anomaly",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
               "title": "DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [ECCV 2026]",
               "description": "HUST-SLOW/DeCo",
               "children": [],
@@ -1093,27 +1114,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [ECCV 2026]",
-              "description": "WenDongyp/CL-Anomaly",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV2026] The Official Implementation for ''CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection''",
-                "homepage": null,
-                "id": 1283014702,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-03T03:35:35Z",
-                "open_issues": 1,
-                "owner": "WenDongyp",
-                "repo": "CL-Anomaly",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-09-20T09:52:50.611Z"
             },
             {
               "node_type": "item",
@@ -1488,7 +1488,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-27T13:01:19Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "SkyShunsuke",
                 "repo": "InversionAD",
                 "stars": 67,
@@ -2520,7 +2520,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -3016,7 +3016,7 @@
             "open_issues": 76,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6255,
+            "stars": 6260,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3129,6 +3129,27 @@
         },
         {
           "node_type": "item",
+          "title": "Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey [2024]",
+          "description": "[github page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NAACL 2025] Large Language Models for Anomaly and Out-of-Distribution Detection",
+            "homepage": null,
+            "id": 809463736,
+            "language": null,
+            "license": null,
+            "last_commit": "2024-09-20T16:45:09Z",
+            "open_issues": 0,
+            "owner": "rux001",
+            "repo": "Awesome-LLM-Anomaly-OOD-Detection",
+            "stars": 124,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T17:30:13.771Z"
+        },
+        {
+          "node_type": "item",
           "title": "A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection [2024]",
           "description": "[github page]",
           "children": [],
@@ -3150,27 +3171,6 @@
               "industrial-image",
               "survey"
             ]
-          },
-          "first_seen": "2026-08-28T17:30:13.771Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey [2024]",
-          "description": "[github page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[NAACL 2025] Large Language Models for Anomaly and Out-of-Distribution Detection",
-            "homepage": null,
-            "id": 809463736,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-09-20T16:45:09Z",
-            "open_issues": 0,
-            "owner": "rux001",
-            "repo": "Awesome-LLM-Anomaly-OOD-Detection",
-            "stars": 123,
-            "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
         },
@@ -3638,7 +3638,7 @@
                     "open_issues": 1,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -4002,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1417,
+                    "stars": 1418,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4315,7 +4315,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 674,
+                    "stars": 675,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5047,7 +5047,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-27T13:01:19Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "SkyShunsuke",
                     "repo": "InversionAD",
                     "stars": 67,
@@ -5227,7 +5227,7 @@
                     "open_issues": 1,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -5681,7 +5681,7 @@
                     "open_issues": 74,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
-                    "stars": 674,
+                    "stars": 675,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5744,7 +5744,7 @@
                     "open_issues": 38,
                     "owner": "caoyunkang",
                     "repo": "AdaCLIP",
-                    "stars": 313,
+                    "stars": 314,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7033,7 +7033,7 @@
                 "open_issues": 1,
                 "owner": "blaz-r",
                 "repo": "SuperSimpleNet",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -7705,7 +7705,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-03-17T09:18:35Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "evenrose",
                 "repo": "CMDIAD",
                 "stars": 26,
@@ -8356,7 +8356,7 @@
                 "open_issues": 1,
                 "owner": "WenDongyp",
                 "repo": "CL-Anomaly",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-09-20T09:52:50.611Z"
@@ -8405,7 +8405,7 @@
                 "open_issues": 30,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 558,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9849,7 +9849,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 558,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9975,7 +9975,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:30:00.155Z",
+    "last_updated": "2026-10-18T09:43:25.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
