@@ -153,7 +153,7 @@
             "open_issues": 21,
             "owner": "hq-deng",
             "repo": "RD4AD",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -174,7 +174,7 @@
             "open_issues": 31,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 542,
+            "stars": 544,
             "topics": [
               "anomaly-detection"
             ]
@@ -197,7 +197,7 @@
             "open_issues": 5,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 133,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -315,7 +315,7 @@
             "open_issues": 18,
             "owner": "VitjanZ",
             "repo": "DRAEM",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1147,
+            "stars": 1148,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -811,10 +811,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-24T02:24:22Z",
-            "open_issues": 90,
+            "open_issues": 94,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6307,
+            "stars": 6316,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1222,6 +1222,27 @@
             },
             {
               "node_type": "item",
+              "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
+              "description": "evoLonation/DeMuS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1282207646,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-30T03:20:06Z",
+                "open_issues": 1,
+                "owner": "evoLonation",
+                "repo": "DeMuS",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
               "title": "EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [ECCV 2026]",
               "description": "leolin65/EGVLR-project",
               "children": [],
@@ -1258,27 +1279,6 @@
                 "owner": "zhliu-uod",
                 "repo": "VUOD",
                 "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-09-20T09:52:50.611Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
-              "description": "evoLonation/DeMuS",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1282207646,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-30T03:20:06Z",
-                "open_issues": 1,
-                "owner": "evoLonation",
-                "repo": "DeMuS",
-                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-09-20T09:52:50.611Z"
@@ -1680,7 +1680,7 @@
                 "open_issues": 0,
                 "owner": "SpatialAILab",
                 "repo": "MAGIC",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2200,7 +2200,7 @@
                 "open_issues": 21,
                 "owner": "HUST-SLOW",
                 "repo": "SeaS",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2520,7 +2520,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 542,
+                "stars": 544,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -3013,10 +3013,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-24T02:24:22Z",
-            "open_issues": 90,
+            "open_issues": 94,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6307,
+            "stars": 6316,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3339,7 +3339,7 @@
                     "open_issues": 21,
                     "owner": "hq-deng",
                     "repo": "RD4AD",
-                    "stars": 255,
+                    "stars": 256,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4294,7 +4294,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1147,
+                    "stars": 1148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4336,7 +4336,7 @@
                     "open_issues": 34,
                     "owner": "FuNz-0",
                     "repo": "PromptAD",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": [
                       "anomaly-detection",
                       "cvpr2024",
@@ -4625,7 +4625,7 @@
                     "open_issues": 18,
                     "owner": "VitjanZ",
                     "repo": "DRAEM",
-                    "stars": 298,
+                    "stars": 299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5206,7 +5206,7 @@
                     "open_issues": 52,
                     "owner": "sjtuplayer",
                     "repo": "anomalydiffusion",
-                    "stars": 332,
+                    "stars": 333,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5331,7 +5331,7 @@
                     "open_issues": 3,
                     "owner": "mala-lab",
                     "repo": "AHL",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": [
                       "anomaly-detection",
                       "image-anomaly-detection",
@@ -6149,7 +6149,7 @@
                     "open_issues": 1,
                     "owner": "evoLonation",
                     "repo": "DeMuS",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-09-20T09:52:50.611Z"
@@ -6177,7 +6177,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1147,
+                    "stars": 1148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6219,7 +6219,7 @@
                     "open_issues": 34,
                     "owner": "FuNz-0",
                     "repo": "PromptAD",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": [
                       "anomaly-detection",
                       "cvpr2024",
@@ -6244,7 +6244,7 @@
                     "open_issues": 7,
                     "owner": "mala-lab",
                     "repo": "InCTRL",
-                    "stars": 203,
+                    "stars": 204,
                     "topics": [
                       "anomaly-detection",
                       "few-shot-anomaly-detection",
@@ -6272,7 +6272,7 @@
                     "open_issues": 21,
                     "owner": "HUST-SLOW",
                     "repo": "SeaS",
-                    "stars": 163,
+                    "stars": 164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6293,7 +6293,7 @@
                     "open_issues": 5,
                     "owner": "gaobb",
                     "repo": "MetaUAS",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": [
                       "anomaly-detection",
                       "few-shot-anomaly-detection",
@@ -6922,7 +6922,7 @@
                 "open_issues": 52,
                 "owner": "sjtuplayer",
                 "repo": "anomalydiffusion",
-                "stars": 332,
+                "stars": 333,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6964,7 +6964,7 @@
                 "open_issues": 18,
                 "owner": "VitjanZ",
                 "repo": "DRAEM",
-                "stars": 298,
+                "stars": 299,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8105,7 +8105,7 @@
                 "open_issues": 1,
                 "owner": "Bingyang0410",
                 "repo": "CPS3D-Seg",
-                "stars": 9,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8405,7 +8405,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 542,
+                "stars": 544,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -9144,7 +9144,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9522,7 +9522,7 @@
                     "open_issues": 5,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 133,
+                    "stars": 135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 563,
+            "stars": 566,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9727,7 +9727,7 @@
             "open_issues": 0,
             "owner": "stepanje",
             "repo": "MPDD",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 563,
+            "stars": 566,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10017,7 +10017,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10086,7 +10086,7 @@
             "open_issues": 6,
             "owner": "EnVision-Research",
             "repo": "Defect_Spectrum",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10286,7 +10286,7 @@
             "open_issues": 0,
             "owner": "stepanje",
             "repo": "MPDD",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:55:46.580Z",
+    "last_updated": "2026-10-26T11:17:42.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3836,
+      "stars": 3837,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
