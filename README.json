@@ -194,7 +194,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-29T06:07:48Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
             "stars": 137,
@@ -759,7 +759,7 @@
             "open_issues": 10,
             "owner": "MaticFuc",
             "repo": "SALAD",
-            "stars": 52,
+            "stars": 51,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -814,7 +814,7 @@
             "open_issues": 87,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6319,
+            "stars": 6325,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -942,7 +942,7 @@
                 "open_issues": 0,
                 "owner": "Junhaocai27",
                 "repo": "CMDS-AD",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1393,11 +1393,11 @@
                 "id": 1065665155,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-20T02:22:32Z",
+                "last_commit": "2026-10-28T09:14:09Z",
                 "open_issues": 4,
                 "owner": "yuanzhao-CVLAB",
                 "repo": "UniMMAD",
-                "stars": 249,
+                "stars": 248,
                 "topics": [
                   "anomaly-detection",
                   "mixture-of-experts",
@@ -1422,7 +1422,7 @@
                 "open_issues": 2,
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1464,7 +1464,7 @@
                 "open_issues": 2,
                 "owner": "MaticFuc",
                 "repo": "AnomalyVFM",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "anomaly-detection",
                   "cvpr",
@@ -1582,27 +1582,6 @@
             },
             {
               "node_type": "item",
-              "title": "FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [CVPR 2026]",
-              "description": "Xi-Mu-Yu/FB-CLIP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026] Code for \"FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement\"",
-                "homepage": null,
-                "id": 1173481760,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-07-03T02:43:42Z",
-                "open_issues": 1,
-                "owner": "Xi-Mu-Yu",
-                "repo": "FB-CLIP",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
               "title": "Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [CVPR 2026]",
               "description": "wistful-8029/BTP-3DAD",
               "children": [],
@@ -1617,6 +1596,27 @@
                 "open_issues": 4,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [CVPR 2026]",
+              "description": "Xi-Mu-Yu/FB-CLIP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] Code for \"FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement\"",
+                "homepage": null,
+                "id": 1173481760,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-03T02:43:42Z",
+                "open_issues": 1,
+                "owner": "Xi-Mu-Yu",
+                "repo": "FB-CLIP",
                 "stars": 23,
                 "topics": []
               },
@@ -1809,7 +1809,7 @@
                 "open_issues": 4,
                 "owner": "CROVO1026",
                 "repo": "MRAD",
-                "stars": 53,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2119,7 +2119,7 @@
                 "open_issues": 0,
                 "owner": "JasonKyng",
                 "repo": "NAGL",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2140,7 +2140,7 @@
                 "open_issues": 6,
                 "owner": "xcyao00",
                 "repo": "ADPretrain",
-                "stars": 80,
+                "stars": 79,
                 "topics": [
                   "anomaly-detection",
                   "anomlay-representation-pretraining",
@@ -2263,7 +2263,7 @@
                 "open_issues": 10,
                 "owner": "MaticFuc",
                 "repo": "SALAD",
-                "stars": 52,
+                "stars": 51,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -2291,7 +2291,7 @@
                 "open_issues": 3,
                 "owner": "mala-lab",
                 "repo": "FAPrompt",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "anomaly-detection",
                   "prompt-learning",
@@ -2543,7 +2543,7 @@
                 "open_issues": 45,
                 "owner": "luow23",
                 "repo": "INP-Former",
-                "stars": 329,
+                "stars": 328,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2564,7 +2564,7 @@
                 "open_issues": 14,
                 "owner": "EPFL-IMOS",
                 "repo": "AnomalyAny",
-                "stars": 307,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2645,7 +2645,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-12T02:09:32Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "pangdatangtt",
                 "repo": "UniNet",
                 "stars": 137,
@@ -2690,7 +2690,7 @@
                 "open_issues": 12,
                 "owner": "zhang0jhon",
                 "repo": "LogSAD",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2753,7 +2753,7 @@
                 "open_issues": 1,
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
-                "stars": 70,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2774,7 +2774,7 @@
                 "open_issues": 1,
                 "owner": "farzad-bz",
                 "repo": "DeCo-Diff",
-                "stars": 70,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2795,7 +2795,7 @@
                 "open_issues": 11,
                 "owner": "FuNz-0",
                 "repo": "One-for-More",
-                "stars": 65,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2816,7 +2816,7 @@
                 "open_issues": 0,
                 "owner": "VICO-UoE",
                 "repo": "OddOneOutAD",
-                "stars": 59,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3016,7 +3016,7 @@
             "open_issues": 87,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6319,
+            "stars": 6325,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3569,7 +3569,7 @@
                     "open_issues": 5,
                     "owner": "cqylunlun",
                     "repo": "GLASS",
-                    "stars": 399,
+                    "stars": 400,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3635,7 +3635,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-10-16T12:09:02Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
                     "stars": 182,
@@ -3890,7 +3890,7 @@
                     "open_issues": 9,
                     "owner": "cool-xuan",
                     "repo": "msflow",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5224,7 +5224,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-10-16T12:09:02Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
                     "stars": 182,
@@ -5901,7 +5901,7 @@
                     "open_issues": 2,
                     "owner": "MaticFuc",
                     "repo": "AnomalyVFM",
-                    "stars": 76,
+                    "stars": 77,
                     "topics": [
                       "anomaly-detection",
                       "cvpr",
@@ -5991,7 +5991,7 @@
                     "open_issues": 4,
                     "owner": "CROVO1026",
                     "repo": "MRAD",
-                    "stars": 53,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6012,7 +6012,7 @@
                     "open_issues": 3,
                     "owner": "mala-lab",
                     "repo": "FAPrompt",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "anomaly-detection",
                       "prompt-learning",
@@ -6107,7 +6107,7 @@
                     "open_issues": 1,
                     "owner": "Xi-Mu-Yu",
                     "repo": "FB-CLIP",
-                    "stars": 24,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6244,7 +6244,7 @@
                     "open_issues": 7,
                     "owner": "mala-lab",
                     "repo": "InCTRL",
-                    "stars": 204,
+                    "stars": 203,
                     "topics": [
                       "anomaly-detection",
                       "few-shot-anomaly-detection",
@@ -6577,7 +6577,7 @@
                     "open_issues": 14,
                     "owner": "CVL-hub",
                     "repo": "KAG-prompt",
-                    "stars": 29,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6611,27 +6611,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [2024]",
-                  "description": "Jay-zzcoder/clip-fsac-pp",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 898765657,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-12-08T04:19:51Z",
-                    "open_issues": 3,
-                    "owner": "Jay-zzcoder",
-                    "repo": "clip-fsac-pp",
-                    "stars": 21,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [ECCV 2026]",
                   "description": "Junhaocai27/CMDS-AD",
                   "children": [],
@@ -6646,6 +6625,27 @@
                     "open_issues": 0,
                     "owner": "Junhaocai27",
                     "repo": "CMDS-AD",
+                    "stars": 22,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [2024]",
+                  "description": "Jay-zzcoder/clip-fsac-pp",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 898765657,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2024-12-08T04:19:51Z",
+                    "open_issues": 3,
+                    "owner": "Jay-zzcoder",
+                    "repo": "clip-fsac-pp",
                     "stars": 21,
                     "topics": []
                   },
@@ -6901,7 +6901,7 @@
                 "open_issues": 5,
                 "owner": "cqylunlun",
                 "repo": "GLASS",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6943,7 +6943,7 @@
                 "open_issues": 14,
                 "owner": "EPFL-IMOS",
                 "repo": "AnomalyAny",
-                "stars": 307,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7030,7 +7030,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-10-16T12:09:02Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "blaz-r",
                 "repo": "SuperSimpleNet",
                 "stars": 182,
@@ -7297,7 +7297,7 @@
                 "open_issues": 2,
                 "owner": "cnulab",
                 "repo": "UniADC",
-                "stars": 34,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8242,7 +8242,7 @@
                 "open_issues": 0,
                 "owner": "HULEI7",
                 "repo": "ReplayCAD",
-                "stars": 61,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8467,7 +8467,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-12T02:09:32Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "pangdatangtt",
                 "repo": "UniNet",
                 "stars": 137,
@@ -8831,7 +8831,7 @@
                 "open_issues": 12,
                 "owner": "zhang0jhon",
                 "repo": "LogSAD",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8894,7 +8894,7 @@
                 "open_issues": 10,
                 "owner": "MaticFuc",
                 "repo": "SALAD",
-                "stars": 52,
+                "stars": 51,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -9493,11 +9493,11 @@
                     "id": 1065665155,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-20T02:22:32Z",
+                    "last_commit": "2026-10-28T09:14:09Z",
                     "open_issues": 4,
                     "owner": "yuanzhao-CVLAB",
                     "repo": "UniMMAD",
-                    "stars": 249,
+                    "stars": 248,
                     "topics": [
                       "anomaly-detection",
                       "mixture-of-experts",
@@ -9519,7 +9519,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-09-29T06:07:48Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
                     "stars": 137,
@@ -9564,7 +9564,7 @@
                     "open_issues": 2,
                     "owner": "cnulab",
                     "repo": "UniADC",
-                    "stars": 34,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 567,
+            "stars": 569,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 567,
+            "stars": 569,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9912,7 +9912,7 @@
             "open_issues": 5,
             "owner": "cqylunlun",
             "repo": "GLASS",
-            "stars": 399,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10017,7 +10017,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10107,7 +10107,7 @@
             "open_issues": 1,
             "owner": "Tencent",
             "repo": "AnomalyDetection_Real-IAD",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:42:25.101Z",
+    "last_updated": "2026-10-28T11:26:39.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3838,
+      "stars": 3841,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
