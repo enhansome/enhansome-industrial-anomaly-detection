@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1430,
+            "stars": 1433,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1148,
+            "stars": 1149,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T02:18:11Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-31T03:11:34Z",
+            "open_issues": 91,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6338,
+            "stars": 6343,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1106,8 +1106,8 @@
                 "id": 1281744544,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-08T22:11:40Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-30T20:46:29Z",
+                "open_issues": 1,
                 "owner": "vpc-ccg",
                 "repo": "AF3AD",
                 "stars": 7,
@@ -1530,7 +1530,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-14T04:21:15Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "CoCoRessa",
                 "repo": "MoECLIP",
                 "stars": 48,
@@ -1617,7 +1617,7 @@
                 "open_issues": 1,
                 "owner": "Xi-Mu-Yu",
                 "repo": "FB-CLIP",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1771,7 +1771,7 @@
                 "open_issues": 5,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 90,
+                "stars": 98,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -2564,7 +2564,7 @@
                 "open_issues": 14,
                 "owner": "EPFL-IMOS",
                 "repo": "AnomalyAny",
-                "stars": 306,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2669,7 +2669,7 @@
                 "open_issues": 5,
                 "owner": "fengyan-cv",
                 "repo": "WPFormer",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2690,7 +2690,7 @@
                 "open_issues": 12,
                 "owner": "zhang0jhon",
                 "repo": "LogSAD",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3012,11 +3012,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T02:18:11Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-31T03:11:34Z",
+            "open_issues": 91,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6338,
+            "stars": 6343,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4002,7 +4002,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1430,
+                    "stars": 1433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4049,7 +4049,7 @@
                     "open_issues": 6,
                     "owner": "sungwool",
                     "repo": "CFA_for_anomaly_localization",
-                    "stars": 121,
+                    "stars": 122,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4294,7 +4294,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1148,
+                    "stars": 1149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6035,7 +6035,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-10-14T04:21:15Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "CoCoRessa",
                     "repo": "MoECLIP",
                     "stars": 48,
@@ -6107,7 +6107,7 @@
                     "open_issues": 1,
                     "owner": "Xi-Mu-Yu",
                     "repo": "FB-CLIP",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6177,7 +6177,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1148,
+                    "stars": 1149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6279,31 +6279,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [NeurIPS 2024]",
-                  "description": "gaobb/MetaUAS",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NeurIPS 2024] MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning",
-                    "homepage": "https://huggingface.co/spaces/csgaobb/MetaUAS",
-                    "id": 879003248,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-02-07T04:58:39Z",
-                    "open_issues": 5,
-                    "owner": "gaobb",
-                    "repo": "MetaUAS",
-                    "stars": 97,
-                    "topics": [
-                      "anomaly-detection",
-                      "few-shot-anomaly-detection",
-                      "universal-anomaly-detection"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [2025]",
                   "description": "ymxlzgy/FoundAD",
                   "children": [],
@@ -6318,7 +6293,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 90,
+                    "stars": 98,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6356,7 +6331,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 90,
+                    "stars": 98,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6374,6 +6349,31 @@
                       "machine-learning",
                       "representation-learning",
                       "siglip"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [NeurIPS 2024]",
+                  "description": "gaobb/MetaUAS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS 2024] MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning",
+                    "homepage": "https://huggingface.co/spaces/csgaobb/MetaUAS",
+                    "id": 879003248,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-02-07T04:58:39Z",
+                    "open_issues": 5,
+                    "owner": "gaobb",
+                    "repo": "MetaUAS",
+                    "stars": 97,
+                    "topics": [
+                      "anomaly-detection",
+                      "few-shot-anomaly-detection",
+                      "universal-anomaly-detection"
                     ]
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6646,7 +6646,7 @@
                     "open_issues": 3,
                     "owner": "Jay-zzcoder",
                     "repo": "clip-fsac-pp",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6943,7 +6943,7 @@
                 "open_issues": 14,
                 "owner": "EPFL-IMOS",
                 "repo": "AnomalyAny",
-                "stars": 306,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8122,8 +8122,8 @@
                 "id": 1281744544,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-08T22:11:40Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-30T20:46:29Z",
+                "open_issues": 1,
                 "owner": "vpc-ccg",
                 "repo": "AF3AD",
                 "stars": 7,
@@ -8831,7 +8831,7 @@
                 "open_issues": 12,
                 "owner": "zhang0jhon",
                 "repo": "LogSAD",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9144,7 +9144,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1148,
+                "stars": 1149,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9685,7 +9685,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 569,
+            "stars": 570,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9748,7 +9748,7 @@
             "open_issues": 6,
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 226,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9849,7 +9849,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +9891,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 569,
+            "stars": 570,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9933,7 +9933,7 @@
             "open_issues": 5,
             "owner": "InsulatorData",
             "repo": "InsulatorDataSet",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9975,7 +9975,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9996,7 +9996,7 @@
             "open_issues": 6,
             "owner": "abin24",
             "repo": "Magnetic-tile-defect-datasets.",
-            "stars": 226,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:28:47.815Z",
+    "last_updated": "2026-10-31T10:59:16.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10663,7 +10663,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3845,
+      "stars": 3846,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
