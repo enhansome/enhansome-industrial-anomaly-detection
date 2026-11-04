@@ -68,7 +68,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 278,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -294,7 +294,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1436,
+            "stars": 1435,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -420,7 +420,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1150,
+            "stars": 1151,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "jiaq-liu",
             "repo": "UCAD",
-            "stars": 121,
+            "stars": 120,
             "topics": [
               "anomaly-detection",
               "anomaly-segmentation",
@@ -644,7 +644,7 @@
             "open_issues": 22,
             "owner": "wynoxos",
             "repo": "M3DM",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -713,7 +713,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 841,
+            "stars": 840,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -810,11 +810,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T09:50:31Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-04T02:20:06Z",
+            "open_issues": 98,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6359,
+            "stars": 6361,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -892,7 +892,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 278,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -924,6 +924,79 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Beyond Normal References: Discriminative Few-Shot Anomaly Detection [NeurIPS 2026]",
+              "description": "mala-lab/IDEAL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] Beyond Normal References: Discriminative Few-Shot Anomaly Detection",
+                "homepage": "https://arxiv.org/abs/2605.23231",
+                "id": 1238631655,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-30T05:46:33Z",
+                "open_issues": 2,
+                "owner": "mala-lab",
+                "repo": "IDEAL",
+                "stars": 8,
+                "topics": [
+                  "anomaly-detection",
+                  "few-shot-anomaly-detection"
+                ]
+              },
+              "first_seen": "2026-11-04T13:06:21.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling [NeurIPS 2026]",
+              "description": "VisualScienceLab-KHU/GRIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1390811134,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-27T12:43:38Z",
+                "open_issues": 2,
+                "owner": "VisualScienceLab-KHU",
+                "repo": "GRIM",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-04T13:06:21.125Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TED: Text-Axis Evidence Decomposition for Prompted Anomaly Localization [NeurIPS 2026 Poster]",
+              "description": "barraki72268-sketch/TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1391606682,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-13T05:53:41Z",
+                "open_issues": 1,
+                "owner": "barraki72268-sketch",
+                "repo": "TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-04T13:06:21.125Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2026"
+        },
         {
           "children": [
             {
@@ -1065,7 +1138,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-29T18:58:51Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Continue-Edge-AI-Lab",
                 "repo": "Rethinking-Continual-AD",
                 "stars": 7,
@@ -1376,7 +1449,7 @@
                 "open_issues": 2,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1419,7 +1492,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-08T03:23:06Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
                 "stars": 143,
@@ -1440,7 +1513,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2026-03-26T02:19:20Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "echrao",
                 "repo": "O2MAG",
                 "stars": 84,
@@ -1617,7 +1690,7 @@
                 "open_issues": 1,
                 "owner": "Xi-Mu-Yu",
                 "repo": "FB-CLIP",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1771,7 +1844,7 @@
                 "open_issues": 5,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -2543,7 +2616,7 @@
                 "open_issues": 45,
                 "owner": "luow23",
                 "repo": "INP-Former",
-                "stars": 328,
+                "stars": 329,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2606,7 +2679,7 @@
                 "open_issues": 11,
                 "owner": "HUST-SLOW",
                 "repo": "AnomalyNCD",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2879,7 +2952,7 @@
                 "open_issues": 0,
                 "owner": "Chopper-233",
                 "repo": "Physics-AD",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3012,11 +3085,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T09:50:31Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-04T02:20:06Z",
+            "open_issues": 98,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6359,
+            "stars": 6361,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3638,7 +3711,7 @@
                     "open_issues": 2,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -3890,7 +3963,7 @@
                     "open_issues": 9,
                     "owner": "cool-xuan",
                     "repo": "msflow",
-                    "stars": 90,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4002,7 +4075,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1436,
+                    "stars": 1435,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4294,7 +4367,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1150,
+                    "stars": 1151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4573,6 +4646,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TED: Text-Axis Evidence Decomposition for Prompted Anomaly Localization [NeurIPS 2026 Poster]",
+                  "description": "barraki72268-sketch/TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1391606682,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-13T05:53:41Z",
+                    "open_issues": 1,
+                    "owner": "barraki72268-sketch",
+                    "repo": "TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-04T13:06:21.125Z"
                 }
               ],
               "description": null,
@@ -5227,7 +5321,7 @@
                     "open_issues": 2,
                     "owner": "blaz-r",
                     "repo": "SuperSimpleNet",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -5656,7 +5750,7 @@
                     "open_issues": 12,
                     "owner": "caoyunkang",
                     "repo": "Segment-Any-Anomaly",
-                    "stars": 841,
+                    "stars": 840,
                     "topics": [
                       "anomaly-detection",
                       "foundation",
@@ -5709,27 +5803,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [TPAMI 2026]",
-                  "description": "HUST-SLOW/MuSc-V2",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[TPAMI2026] MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples. Paper is avaliable at https://ieeexplore.ieee.org/document/11498451 and https://arxiv.org/abs/2511.10047",
-                    "homepage": null,
-                    "id": 1096155917,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-05-14T03:48:21Z",
-                    "open_issues": 4,
-                    "owner": "HUST-SLOW",
-                    "repo": "MuSc-V2",
-                    "stars": 330,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [ECCV 2024]",
                   "description": "caoyunkang/AdaCLIP",
                   "children": [],
@@ -5744,6 +5817,27 @@
                     "open_issues": 38,
                     "owner": "caoyunkang",
                     "repo": "AdaCLIP",
+                    "stars": 318,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [TPAMI 2026]",
+                  "description": "HUST-SLOW/MuSc-V2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[TPAMI2026] MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples. Paper is avaliable at https://ieeexplore.ieee.org/document/11498451 and https://arxiv.org/abs/2511.10047",
+                    "homepage": null,
+                    "id": 1096155917,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-05-14T03:48:21Z",
+                    "open_issues": 4,
+                    "owner": "HUST-SLOW",
+                    "repo": "MuSc-V2",
                     "stars": 318,
                     "topics": []
                   },
@@ -6107,7 +6201,7 @@
                     "open_issues": 1,
                     "owner": "Xi-Mu-Yu",
                     "repo": "FB-CLIP",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6177,7 +6271,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1150,
+                    "stars": 1151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6293,7 +6387,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 105,
+                    "stars": 106,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6331,7 +6425,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 105,
+                    "stars": 106,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6695,6 +6789,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Beyond Normal References: Discriminative Few-Shot Anomaly Detection [NeurIPS 2026]",
+                  "description": "mala-lab/IDEAL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS 2026] Beyond Normal References: Discriminative Few-Shot Anomaly Detection",
+                    "homepage": "https://arxiv.org/abs/2605.23231",
+                    "id": 1238631655,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-30T05:46:33Z",
+                    "open_issues": 2,
+                    "owner": "mala-lab",
+                    "repo": "IDEAL",
+                    "stars": 8,
+                    "topics": [
+                      "anomaly-detection",
+                      "few-shot-anomaly-detection"
+                    ]
+                  },
+                  "first_seen": "2026-11-04T13:06:21.125Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples [2024]",
                   "description": "YoojLee/AnoPLe",
                   "children": [],
@@ -7033,7 +7151,7 @@
                 "open_issues": 2,
                 "owner": "blaz-r",
                 "repo": "SuperSimpleNet",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -7186,7 +7304,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2026-03-26T02:19:20Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "echrao",
                 "repo": "O2MAG",
                 "stars": 84,
@@ -7593,7 +7711,7 @@
                 "open_issues": 22,
                 "owner": "wynoxos",
                 "repo": "M3DM",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7614,7 +7732,7 @@
                 "open_issues": 10,
                 "owner": "eliahuhorwitz",
                 "repo": "3D-ADS",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -7805,7 +7923,7 @@
                 "open_issues": 4,
                 "owner": "HUST-SLOW",
                 "repo": "MuSc-V2",
-                "stars": 330,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8175,6 +8293,27 @@
             },
             {
               "node_type": "item",
+              "title": "Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling [NeurIPS 2026]",
+              "description": "VisualScienceLab-KHU/GRIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1390811134,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-27T12:43:38Z",
+                "open_issues": 2,
+                "owner": "VisualScienceLab-KHU",
+                "repo": "GRIM",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-04T13:06:21.125Z"
+            },
+            {
+              "node_type": "item",
               "title": "IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [ECCV 2026]",
               "description": "HULEI7/IMMoE",
               "children": [],
@@ -8217,7 +8356,7 @@
                 "open_issues": 0,
                 "owner": "jiaq-liu",
                 "repo": "UCAD",
-                "stars": 121,
+                "stars": 120,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -8332,7 +8471,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-29T18:58:51Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Continue-Edge-AI-Lab",
                 "repo": "Rethinking-Continual-AD",
                 "stars": 7,
@@ -9144,7 +9283,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9165,7 +9304,7 @@
                 "open_issues": 2,
                 "owner": "jam-cc",
                 "repo": "MMAD",
-                "stars": 278,
+                "stars": 280,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9411,7 +9550,7 @@
                 "open_issues": 0,
                 "owner": "Chopper-233",
                 "repo": "Physics-AD",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9441,7 +9580,7 @@
                     "open_issues": 11,
                     "owner": "HUST-SLOW",
                     "repo": "AnomalyNCD",
-                    "stars": 170,
+                    "stars": 171,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9685,7 +9824,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 570,
+            "stars": 571,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9891,7 +10030,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 570,
+            "stars": 571,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9954,7 +10093,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 278,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10651,7 +10790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:53:19.246Z",
+    "last_updated": "2026-11-04T13:06:21.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10659,7 +10798,7 @@
       "id": 573313337,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-23T04:56:05Z",
+      "last_commit": "2026-11-04T08:58:18Z",
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
@@ -10675,7 +10814,7 @@
         "medical"
       ]
     },
-    "original_repository_sha": "d89ca8fbd31cd88c7f1eca3982e109acce4dee61",
+    "original_repository_sha": "cb3c22b3497127bbf76d36bcdb3fec627b6b487d",
     "enhanced_repository": "enhansome/enhansome-industrial-anomaly-detection",
     "enhanced_repository_description": null,
     "title": "Awesome Industrial Anomaly Detection with stars"
