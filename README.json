@@ -153,7 +153,7 @@
             "open_issues": 0,
             "owner": "sgstq0811",
             "repo": "VerdictAD-Jev-AD",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-11-05T13:20:09.185Z"
@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1435,
+            "stars": 1437,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -780,7 +780,7 @@
             "open_issues": 10,
             "owner": "MaticFuc",
             "repo": "SALAD",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -831,11 +831,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T02:20:06Z",
+            "last_commit": "2026-11-06T10:57:37Z",
             "open_issues": 98,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6362,
+            "stars": 6368,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1470,7 +1470,7 @@
                 "open_issues": 2,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1558,7 +1558,7 @@
                 "open_issues": 2,
                 "owner": "MaticFuc",
                 "repo": "AnomalyVFM",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "anomaly-detection",
                   "cvpr",
@@ -1648,7 +1648,7 @@
                 "open_issues": 6,
                 "owner": "Mingxiu-Cai",
                 "repo": "RAID",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1865,7 +1865,7 @@
                 "open_issues": 5,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -2005,7 +2005,7 @@
                 "open_issues": 2,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyMoE",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2294,7 +2294,7 @@
                 "open_issues": 21,
                 "owner": "HUST-SLOW",
                 "repo": "SeaS",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2357,7 +2357,7 @@
                 "open_issues": 10,
                 "owner": "MaticFuc",
                 "repo": "SALAD",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -2453,7 +2453,7 @@
                 "open_issues": 0,
                 "owner": "hjf02",
                 "repo": "RareCLIP",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2586,7 +2586,7 @@
                 "open_issues": 1,
                 "owner": "ZHE-SAPI",
                 "repo": "CostFilter-AD",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3106,11 +3106,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T02:20:06Z",
+            "last_commit": "2026-11-06T10:57:37Z",
             "open_issues": 98,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6362,
+            "stars": 6368,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -4096,7 +4096,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1435,
+                    "stars": 1437,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4209,7 +4209,7 @@
                     "open_issues": 6,
                     "owner": "Mingxiu-Cai",
                     "repo": "RAID",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4406,7 +4406,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-07-08T10:59:38Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
                     "stars": 681,
@@ -5793,7 +5793,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-07-08T10:59:38Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "zqhang",
                     "repo": "AnomalyCLIP",
                     "stars": 681,
@@ -6016,7 +6016,7 @@
                     "open_issues": 2,
                     "owner": "MaticFuc",
                     "repo": "AnomalyVFM",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": [
                       "anomaly-detection",
                       "cvpr",
@@ -6387,7 +6387,7 @@
                     "open_issues": 21,
                     "owner": "HUST-SLOW",
                     "repo": "SeaS",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6408,7 +6408,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6446,7 +6446,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6824,7 +6824,7 @@
                     "open_issues": 0,
                     "owner": "sgstq0811",
                     "repo": "VerdictAD-Jev-AD",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-11-05T13:20:09.185Z"
@@ -8444,7 +8444,7 @@
                 "open_issues": 2,
                 "owner": "jqtangust",
                 "repo": "IUF",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "anomaly",
                   "anomaly-detection",
@@ -8697,7 +8697,7 @@
                 "open_issues": 2,
                 "owner": "jqtangust",
                 "repo": "IUF",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "anomaly",
                   "anomaly-detection",
@@ -9075,7 +9075,7 @@
                 "open_issues": 10,
                 "owner": "MaticFuc",
                 "repo": "SALAD",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -9724,7 +9724,28 @@
                     "open_issues": 1,
                     "owner": "ZHE-SAPI",
                     "repo": "CostFilter-AD",
-                    "stars": 96,
+                    "stars": 97,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [AAAI 2025]",
+                  "description": "CASIA-LMC-Lab/AnomalyMoE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[AAAI 2026] AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection",
+                    "homepage": null,
+                    "id": 1097533423,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2025-11-17T02:47:13Z",
+                    "open_issues": 2,
+                    "owner": "CASIA-LMC-Lab",
+                    "repo": "AnomalyMoE",
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9746,27 +9767,6 @@
                     "owner": "cnulab",
                     "repo": "UniADC",
                     "stars": 33,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [AAAI 2025]",
-                  "description": "CASIA-LMC-Lab/AnomalyMoE",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[AAAI 2026] AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection",
-                    "homepage": null,
-                    "id": 1097533423,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2025-11-17T02:47:13Z",
-                    "open_issues": 2,
-                    "owner": "CASIA-LMC-Lab",
-                    "repo": "AnomalyMoE",
-                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10030,7 +10030,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10156,7 +10156,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10334,7 +10334,7 @@
             "open_issues": 5,
             "owner": "zhangzilongc",
             "repo": "MMR",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10832,7 +10832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:20:09.185Z",
+    "last_updated": "2026-11-06T13:03:35.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10844,7 +10844,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3850,
+      "stars": 3853,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
