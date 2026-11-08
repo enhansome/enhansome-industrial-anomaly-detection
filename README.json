@@ -574,7 +574,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-07-13T09:38:08Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "TencentYoutuResearch",
             "repo": "AnomalyDetection-SoftPatch",
             "stars": 100,
@@ -853,10 +853,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T02:20:34Z",
-            "open_issues": 99,
+            "open_issues": 103,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6370,
+            "stars": 6375,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1078,7 +1078,7 @@
                 "open_issues": 1,
                 "owner": "LGC-AD",
                 "repo": "ArcAD",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2406,7 +2406,7 @@
                 "open_issues": 3,
                 "owner": "mala-lab",
                 "repo": "FAPrompt",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "anomaly-detection",
                   "prompt-learning",
@@ -3128,10 +3128,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T02:20:34Z",
-            "open_issues": 99,
+            "open_issues": 103,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6370,
+            "stars": 6375,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -5557,7 +5557,7 @@
                     "open_issues": 1,
                     "owner": "LGC-AD",
                     "repo": "ArcAD",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6148,7 +6148,7 @@
                     "open_issues": 3,
                     "owner": "mala-lab",
                     "repo": "FAPrompt",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": [
                       "anomaly-detection",
                       "prompt-learning",
@@ -6941,7 +6941,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-07-13T09:38:08Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "TencentYoutuResearch",
                 "repo": "AnomalyDetection-SoftPatch",
                 "stars": 100,
@@ -6962,7 +6962,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-07-13T09:38:08Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "TencentYoutuResearch",
                 "repo": "AnomalyDetection-SoftPatch",
                 "stars": 100,
@@ -9908,7 +9908,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 571,
+            "stars": 573,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10114,7 +10114,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 571,
+            "stars": 573,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10874,7 +10874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:49:17.640Z",
+    "last_updated": "2026-11-08T12:00:21.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10886,7 +10886,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3853,
+      "stars": 3854,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
