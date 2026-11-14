@@ -239,7 +239,7 @@
             "open_issues": 6,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -287,7 +287,7 @@
             "open_issues": 30,
             "owner": "DonaldRR",
             "repo": "SimpleNet",
-            "stars": 607,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -853,7 +853,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T12:38:08Z",
-            "open_issues": 120,
+            "open_issues": 121,
             "owner": "open-edge-platform",
             "repo": "anomalib",
             "stars": 6396,
@@ -1008,7 +1008,7 @@
                 "open_issues": 2,
                 "owner": "VisualScienceLab-KHU",
                 "repo": "GRIM",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-11-04T13:06:21.125Z"
@@ -1159,7 +1159,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-06-25T10:25:29Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "HUST-SLOW",
                 "repo": "UniScale",
                 "stars": 9,
@@ -1537,7 +1537,7 @@
                 "open_issues": 0,
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 145,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2357,7 +2357,7 @@
                 "open_issues": 1,
                 "owner": "xiaozhen228",
                 "repo": "DictAS",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2474,7 +2474,7 @@
                 "open_issues": 0,
                 "owner": "hjf02",
                 "repo": "RareCLIP",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3128,7 +3128,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T12:38:08Z",
-            "open_issues": 120,
+            "open_issues": 121,
             "owner": "open-edge-platform",
             "repo": "anomalib",
             "stars": 6396,
@@ -3157,10 +3157,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-12-01T10:40:18Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1087,
+            "stars": 1088,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -3663,7 +3663,7 @@
                     "open_issues": 30,
                     "owner": "DonaldRR",
                     "repo": "SimpleNet",
-                    "stars": 607,
+                    "stars": 608,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7436,7 +7436,7 @@
                 "open_issues": 1,
                 "owner": "xiaozhen228",
                 "repo": "DictAS",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7605,7 +7605,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-06-25T10:25:29Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "HUST-SLOW",
                 "repo": "UniScale",
                 "stars": 9,
@@ -8391,7 +8391,7 @@
                 "open_issues": 2,
                 "owner": "VisualScienceLab-KHU",
                 "repo": "GRIM",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-11-04T13:06:21.125Z"
@@ -9745,7 +9745,7 @@
                     "open_issues": 6,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10874,7 +10874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:15:18.788Z",
+    "last_updated": "2026-11-14T12:19:16.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
