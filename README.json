@@ -89,7 +89,7 @@
             "open_issues": 1,
             "owner": "M-3LAB",
             "repo": "awesome-anomaly-synthesis",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "anomaly-detection",
               "anomaly-synthesis",
@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "3d",
               "anomaly-detection",
@@ -216,7 +216,7 @@
             "open_issues": 31,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "anomaly-detection"
             ]
@@ -336,7 +336,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1443,
+            "stars": 1444,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -853,7 +853,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T12:38:08Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "open-edge-platform",
             "repo": "anomalib",
             "stars": 6396,
@@ -913,7 +913,7 @@
             "open_issues": 39,
             "owner": "zhangzjn",
             "repo": "ADer",
-            "stars": 353,
+            "stars": 354,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1295,6 +1295,27 @@
             },
             {
               "node_type": "item",
+              "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
+              "description": "evoLonation/DeMuS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1282207646,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-30T03:20:06Z",
+                "open_issues": 1,
+                "owner": "evoLonation",
+                "repo": "DeMuS",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
               "title": "Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [ECCV 2026]",
               "description": "tzjtatata/SCAN",
               "children": [],
@@ -1330,27 +1351,6 @@
                 "open_issues": 0,
                 "owner": "wangzhaoyang-508",
                 "repo": "FuDU",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-09-20T09:52:50.611Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
-              "description": "evoLonation/DeMuS",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1282207646,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-30T03:20:06Z",
-                "open_issues": 1,
-                "owner": "evoLonation",
-                "repo": "DeMuS",
                 "stars": 1,
                 "topics": []
               },
@@ -1418,7 +1418,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T15:00:29Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "longkukuhi",
                 "repo": "RAD",
                 "stars": 95,
@@ -1924,7 +1924,7 @@
                 "open_issues": 4,
                 "owner": "CROVO1026",
                 "repo": "MRAD",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2607,7 +2607,7 @@
                 "open_issues": 1,
                 "owner": "ZHE-SAPI",
                 "repo": "CostFilter-AD",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2635,7 +2635,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -3128,7 +3128,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T12:38:08Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "open-edge-platform",
             "repo": "anomalib",
             "stars": 6396,
@@ -3160,7 +3160,7 @@
             "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1088,
+            "stars": 1094,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -4117,7 +4117,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1443,
+                    "stars": 1444,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6106,7 +6106,7 @@
                     "open_issues": 4,
                     "owner": "CROVO1026",
                     "repo": "MRAD",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6285,7 +6285,7 @@
                     "open_issues": 1,
                     "owner": "evoLonation",
                     "repo": "DeMuS",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-09-20T09:52:50.611Z"
@@ -7767,7 +7767,7 @@
             "open_issues": 1,
             "owner": "M-3LAB",
             "repo": "awesome-anomaly-synthesis",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "anomaly-detection",
               "anomaly-synthesis",
@@ -8628,7 +8628,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -8651,7 +8651,7 @@
                 "open_issues": 39,
                 "owner": "zhangzjn",
                 "repo": "ADer",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9766,7 +9766,7 @@
                     "open_issues": 1,
                     "owner": "ZHE-SAPI",
                     "repo": "CostFilter-AD",
-                    "stars": 97,
+                    "stars": 98,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10874,7 +10874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:19:16.394Z",
+    "last_updated": "2026-11-15T12:51:17.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10886,7 +10886,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3862,
+      "stars": 3861,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
