@@ -149,7 +149,7 @@
             "id": 1442588420,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T12:07:35Z",
+            "last_commit": "2026-11-18T10:58:07Z",
             "open_issues": 0,
             "owner": "sgstq0811",
             "repo": "VerdictAD-Jev-AD",
@@ -216,7 +216,7 @@
             "open_issues": 31,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "anomaly-detection"
             ]
@@ -287,7 +287,7 @@
             "open_issues": 30,
             "owner": "DonaldRR",
             "repo": "SimpleNet",
-            "stars": 608,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -336,7 +336,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1447,
+            "stars": 1452,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -852,11 +852,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T14:16:39Z",
+            "last_commit": "2026-11-18T02:17:12Z",
             "open_issues": 112,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6403,
+            "stars": 6405,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1267,7 +1267,7 @@
                 "open_issues": 1,
                 "owner": "DeclanMcIntosh",
                 "repo": "BAAF",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-20T09:52:50.611Z"
@@ -1417,7 +1417,7 @@
                 "id": 1143144072,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T15:00:29Z",
+                "last_commit": "2026-11-18T13:24:34Z",
                 "open_issues": 2,
                 "owner": "longkukuhi",
                 "repo": "RAD",
@@ -1491,7 +1491,7 @@
                 "open_issues": 2,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1537,7 +1537,7 @@
                 "open_issues": 0,
                 "owner": "7HHHHH",
                 "repo": "VisualAD",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1558,7 +1558,7 @@
                 "open_issues": 7,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2002,7 +2002,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-09T02:59:07Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
                 "stars": 102,
@@ -2635,7 +2635,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -3127,11 +3127,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T14:16:39Z",
+            "last_commit": "2026-11-18T02:17:12Z",
             "open_issues": 112,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6403,
+            "stars": 6405,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3663,7 +3663,7 @@
                     "open_issues": 30,
                     "owner": "DonaldRR",
                     "repo": "SimpleNet",
-                    "stars": 608,
+                    "stars": 609,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3886,7 +3886,7 @@
                     "open_issues": 1,
                     "owner": "DeclanMcIntosh",
                     "repo": "BAAF",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-09-20T09:52:50.611Z"
@@ -4117,7 +4117,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1447,
+                    "stars": 1452,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4138,7 +4138,7 @@
                     "open_issues": 26,
                     "owner": "xiahaifeng1995",
                     "repo": "PaDiM-Anomaly-Detection-Localization-master",
-                    "stars": 494,
+                    "stars": 495,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-localization",
@@ -5838,7 +5838,7 @@
                     "open_issues": 33,
                     "owner": "xrli-U",
                     "repo": "MuSc",
-                    "stars": 437,
+                    "stars": 436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5992,7 +5992,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2025-12-09T02:59:07Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "Yanhui-Lee",
                     "repo": "IAD-R1",
                     "stars": 102,
@@ -6820,7 +6820,7 @@
                     "id": 1442588420,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T12:07:35Z",
+                    "last_commit": "2026-11-18T10:58:07Z",
                     "open_issues": 0,
                     "owner": "sgstq0811",
                     "repo": "VerdictAD-Jev-AD",
@@ -7345,7 +7345,7 @@
                 "open_issues": 7,
                 "owner": "echrao",
                 "repo": "O2MAG",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8628,7 +8628,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -9427,7 +9427,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-09T02:59:07Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "Yanhui-Lee",
                 "repo": "IAD-R1",
                 "stars": 102,
@@ -9908,7 +9908,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 579,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10114,7 +10114,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 579,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10156,7 +10156,7 @@
             "open_issues": 5,
             "owner": "InsulatorData",
             "repo": "InsulatorDataSet",
-            "stars": 364,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10874,7 +10874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:41:25.793Z",
+    "last_updated": "2026-11-18T14:19:37.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10886,7 +10886,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3865,
+      "stars": 3866,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
