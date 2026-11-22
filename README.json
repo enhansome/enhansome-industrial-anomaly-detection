@@ -216,7 +216,7 @@
             "open_issues": 31,
             "owner": "guojiajeremy",
             "repo": "Dinomaly",
-            "stars": 552,
+            "stars": 554,
             "topics": [
               "anomaly-detection"
             ]
@@ -239,7 +239,7 @@
             "open_issues": 6,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -856,7 +856,7 @@
             "open_issues": 116,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6414,
+            "stars": 6416,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1057,7 +1057,7 @@
                 "open_issues": 0,
                 "owner": "Junhaocai27",
                 "repo": "CMDS-AD",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1886,7 +1886,7 @@
                 "open_issues": 5,
                 "owner": "ymxlzgy",
                 "repo": "FoundAD",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-detection-algorithm",
@@ -2635,7 +2635,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 552,
+                "stars": 554,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -2658,7 +2658,7 @@
                 "open_issues": 45,
                 "owner": "luow23",
                 "repo": "INP-Former",
-                "stars": 333,
+                "stars": 334,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3131,7 +3131,7 @@
             "open_issues": 116,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6414,
+            "stars": 6416,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -5880,7 +5880,7 @@
                     "open_issues": 38,
                     "owner": "caoyunkang",
                     "repo": "AdaCLIP",
-                    "stars": 318,
+                    "stars": 319,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6429,7 +6429,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6467,7 +6467,7 @@
                     "open_issues": 5,
                     "owner": "ymxlzgy",
                     "repo": "FoundAD",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -6761,7 +6761,7 @@
                     "open_issues": 0,
                     "owner": "Junhaocai27",
                     "repo": "CMDS-AD",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -8628,7 +8628,7 @@
                 "open_issues": 31,
                 "owner": "guojiajeremy",
                 "repo": "Dinomaly",
-                "stars": 552,
+                "stars": 554,
                 "topics": [
                   "anomaly-detection"
                 ]
@@ -9522,7 +9522,7 @@
                 "open_issues": 2,
                 "owner": "mala-lab",
                 "repo": "AnomalyAgent",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9745,7 +9745,7 @@
                     "open_issues": 6,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 144,
+                    "stars": 145,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10072,7 +10072,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 277,
+            "stars": 278,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10198,7 +10198,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 277,
+            "stars": 278,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10240,7 +10240,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10874,7 +10874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:35:29.565Z",
+    "last_updated": "2026-11-22T13:27:44.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10886,7 +10886,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3866,
+      "stars": 3868,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
