@@ -195,7 +195,7 @@
             "open_issues": 21,
             "owner": "hq-deng",
             "repo": "RD4AD",
-            "stars": 260,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -239,7 +239,7 @@
             "open_issues": 6,
             "owner": "guojiajeremy",
             "repo": "Dinomaly2",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -336,7 +336,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1455,
+            "stars": 1456,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -357,7 +357,7 @@
             "open_issues": 18,
             "owner": "VitjanZ",
             "repo": "DRAEM",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -420,7 +420,7 @@
             "open_issues": 79,
             "owner": "cnulab",
             "repo": "RealNet",
-            "stars": 425,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -852,11 +852,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T15:33:14Z",
-            "open_issues": 117,
+            "last_commit": "2026-11-25T14:29:27Z",
+            "open_issues": 116,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6422,
+            "stars": 6430,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -1099,7 +1099,7 @@
                 "open_issues": 1,
                 "owner": "cnulab",
                 "repo": "LogiCo",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1491,7 +1491,7 @@
                 "open_issues": 2,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1708,7 +1708,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-22T01:18:02Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
                 "stars": 25,
@@ -1924,7 +1924,7 @@
                 "open_issues": 4,
                 "owner": "CROVO1026",
                 "repo": "MRAD",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2315,7 +2315,7 @@
                 "open_issues": 21,
                 "owner": "HUST-SLOW",
                 "repo": "SeaS",
-                "stars": 167,
+                "stars": 168,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2742,7 +2742,7 @@
                 "open_issues": 12,
                 "owner": "yinyjin",
                 "repo": "DualAnoDiff",
-                "stars": 166,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -2784,7 +2784,7 @@
                 "open_issues": 5,
                 "owner": "fengyan-cv",
                 "repo": "WPFormer",
-                "stars": 114,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3127,11 +3127,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T15:33:14Z",
-            "open_issues": 117,
+            "last_commit": "2026-11-25T14:29:27Z",
+            "open_issues": 116,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6422,
+            "stars": 6430,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3228,12 +3228,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "HiAD: A General Framework for High-Resolution Anomaly Detection（通用的高分辨率异常检测框架）",
+            "description": "HiAD: A General Framework for High-Resolution Anomaly Detection，通用的高分辨率异常检测框架 (T-IP 2026)",
             "homepage": null,
             "id": 1039280521,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-02-05T01:57:13Z",
+            "last_commit": "2026-11-25T05:47:27Z",
             "open_issues": 5,
             "owner": "cnulab",
             "repo": "HiAD",
@@ -3279,7 +3279,7 @@
             "open_issues": 1,
             "owner": "Sunny5250",
             "repo": "Awesome-Multi-Setting-UIAD",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "anomaly-detection",
               "dataset",
@@ -3454,7 +3454,7 @@
                     "open_issues": 21,
                     "owner": "hq-deng",
                     "repo": "RD4AD",
-                    "stars": 260,
+                    "stars": 261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3684,7 +3684,7 @@
                     "open_issues": 5,
                     "owner": "cqylunlun",
                     "repo": "GLASS",
-                    "stars": 401,
+                    "stars": 402,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4117,7 +4117,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1455,
+                    "stars": 1456,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4740,7 +4740,7 @@
                     "open_issues": 79,
                     "owner": "cnulab",
                     "repo": "RealNet",
-                    "stars": 425,
+                    "stars": 424,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4761,7 +4761,7 @@
                     "open_issues": 18,
                     "owner": "VitjanZ",
                     "repo": "DRAEM",
-                    "stars": 300,
+                    "stars": 301,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5342,7 +5342,7 @@
                     "open_issues": 52,
                     "owner": "sjtuplayer",
                     "repo": "anomalydiffusion",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -5681,6 +5681,41 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [JIMS 2026]",
+                  "description": "[code][data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official ISP-AD Dataset repository, providing PyTorch & Anomalib evaluation pipelines for industrial visual anomaly detection.",
+                    "homepage": null,
+                    "id": 1295176438,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-07-10T14:43:27Z",
+                    "open_issues": 0,
+                    "owner": "p4ulk",
+                    "repo": "isp-ad",
+                    "stars": 3,
+                    "topics": [
+                      "anomalib",
+                      "anomaly-detection",
+                      "computer-vision",
+                      "dataset",
+                      "deep-learning",
+                      "defect-detection",
+                      "industrial-anomaly-detection",
+                      "industrial-inspection",
+                      "pytorch",
+                      "self-supervised-learning",
+                      "supervised-learning",
+                      "synthetic-data",
+                      "unsupervised-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [ECCV 2026]",
                   "description": "CROVO1026/DeltaDeno",
                   "children": [],
@@ -5720,41 +5755,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-09-20T09:52:50.611Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [JIMS 2026]",
-                  "description": "[code][data]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official ISP-AD Dataset repository, providing PyTorch & Anomalib evaluation pipelines for industrial visual anomaly detection.",
-                    "homepage": null,
-                    "id": 1295176438,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-07-10T14:43:27Z",
-                    "open_issues": 0,
-                    "owner": "p4ulk",
-                    "repo": "isp-ad",
-                    "stars": 2,
-                    "topics": [
-                      "anomalib",
-                      "anomaly-detection",
-                      "computer-vision",
-                      "dataset",
-                      "deep-learning",
-                      "defect-detection",
-                      "industrial-anomaly-detection",
-                      "industrial-inspection",
-                      "pytorch",
-                      "self-supervised-learning",
-                      "supervised-learning",
-                      "synthetic-data",
-                      "unsupervised-learning"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
                 }
               ],
               "description": null,
@@ -6106,7 +6106,7 @@
                     "open_issues": 4,
                     "owner": "CROVO1026",
                     "repo": "MRAD",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6408,7 +6408,7 @@
                     "open_issues": 21,
                     "owner": "HUST-SLOW",
                     "repo": "SeaS",
-                    "stars": 167,
+                    "stars": 168,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7082,7 +7082,7 @@
                 "open_issues": 79,
                 "owner": "cnulab",
                 "repo": "RealNet",
-                "stars": 425,
+                "stars": 424,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7103,7 +7103,7 @@
                 "open_issues": 5,
                 "owner": "cqylunlun",
                 "repo": "GLASS",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7124,7 +7124,7 @@
                 "open_issues": 52,
                 "owner": "sjtuplayer",
                 "repo": "anomalydiffusion",
-                "stars": 334,
+                "stars": 335,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7166,7 +7166,7 @@
                 "open_issues": 18,
                 "owner": "VitjanZ",
                 "repo": "DRAEM",
-                "stars": 300,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7678,6 +7678,41 @@
             },
             {
               "node_type": "item",
+              "title": "ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [JIMS 2026]",
+              "description": "[code][data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official ISP-AD Dataset repository, providing PyTorch & Anomalib evaluation pipelines for industrial visual anomaly detection.",
+                "homepage": null,
+                "id": 1295176438,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-10T14:43:27Z",
+                "open_issues": 0,
+                "owner": "p4ulk",
+                "repo": "isp-ad",
+                "stars": 3,
+                "topics": [
+                  "anomalib",
+                  "anomaly-detection",
+                  "computer-vision",
+                  "dataset",
+                  "deep-learning",
+                  "defect-detection",
+                  "industrial-anomaly-detection",
+                  "industrial-inspection",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "supervised-learning",
+                  "synthetic-data",
+                  "unsupervised-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:13.771Z"
+            },
+            {
+              "node_type": "item",
               "title": "Structured guided diffusion models for industrial defect image generation [KBS 2025]",
               "description": "xieyulai/Structured-DGM",
               "children": [],
@@ -7715,41 +7750,6 @@
                 "repo": "ASBench",
                 "stars": 2,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:13.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [JIMS 2026]",
-              "description": "[code][data]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official ISP-AD Dataset repository, providing PyTorch & Anomalib evaluation pipelines for industrial visual anomaly detection.",
-                "homepage": null,
-                "id": 1295176438,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-10T14:43:27Z",
-                "open_issues": 0,
-                "owner": "p4ulk",
-                "repo": "isp-ad",
-                "stars": 2,
-                "topics": [
-                  "anomalib",
-                  "anomaly-detection",
-                  "computer-vision",
-                  "dataset",
-                  "deep-learning",
-                  "defect-detection",
-                  "industrial-anomaly-detection",
-                  "industrial-inspection",
-                  "pytorch",
-                  "self-supervised-learning",
-                  "supervised-learning",
-                  "synthetic-data",
-                  "unsupervised-learning"
-                ]
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             }
@@ -8178,7 +8178,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-22T01:18:02Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
                 "stars": 25,
@@ -8465,7 +8465,7 @@
                 "open_issues": 0,
                 "owner": "HULEI7",
                 "repo": "ReplayCAD",
-                "stars": 59,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9234,7 +9234,7 @@
                 "open_issues": 1,
                 "owner": "cnulab",
                 "repo": "LogiCo",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9745,7 +9745,7 @@
                     "open_issues": 6,
                     "owner": "guojiajeremy",
                     "repo": "Dinomaly2",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9992,7 +9992,7 @@
             "open_issues": 5,
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "anomaly-detection",
               "benchmark",
@@ -10135,7 +10135,7 @@
             "open_issues": 5,
             "owner": "cqylunlun",
             "repo": "GLASS",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10240,7 +10240,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 184,
+            "stars": 186,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10397,7 +10397,7 @@
             "open_issues": 5,
             "owner": "EricLee0224",
             "repo": "PAD",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "anomaly-detection",
               "benchmark",
@@ -10794,6 +10794,41 @@
         },
         {
           "node_type": "item",
+          "title": "ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [JIMS 2026]",
+          "description": "[code][data]✨",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official ISP-AD Dataset repository, providing PyTorch & Anomalib evaluation pipelines for industrial visual anomaly detection.",
+            "homepage": null,
+            "id": 1295176438,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-10T14:43:27Z",
+            "open_issues": 0,
+            "owner": "p4ulk",
+            "repo": "isp-ad",
+            "stars": 3,
+            "topics": [
+              "anomalib",
+              "anomaly-detection",
+              "computer-vision",
+              "dataset",
+              "deep-learning",
+              "defect-detection",
+              "industrial-anomaly-detection",
+              "industrial-inspection",
+              "pytorch",
+              "self-supervised-learning",
+              "supervised-learning",
+              "synthetic-data",
+              "unsupervised-learning"
+            ]
+          },
+          "first_seen": "2026-08-28T17:30:13.771Z"
+        },
+        {
+          "node_type": "item",
           "title": "PeanutAD: A Real-World Dataset for Anomaly Detection in Agricultural Product Processing Line [2024]",
           "description": "TCV0257/PeanutAD",
           "children": [],
@@ -10833,48 +10868,13 @@
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [JIMS 2026]",
-          "description": "[code][data]✨",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official ISP-AD Dataset repository, providing PyTorch & Anomalib evaluation pipelines for industrial visual anomaly detection.",
-            "homepage": null,
-            "id": 1295176438,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-10T14:43:27Z",
-            "open_issues": 0,
-            "owner": "p4ulk",
-            "repo": "isp-ad",
-            "stars": 2,
-            "topics": [
-              "anomalib",
-              "anomaly-detection",
-              "computer-vision",
-              "dataset",
-              "deep-learning",
-              "defect-detection",
-              "industrial-anomaly-detection",
-              "industrial-inspection",
-              "pytorch",
-              "self-supervised-learning",
-              "supervised-learning",
-              "synthetic-data",
-              "unsupervised-learning"
-            ]
-          },
-          "first_seen": "2026-08-28T17:30:13.771Z"
         }
       ],
       "title": "4 Dataset"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:00:19.656Z",
+    "last_updated": "2026-11-25T15:48:41.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10886,7 +10886,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3868,
+      "stars": 3871,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
