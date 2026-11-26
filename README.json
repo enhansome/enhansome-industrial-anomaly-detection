@@ -68,7 +68,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 280,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -110,7 +110,7 @@
             "id": 1090905215,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-23T10:38:29Z",
+            "last_commit": "2026-11-26T12:30:11Z",
             "open_issues": 0,
             "owner": "M-3LAB",
             "repo": "awesome-3d-anomaly-detection",
@@ -336,7 +336,7 @@
             "open_issues": 84,
             "owner": "amazon-science",
             "repo": "patchcore-inspection",
-            "stars": 1456,
+            "stars": 1457,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -462,7 +462,7 @@
             "open_issues": 61,
             "owner": "CASIA-LMC-Lab",
             "repo": "AnomalyGPT",
-            "stars": 1155,
+            "stars": 1156,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -755,7 +755,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 838,
+            "stars": 837,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -852,11 +852,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T14:29:27Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-26T12:38:51Z",
+            "open_issues": 107,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6430,
+            "stars": 6434,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -934,7 +934,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 280,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1025,7 +1025,7 @@
                 "id": 1391606682,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-13T05:53:41Z",
+                "last_commit": "2026-11-26T02:43:23Z",
                 "open_issues": 1,
                 "owner": "barraki72268-sketch",
                 "repo": "TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization",
@@ -1111,12 +1111,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
-                "homepage": null,
+                "description": "[ECCV 2026] Official Code of: \"ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection\"",
+                "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10303.pdf",
                 "id": 1280980676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-17T13:16:43Z",
+                "last_commit": "2026-11-26T14:10:07Z",
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "ReFP-AD",
@@ -1274,27 +1274,6 @@
             },
             {
               "node_type": "item",
-              "title": "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [ECCV 2026]",
-              "description": "CROVO1026/DeltaDeno",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation for DeltaDeno",
-                "homepage": null,
-                "id": 1276489624,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-06-25T12:42:02Z",
-                "open_issues": 1,
-                "owner": "CROVO1026",
-                "repo": "DeltaDeno",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-09-20T09:52:50.611Z"
-            },
-            {
-              "node_type": "item",
               "title": "DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [ECCV 2026]",
               "description": "evoLonation/DeMuS",
               "children": [],
@@ -1309,6 +1288,27 @@
                 "open_issues": 1,
                 "owner": "evoLonation",
                 "repo": "DeMuS",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T09:52:50.611Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [ECCV 2026]",
+              "description": "CROVO1026/DeltaDeno",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation for DeltaDeno",
+                "homepage": null,
+                "id": 1276489624,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-25T12:42:02Z",
+                "open_issues": 1,
+                "owner": "CROVO1026",
+                "repo": "DeltaDeno",
                 "stars": 2,
                 "topics": []
               },
@@ -1482,8 +1482,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
-                "homepage": null,
+                "description": "[CVPR 2026] Official Code of: \"SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling\"",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2026/html/Lendering_SubspaceAD_Training-Free_Few-Shot_Anomaly_Detection_via_Subspace_Modeling_CVPR_2026_paper.html",
                 "id": 1167457013,
                 "language": "Python",
                 "license": "Apache-2.0",
@@ -1491,7 +1491,7 @@
                 "open_issues": 2,
                 "owner": "CLendering",
                 "repo": "SubspaceAD",
-                "stars": 294,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -1555,7 +1555,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2026-03-26T02:19:20Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "echrao",
                 "repo": "O2MAG",
                 "stars": 90,
@@ -1708,7 +1708,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-22T01:18:02Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
                 "stars": 25,
@@ -2230,12 +2230,16 @@
                 "id": 1061603459,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-11-21T03:04:17Z",
+                "last_commit": "2026-11-26T08:01:39Z",
                 "open_issues": 0,
                 "owner": "JasonKyng",
                 "repo": "NAGL",
                 "stars": 91,
-                "topics": []
+                "topics": [
+                  "anomaly-detection",
+                  "generalist-model",
+                  "normal-abnormal"
+                ]
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
             },
@@ -2658,7 +2662,7 @@
                 "open_issues": 45,
                 "owner": "luow23",
                 "repo": "INP-Former",
-                "stars": 335,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -3127,11 +3131,11 @@
             "id": 423775360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T14:29:27Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-26T12:38:51Z",
+            "open_issues": 107,
             "owner": "open-edge-platform",
             "repo": "anomalib",
-            "stars": 6430,
+            "stars": 6434,
             "topics": [
               "anomaly-detection",
               "anomaly-localization",
@@ -3156,11 +3160,11 @@
             "id": 432902512,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-12-01T10:40:18Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-26T13:39:37Z",
+            "open_issues": 30,
             "owner": "Jingkang50",
             "repo": "OpenOOD",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "anomaly-detection",
               "novelty-detection",
@@ -4117,7 +4121,7 @@
                     "open_issues": 84,
                     "owner": "amazon-science",
                     "repo": "patchcore-inspection",
-                    "stars": 1456,
+                    "stars": 1457,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4409,7 +4413,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1155,
+                    "stars": 1156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -4701,7 +4705,7 @@
                     "id": 1391606682,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-13T05:53:41Z",
+                    "last_commit": "2026-11-26T02:43:23Z",
                     "open_issues": 1,
                     "owner": "barraki72268-sketch",
                     "repo": "TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization",
@@ -5792,7 +5796,7 @@
                     "open_issues": 12,
                     "owner": "caoyunkang",
                     "repo": "Segment-Any-Anomaly",
-                    "stars": 838,
+                    "stars": 837,
                     "topics": [
                       "anomaly-detection",
                       "foundation",
@@ -5838,7 +5842,7 @@
                     "open_issues": 33,
                     "owner": "xrli-U",
                     "repo": "MuSc",
-                    "stars": 436,
+                    "stars": 437,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -6181,6 +6185,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [2025]",
+                  "description": "Alireza99Salehi/Crane",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[BMVC 2026] Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection",
+                    "homepage": "https://arxiv.org/abs/2504.11055",
+                    "id": 950425402,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-22T16:34:56Z",
+                    "open_issues": 0,
+                    "owner": "Alireza99Salehi",
+                    "repo": "Crane",
+                    "stars": 38,
+                    "topics": [
+                      "anomaly-detection",
+                      "clip",
+                      "dino",
+                      "vision-language-model",
+                      "zero-shot"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T17:30:13.771Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation [ACM MM 2025]",
                   "description": "Faustinaqq/AF-CLIP",
                   "children": [],
@@ -6197,33 +6228,6 @@
                     "repo": "AF-CLIP",
                     "stars": 38,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:30:13.771Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [2025]",
-                  "description": "Alireza99Salehi/Crane",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[BMVC 2026] Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection",
-                    "homepage": "https://arxiv.org/abs/2504.11055",
-                    "id": 950425402,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-11-22T16:34:56Z",
-                    "open_issues": 0,
-                    "owner": "Alireza99Salehi",
-                    "repo": "Crane",
-                    "stars": 37,
-                    "topics": [
-                      "anomaly-detection",
-                      "clip",
-                      "dino",
-                      "vision-language-model",
-                      "zero-shot"
-                    ]
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
                 },
@@ -6285,7 +6289,7 @@
                     "open_issues": 1,
                     "owner": "evoLonation",
                     "repo": "DeMuS",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-09-20T09:52:50.611Z"
@@ -6313,7 +6317,7 @@
                     "open_issues": 61,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "AnomalyGPT",
-                    "stars": 1155,
+                    "stars": 1156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7012,7 +7016,7 @@
                 "open_issues": 2,
                 "owner": "SpatialAILab",
                 "repo": "FUNAD",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -7342,7 +7346,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2026-03-26T02:19:20Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "echrao",
                 "repo": "O2MAG",
                 "stars": 90,
@@ -8178,7 +8182,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-22T01:18:02Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "wistful-8029",
                 "repo": "BTP-3DAD",
                 "stars": 25,
@@ -8928,12 +8932,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
-                "homepage": null,
+                "description": "[ECCV 2026] Official Code of: \"ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection\"",
+                "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10303.pdf",
                 "id": 1280980676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-17T13:16:43Z",
+                "last_commit": "2026-11-26T14:10:07Z",
                 "open_issues": 1,
                 "owner": "CLendering",
                 "repo": "ReFP-AD",
@@ -9367,7 +9371,7 @@
                 "open_issues": 61,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "AnomalyGPT",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9388,7 +9392,7 @@
                 "open_issues": 2,
                 "owner": "jam-cc",
                 "repo": "MMAD",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9561,10 +9565,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-23T14:46:19Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "chenpeng052",
                 "repo": "Reason-IAD",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:13.771Z"
@@ -9908,7 +9912,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10072,7 +10076,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 278,
+            "stars": 279,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10114,7 +10118,7 @@
             "open_issues": 9,
             "owner": "tangsanli5201",
             "repo": "DeepPCB",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10156,7 +10160,7 @@
             "open_issues": 5,
             "owner": "InsulatorData",
             "repo": "InsulatorDataSet",
-            "stars": 366,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10177,7 +10181,7 @@
             "open_issues": 2,
             "owner": "jam-cc",
             "repo": "MMAD",
-            "stars": 280,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10198,7 +10202,7 @@
             "open_issues": 4,
             "owner": "amazon-science",
             "repo": "spot-diff",
-            "stars": 278,
+            "stars": 279,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:13.771Z"
@@ -10240,7 +10244,7 @@
             "open_issues": 0,
             "owner": "andreluizbvs",
             "repo": "InsPLAD",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -10874,7 +10878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:48:41.378Z",
+    "last_updated": "2026-11-26T15:28:51.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。",
@@ -10886,7 +10890,7 @@
       "open_issues": 1,
       "owner": "M-3LAB",
       "repo": "awesome-industrial-anomaly-detection",
-      "stars": 3871,
+      "stars": 3870,
       "topics": [
         "anomaly-detection",
         "anomaly-segmentation",
